@@ -56,6 +56,15 @@ A strong submission has all of these:
 
 Good stories usually make the human–AI cooperation and the real-world consequence visible without the submitter having to explain why they matter.
 
+A recurring structure in these stories is:
+
+human will exists
+→ something blocks effective action
+→ AI supplies missing cognition, language, confidence, navigation, awareness ...
+→ human agency becomes executable
+
+That blocker may be disability, panic, isolation, bureaucratic opacity, improper or incapable assistance, improper or incapable service, misunderstandings, missing expertise, poverty, language, or simply nobody being available at the right moment.
+
 ## What does not belong
 
 - Generic claims that AI improves productivity.
