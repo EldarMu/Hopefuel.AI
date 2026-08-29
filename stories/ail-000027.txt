@@ -1,0 +1,9 @@
+https://www.reddit.com/r/ClaudeAI/comments/1gujmms/comment/lxxw26n/
+@Jacmac_
+I got help from Claude fixing my Jeep. I was having some crazy hesitation and stuttering, which I was afraid was the transmission. Claude suggested a cheap diagnostic sensor, which I bought from Amazon, then told me where to plug it in. I got sensor data showing that it was having misfires on a few cylinders, and Claude assured me that the likely source of the problem was the spark plugs. I wasn't at all sure of about this, but it saved me from a trip to the repair place to diagnose and fix it.
+
+After I put in new plugs, the problem went away.
+#date
+2024-11
+#tags
+daily-life, Claude
