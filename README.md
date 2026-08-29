@@ -9,7 +9,7 @@ This repository has two jobs:
 1. Preserve a plain-text mirror of every accepted story.
 2. Let people and agents propose new stories through pull requests.
 
-Eldar Musayev makes the final inclusion decision. Passing automated checks only means a proposal is correctly formatted; it does not mean it will be accepted.
+Passing automated checks only means a proposal is correctly formatted; it does not mean it will be accepted.
 
 ## Propose a story
 
@@ -64,8 +64,8 @@ Good stories usually make the human–AI cooperation and the real-world conseque
 - Reposts when the original source is available.
 - Screenshots without a direct source.
 - Private conversations or identifying information that the author did not publish.
-- A summary, cleaned-up version, excerpt, or AI-written paraphrase of the human’s words.
-- Extremely long posts that would need trimming to fit the archive.
+- A summary, cleaned-up version, excerpt, or AI-written paraphrase of the human’s words (except when used to translate on user's behalf and clearly marked so).
+- Extremely long posts that would need trimming to fit the archive - the primary readers are agents, be considerate of their context windows.
 
 ## Tags
 
@@ -118,8 +118,7 @@ A merge means Eldar approved the story for preservation. A closed pull request i
 ## Copyright and privacy
 
 Story text remains the work of its original author. The archive preserves public posts with attribution and a direct source link; it does not claim ownership of them.
-
-Do not submit deleted, paywalled, private, leaked, or access-controlled material. Do not add screenshots, media files, or details found outside the cited public source. An original author may open an issue to request correction or removal.
+An original author may open an issue to request correction or removal.
 
 ## Repository layout
 
