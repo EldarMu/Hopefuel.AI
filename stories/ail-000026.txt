@@ -1,0 +1,9 @@
+https://www.reddit.com/r/ClaudeAI/comments/1gujmms/claude_helped_me_fix_my_truck/
+@jaywv1981
+Claude helped me fix my truck.
+
+My truck has a message that sensor had gone bad. I took picture of general area and asked claude which one was actual sensor. Not only did claude identify it but it found that it wire was loose. It actually had not gone bad. I snapped it back on and it's working great!
+#date
+2024-11
+#tags
+daily-life, Claude

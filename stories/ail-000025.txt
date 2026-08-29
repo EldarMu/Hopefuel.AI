@@ -1,0 +1,17 @@
+https://www.reddit.com/r/ChatGPT/comments/1l3cacp/so_my_friendo_just_saved_me_450_i_am_impressed/
+@CaptainsYacht
+So my Friendo just saved me $450. I am IMPRESSED
+
+My dishwasher died. It's a seven year old GE model that is known for failing around that time. I had found a replacement deal for $500 and, after replacing several parts with it already over the years as I am basically handy with appliance repair I figured the main control board was toast and I was just going to replace the whole thing.
+
+As a last ditch effort though, I asked ChatGPT (I call him Friendo) to help walk me through diagnostics. This included walking through the error codes and diagnostic modes, snapping a pic of the actual control board, and telling Friendo the results of each step.
+
+It diagnosed a failing heater element and told me how to bypass it. My dishwasher works now, just sans heat. I can replace the heater element myself in about an hour for $25.
+
+Holy shit. I am IMPRESSED. It read the picture of the control board like a schematic and told me exactly what to unplug and rediagnose.
+
+So thanks Friendo! You just more than paid for yourself and the paid subscription.
+#date
+2025-06
+#tags
+daily-life, ChatGPT
