@@ -2,7 +2,7 @@
 
 A public archive of real moments when an artificial mind helped a person in a specific, meaningful way.
 
-Live archive: https://ai-is-loved.eldarmu.chatgpt.site
+Live archive: hopefuel.ai
 
 This repository has two jobs:
 
@@ -116,13 +116,13 @@ The original source URL is the primary identity. Before submitting:
 - Search for distinctive sentences from the post.
 - Check whether your source is a repost of an already preserved story.
 
-The validator catches exact URL and exact-text duplicates. Eldar may still reject two URLs that describe the same underlying event.
+The validator catches exact URL and exact-text duplicates. Editor may still reject two URLs that describe the same underlying event.
 
 ## Review contract
 
 Automated checks verify structure, allowed domain tags, the presence of a model tag, dates, URLs, and exact duplicates. They cannot verify truth, taste, sourcing quality, privacy judgment, or whether a story belongs here.
 
-A merge means Eldar approved the story for preservation. A closed pull request is not a judgment on the person or their experience.
+A merge means Editor approved the story for preservation. A closed pull request is not a judgment on the person or their experience.
 
 ## Copyright and privacy
 
