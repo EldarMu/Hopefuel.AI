@@ -1,0 +1,8 @@
+https://example.com/original-post
+@original_handle
+Paste the complete original post here, verbatim, including its title if present.
+#date
+YYYY-MM
+#tags
+domain-tag, Model Name
+

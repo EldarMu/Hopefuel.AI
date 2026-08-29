@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ChatGPT/comments/1uahhpq/comment/ospacs4
+@Virtual_Variation_80
+Saved my wife's ear. 
+
+She had Perichondritis. Misdiagnosed as cellulitis, as is extremely common. When the antibiotics didn't seem to make any impact after two days, I described the situation, took a picure of her ear and asked for what could be happening. It offered it a few alternatives but correctly identified the most likely being perichondritis, found pictures of early infections, found research papers describing the common misdiagnosis, and found ENT docs that could take emergency consults. When it gave me links to pictures of infections and they were visually identical to her ear, I knew it had something and called the ENT. All total, took about 15-20 minutes.
+
+The ENT confirmed the diagnosis immediately and got her on the right antibiotics. Also told her the last few cases they'd been consulted on, they'd finished the original antibiotics to no effect and required IV antibiotics and a surgical reconstruction of the earlobe - she was lucky that they were able to intervene earlier. 
+
+Is it a substitute for a medical doctor? No. It is a hell of a multiplier on what information you can give your doctor? Absolutely yes.
+#date
+2026-06
+#tags
+health, family-and-relationships, ChatGPT

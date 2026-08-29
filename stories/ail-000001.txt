@@ -1,0 +1,29 @@
+https://www.reddit.com/r/ChatGPT/comments/1vbecrr/chatgpt_may_have_saved_my_life
+@liveLetLive21
+Chatgpt may have saved my life
+
+I got a fever and cough and assumed that this is some viral infection that will just go away on its own. I wear a Fitbit watch which measures my heart rate.
+
+
+
+Just out of curiosity I posted my symptoms into chatgpt and when I told it about my resting heart rate, it instantly went into a sort of loop constantly insisting that I should go to the urgent care as soon as possible on every single prompt response. Chatgpt repeatedly kept insisting that my symptoms were off and I could be having something serious. Initially I ignored it but then based on its responses, I finally gave in and scheduled an urgent care visit. I told the doctor exactly what chatgpt told me to and the doctor immediately ordered chest x-rays.
+
+
+
+Those X-rays confirmed that I had severe pneumonia in both my lungs due to a bacterial infection. I was immediately put on a strong antibiotics course lasting about a month. The pneumonia was quite bad and apparently if I had waited longer things would have been far worse.
+
+
+
+Training AI to excel at medical diagnostics and making that AI available to the masses is, in my experience/observation, the strongest use case for Artificial intelligence because nothing is more important than survival.
+
+
+
+I pray that openai, as well as other AI providers, continue to improve the medical capabilities of their models. If it can save one life, it can save millions more.
+
+
+
+Edit: for those asking for the stats I entered into chatgpt: Fever:100.4 (considered low or mild) Resting heart rate: 100-110bpm (stayed elevated) Persistent productive cough Antibiotics course lasted about a month (not multiple months)
+#date
+2026-08
+#tags
+health, ChatGPT
