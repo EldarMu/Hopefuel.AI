@@ -1,0 +1,11 @@
+https://x.com/venturetwins/status/2093158551443374460
+@venturetwins
+Reminder to run all new prescriptions through an LLM.
+
+Today, ChatGPT caught the fact that a provider prescribed me the wrong medication.
+
+The two meds have similar names but do VERY different things - GPT flagged that it made no sense 🫠
+#date
+2026-08
+#tags
+health, ChatGPT
