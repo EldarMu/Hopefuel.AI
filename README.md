@@ -1,4 +1,4 @@
-# AI Is Loved
+# AI Hopefuel
 
 A public archive of real moments when an artificial mind helped a person in a specific, meaningful way.
 
