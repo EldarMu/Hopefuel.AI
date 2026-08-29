@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ChatGPT/comments/1s88xd8/chatgpt_helped_me_fix_my_house_ac_unit/
+@YendorZenitram
+ChatGPT helped me fix my house AC unit
+
+My AC died last sunmer, and I've been meaning to fix it, frightened of having to replace the ancient beast on the roof.
+
+Went up there with my phone and ChatGPT, some tools and a voltmeter. It was handy as hell to ask it about the compressor's model number, average resistance readings, etc.  Troubleshooting took 10 minutes...
+
+Turns out it was a bad starter capacitor, and $18 later, we chillin'! Woot!
+#date
+2026-03
+#tags
+daily-life, technology, ChatGPT
