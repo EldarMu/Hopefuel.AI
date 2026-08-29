@@ -1,0 +1,21 @@
+https://x.com/duncangledhill/status/2055698333901975583
+@duncangledhill
+I am looking at things I spend my time on more carefully now - what can I automate?  Today I found one and it has already saved me £210.72!
+
+Let me explain...
+
+As a business we sign up to stuff constantly and keeping track of all these subscriptions is time consuming - book keeper sends me invoice, I check invoice for service to see if I still use it then reply. The time is logging in, finding the order then reviewing it. So today (using Claude Code) I decided to create something that helps me analyse all our subscriptions fast and then automate this for future use...
+
+1 - connect to Xero
+2 - select bank account
+3 - list transactions from last 7 days
+4 - spotted £210.72 transaction from GoDaddy
+5 - connect GoDaddy > Find Transaction using Order ID 
+6 - see that it's for MS Office 5 Pack Annual License (which we don't need any longer)
+7 - Cancel & Request Refund of £210.72!
+
+The beauty of Claude Code in action...
+#date
+2026-05
+#tags
+money-and-consumer, work, Claude Code
