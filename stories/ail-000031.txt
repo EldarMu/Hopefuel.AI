@@ -1,0 +1,31 @@
+https://www.reddit.com/r/ChatGPT/comments/1fodq3r/chatgpt_allowed_me_to_sue_my_landlord_without/
+@MonkeyIncidentOf93
+ChatGPT allowed me to sue my landlord without needing legal representation!
+
+Yes, I know what many of your first thoughts will be - that this is risky, not a replacement for a lawyer, etc. But please, hear me out.
+
+My former landlord fraudulently deducted over $600 from our deposit upon moveout. I wanted to fight for this back but had very little ammunition - lack of detailed pictures from before move in, etc. I knew it would be an uphill battle.
+
+I gave my lease agreement to chatgpt and asked it if there was anything I could use to help myself. It immediately identified that the landlord had violated a specific law that was passed in 2019 in my locality that prohibits charging more than one month's rent as a deposit. It cited the specific legal text and linked me to a source that confirmed it was true, and it showed me that the damages I'm entitled to are the entire deposit back plus up to 2x the deposit in punitive damages. Given that he has already admitted in writing that he broke the law and still refuses to give the deposit back, I have confidence that the judge will award me a favorable judgment. I only wanted the $600 back, but now I stand to gain $4k from this small claims lawsuit.
+
+It has also been extremely helpful it helping me understand court procedure, how to prepare and organize my case, and how to protect myself against a retaliatory and baseless $5k counterclaim the landlord has decided to file against me in response.
+
+In short - best $20 I've ever spent.
+
+Edit - because people keep asking, this is what ChatGPT directed me to:
+
+https://www.nysenate.gov/legislation/laws/GOB/7-108
+
+"No deposit or advance shall exceed the amount of one month's rent,"
+
+"Any person who violates the provisions of this subdivision shall be liable for actual damages, provided a person found to have willfully violated this subdivision shall be liable for punitive damages of up to twice the amount of the deposit or advance."
+
+The initial hearing is tomorrow, but I believe it will be adjourned. I will update as soon as I can.
+
+Edit: An adjournment was granted. Will post an update in October.
+
+Edit 2: Massive success in court. Will be posting an update soon. Have not gotten the judgment in the mail yet but it's looking very very good.
+#date
+2024-09
+#tags
+law-and-bureaucracy, money-and-consumer, ChatGPT
