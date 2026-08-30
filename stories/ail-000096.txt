@@ -1,0 +1,13 @@
+https://www.reddit.com/r/AgingParents/comments/1o8m2kp/glad_i_read_it_first_caught_a_clause_in_the/
+@Maple_Creek_04
+I said I needed a minute to use the restroom, went into the hallway, and scanned the contract with my phone.
+
+We were in the intake office of an assisted living facility with my mother sitting in a wheelchair next to me. The admissions coordinator was turning pages, putting little yellow sticky flags where I needed to initial, and repeating that this was just standard boilerplate state-mandated paperwork.
+
+I felt rushed and cornered, but something in the financial guaranty section looked off. In the bathroom stall, I took pictures of the signature packet and pasted the text into Claude, asking what liabilities I was personally assuming as power of attorney versus as an individual guarantor.
+
+It caught a hidden clause that made me personally liable as a third-party guarantor for all room-and-board arrears if Medicaid pending status was delayed, which is illegal under federal nursing home regulations but frequently slipped into private admission packets. I walked back into the office, calmly refused to sign as an individual guarantor, crossed out that clause with my initials, and signed solely as my mother's POA representative.
+#date
+2025-11
+#tags
+money-and-consumer, law-and-bureaucracy, Claude

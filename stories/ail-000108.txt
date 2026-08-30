@@ -1,0 +1,13 @@
+https://www.reddit.com/r/CaregiverSupport/comments/1y2n4zz/i_didnt_know_what_a_5150_was_it_told_me_not_to/
+@SisterInCrisis_9
+My 21-year-old brother came home from college last week, stopped sleeping entirely, covered the apartment mirrors with aluminum foil, and began insisting that our neighbors were monitoring our wifi to send coded radio signals into his room.
+
+Our family has zero history of psychiatric illness. My parents were crying and trying to argue with him, yelling that his claims were logically impossible, which only made him terrified, aggressive, and convinced that our parents were in on the conspiracy. We were completely lost and had no vocabulary for what was happening.
+
+I opened ChatGPT on my phone in the bathroom and asked: "My brother is in an acute paranoid delusion. What is happening and how do we safely de-escalate without escalating violence or traumatizing him?"
+
+It walked me through the core principles of de-escalating first-episode psychosis: validating the underlying fear without validating the delusion ("I can see how terrifying that feels to you, you are safe here with me"), keeping voices low, avoiding direct debate, and explaining the medical definitions and legal thresholds of an involuntary psychiatric evaluation hold (5150). It kept us steady until mobile crisis arrived and got him admitted safely to the hospital.
+#date
+2026-08
+#tags
+mental-health, family-and-relationships, ChatGPT

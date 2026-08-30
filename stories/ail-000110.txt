@@ -1,0 +1,15 @@
+https://www.reddit.com/r/Welding/comments/1k4q9tt/i_finally_understood_what_the_sds_actually_said/
+@IronWorker_Local63
+For three months our shop has been using a new chemical cleaning solvent to strip heavy grease before weld prep in an enclosed bay with zero localized exhaust ventilation.
+
+A bunch of us started getting persistent throat irritation, dizzy spells after lunch, and dry coughing fits. When we asked the shop supervisor, he pointed to the 16-page Safety Data Sheet (SDS) hung on the wall and told us: "It's OSHA compliant, says right there it's low VOC, stop whining and put a fan on."
+
+Nobody on the floor has a background in industrial toxicology to parse Section 8 exposure limits and chemical abbreviations. I took pictures of the entire SDS packet and uploaded them to ChatGPT.
+
+It pointed out that while the mixture was low VOC, Section 8 mandated organic vapor respirators with NIOSH-approved P100 filters and explicit local capture ventilation when heated or sprayed, due to high concentrations of cyclohexanone and mineral spirits. It drafted a formal, referenced safety concern letter citing 29 CFR 1910.134.
+
+I submitted the letter in writing to our safety committee. Management had to bring in an industrial hygienist to test the air, and by the end of the week, bay ventilation hoods and supplied respirators were installed.
+#date
+2026-04
+#tags
+work, health, law-and-bureaucracy, ChatGPT
