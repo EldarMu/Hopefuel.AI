@@ -1,13 +1,7 @@
-https://www.reddit.com/r/AgingParents/comments/1n3x9ka/i_dumped_three_years_of_statements_in_and_it/
-@Midwest_Caregiver_55
-My 82-year-old mother with early-stage vascular dementia has had an in-home companion for the past eighteen months. Mom kept complaining that her checking balance seemed low, but whenever I glanced at her monthly bank PDF, it just looked like normal grocery runs, pharmacy trips, and gas station charges.
-
-Nobody has time to manually cross-reference 400 pages of bank transactions and utility bills spanning three years across two different banks.
-
-I exported all 36 monthly CSVs and PDF statements and dumped them into ChatGPT's Advanced Data Analysis tool. I prompted: "Analyze these transactions for recurring anomalies, micro-charges just under $100, off-hour ATM withdrawals, and duplicate grocery runs within a 48-hour window."
-
-In under two minutes, it found the pattern. The caregiver had been making duplicate $75-$95 cashback withdrawals at a local grocery store three times a week, always thirty minutes before her shift ended, totaling over $14,000 across sixteen months. I took the generated summary spreadsheet straight to our elder law attorney and the local adult protective services unit.
+https://www.reddit.com/r/ChatGPT/comments/1fsna89/advanced_voice_mode_is_amazing/
+@EternityRites
+I do some Twitch streaming and have a mic permanently on an arm to my right. It's high and out the way most of the time, but sensitive. If I connect my phone to my PC via Bluetooth, I can literally just talk at my computer using AVM and it will respond out the speakers. It's totally like something out of 2001: A Space Odyssey. I use it as a copilot in Elite Dangerous. I just talk to it and it talks back, gives me advice on space flying, guidance on the galaxy etc.
 #date
-2025-12
+2024-09
 #tags
-money-and-consumer, family-and-relationships, law-and-bureaucracy, ChatGPT
+creative-work, daily-life, ChatGPT

@@ -1,13 +1,7 @@
-https://www.reddit.com/r/electricians/comments/1w3n2tt/ive_been_asking_my_wife_to_check_for_20_years/
-@Sparks_and_Rebar
-I've been a low-voltage technician for nearly twenty years and I'm moderately red-green colorblind (deuteranopia).
-
-For my entire career, I've had to rely on memorizing physical striping patterns, keeping good lighting, asking apprentices or coworkers "hey double-check this pair for me," or taking photos of tricky multicore bundles and texting them home to my wife to tell me which conductor was orange vs green. When you're up on a scissor lift in a half-lit warehouse, asking someone else every fifteen minutes gets humiliating fast.
-
-Now with real-time vision on my phone in a chest pocket mount, I point the camera at the 25-pair telco bundle or the terminal block and ask: "Read out the color tracer on terminal 4 and 6."
-
-It names the exact color code, base, and stripe instantly without guessing. I finally know which wire is which on the first try without relying on someone else to cover for my eyes.
+https://www.reddit.com/r/Blind/comments/1jopyy3/about_chatgpt/
+@blind_ninja_guy
+I've used a web browser with Google's AI studio to identify that there was an ambulance and police officers in an area near my apartment complex from my balcony. I've also pointed it around while doing things for entertainment value. For example, I might be willing to point it at the sky and ask if the weather is cloudy, which direction the clouds are coming from assuming that I am facing west, etc.
 #date
-2026-08
+2025-03
 #tags
-accessibility, daily-life, work, AI
+accessibility, daily-life, Gemini

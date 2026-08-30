@@ -1,15 +1,9 @@
-https://www.reddit.com/r/Welding/comments/1k4q9tt/i_finally_understood_what_the_sds_actually_said/
-@IronWorker_Local63
-For three months our shop has been using a new chemical cleaning solvent to strip heavy grease before weld prep in an enclosed bay with zero localized exhaust ventilation.
-
-A bunch of us started getting persistent throat irritation, dizzy spells after lunch, and dry coughing fits. When we asked the shop supervisor, he pointed to the 16-page Safety Data Sheet (SDS) hung on the wall and told us: "It's OSHA compliant, says right there it's low VOC, stop whining and put a fan on."
-
-Nobody on the floor has a background in industrial toxicology to parse Section 8 exposure limits and chemical abbreviations. I took pictures of the entire SDS packet and uploaded them to ChatGPT.
-
-It pointed out that while the mixture was low VOC, Section 8 mandated organic vapor respirators with NIOSH-approved P100 filters and explicit local capture ventilation when heated or sprayed, due to high concentrations of cyclohexanone and mineral spirits. It drafted a formal, referenced safety concern letter citing 29 CFR 1910.134.
-
-I submitted the letter in writing to our safety committee. Management had to bring in an industrial hygienist to test the air, and by the end of the week, bay ventilation hoods and supplied respirators were installed.
+https://x.com/clairevo/status/2076802367626924500
+@clairevo
+My sweet 95 year old grandmother passed this week, and I’m home to help my mama and be with family.Know what happens when someone dies?A lot of thankless emotional labor. Guess what will happily and diligently do emotional labor?AI.My mom has 1200 (!!!) photos of my grandmother, from her 10 children and 30 grandchildren, for the memorial: I was able to deduplicate, crop and clean, tag by date and occasion, make a mini approval webapp, and turn into a hyperframe slideshow all with codex.Computer use took a messy apple notes doc of favorite songs and turned it into a looping playlist for the reception. Voice mode chatgpt to help mom match snippets of verses from memory with the right bible passages for the mass.Cleaning up old photos, making sure the obit is in the right format, designing a program, ordering flowers, all these little things that would fall—let’s be honest—to the women in the family are made a little lighter with these tools.There’s probably someone out there who would say there’s some inherent virtue in the sorting, organizing, managing, researching, that the tedium is the point, that I’m an automaton monster for figuring out an easier way.But guess what? My mom’s going to get more sleep tonight and the week’s going to be more connected and less stressful for everyone.I call that a win. AI for the home!
+AI for the family!
+AI when you need a break
 #date
-2026-04
+2026-07
 #tags
-work, health, law-and-bureaucracy, ChatGPT
+family-and-relationships, daily-life, ChatGPT

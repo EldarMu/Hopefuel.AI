@@ -1,23 +1,7 @@
-https://www.reddit.com/r/Autism_Parenting/comments/1kax9w3/how_ai_gave_my_nonverbal_autistic_son_a_voice/
-@Worldly_Vermicelli_9
-How AI Gave My Non-Verbal Autistic Son a Voice
-
-I wanted to share something that made a real difference for my family.
-
-My son, Phillip, is in his mid-twenties, autistic, and barely verbal. He understands the world around him well but can’t really form full sentences, and reading is very limited. For years, communication was mostly through routines and guesses — a lot of love, but a lot of uncertainty too.
-
-A few weeks ago, I started experimenting with the new ChatGPT-o3 model. I asked it to create simple, cartoon-style images showing different choices (like staying home, swinging at the park, going for a walk). When I showed my son the picture, he immediately pointed to the swing — happily and decisively.
-
-It was the clearest communication we've had in years.
-
-Since then, we’ve used it for meals, daily activities, even understanding how he’s feeling. It’s like having an infinite, customizable PECS system, but instantly created for whatever choice or situation we’re facing.
-
-I wrote up the full story here if it helps anyone else going through the same challenges:
-
-Non-Verbal Communication
-
-I'm happy to answer questions if anyone wants to know how I set it up, what prompts I use, or what worked best for us.
+https://x.com/EllieGAnders/status/2093417537983709580
+@EllieGAnders
+I found this print is my grandmother's things and wanted to know more about it. I asked Grok which gave a very broad answer that it's possibly the midwest. ChatGPT was far more specific and gave me possible towns and even named what each building might be, including specific church names.
 #date
-2025-04
+2026-08
 #tags
-accessibility, family-and-relationships, ChatGPT
+family-and-relationships, ChatGPT, Grok

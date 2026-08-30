@@ -1,13 +1,13 @@
-https://www.reddit.com/r/Petloss/comments/1s2k9lm/it_walked_me_through_the_scale_at_2am/
-@Barnaby_Mutt_Dad
-It was 2:30 in the morning and I was sitting on the floor with Buster, watching his breathing and crying because I couldn't tell if keeping him comfortable for another week was for him or for me.
+https://www.reddit.com/r/ClaudeAI/comments/1s9225a/i_am_fully_blind_and_this_is_why_claude_is/
+@blind_consultant
+I am fully blind, and this is why Claude is changing my life.
 
-When your dog has degenerative myelopathy and congestive heart failure, every single day is a calculation. The vet gave me the HHHHHMM Quality of Life scale months ago, but when you're exhausted and terrified of making the final appointment too early or too late, the numbers on a PDF mean nothing.
+So, I want to tell you about my experience with Claude. Firstly, I am fully blind. i am telling you this because this is the main reason why Ai has such an incredible impact on my life. My professional life has been as an IT consultant for blind and visually impaired people, as well as a consultant on digital accessibility for large organizations.
 
-I opened a chat window and started describing everything: how many times he tried to stand today, whether he took his liver treat, the way his eyes looked, how he couldn't get up to greet the mail carrier. I asked it to walk through each criteria of the scale with me one by one like an objective friend.
+I run a small consultancy business. I can build small apps and programs that really help me. An example, a price calculator. Before: customer sends a request for a 3d print, I have to open the file in a completely inaccessible slicer to get the different values I need to calculate an offer, then type the values into excel, read the results, and try to create an offer using Word.
 
-It didn't give me a cold clinical answer, and it didn't push me to end it prematurely. It helped me realize that Buster had lost the ability to do the four things that made him feel like a dog, and that letting him go on a calm Tuesday afternoon at home was an act of protection, not abandonment. I needed someone to tell me I wasn't giving up on him. The mobile vet is coming tomorrow at 10.
+From image description to document creation, coding and app development, using Claude code along with agents, Claude is giving me every day independence like I could only dream about.
 #date
-2026-05
+2026-01
 #tags
-animals-and-nature, family-and-relationships, AI
+accessibility, work, technology, Claude

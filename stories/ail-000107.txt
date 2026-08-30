@@ -1,13 +1,7 @@
-https://www.reddit.com/r/foraging/comments/1i3p9xx/it_told_me_to_go_to_the_er_for_the_bullseye_and/
-@TrailRunner_PNW
-I was doing field clearing on our property in rural Pennsylvania two weeks ago and noticed a small red welt on the back of my thigh. It didn't itch, but within three days it had expanded into an irregular reddish oval with faint clearing in the middle.
-
-I almost put hydrocortisone on it and ignored it, thinking it was just a regular spider or horsefly bite. But before blowing it off, I uploaded a high-res photo to Gemini along with a description of the rapid margin expansion, lack of localized itching, and a mild stiff neck.
-
-It immediately flagged that this presentation strongly suggested an expanding Erythema Migrans (EM) rash characteristic of acute Lyme disease, and emphasized that waiting for standard serology antibodies would delay critical early-stage treatment. It told me to go straight to urgent care/ER to request an immediate prophylactic course of Doxycycline.
-
-The urgent care doctor confirmed the clinical diagnosis, started me on a 21-day antibiotic regimen immediately, and said catching it before dissemination saved me from severe systemic complications. It said not to wait, and I'm glad I listened.
+https://www.reddit.com/r/sysadmin/comments/1nvtfnh/does_the_use_of_ai_make_me_a_shitty_professional/
+@CluelessFlunky
+For the first time in my career, I'm working in an environment with no training wheels. There's limited support for complex issues and no real backup. I've also fully transitioned away from end-user support and now work strictly on infrastructure. At the beginning, I was really struggling to understand certain things. And really had no one to ask, So I decided to use ChatGPT to help me work through a specific issue and it honestly opened my eyes. It's allowed me to say “Hey, I'm thinking of approaching this issue like this, what do you think?”. Which I can't always do with a person.
 #date
 2025-08
 #tags
-health, animals-and-nature, daily-life, Gemini
+work, technology, ChatGPT

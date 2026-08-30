@@ -1,13 +1,7 @@
-https://www.reddit.com/r/CaliforniaWildfires/comments/1p4x8ww/we_left_at_11pm_because_of_what_it_said_about_the/
-@Ridgecrest_Local
-When the mountain fire sparked across the ridge on Tuesday afternoon, the official county alerts were just saying "advisory status - monitor local channels."
-
-Evacuating our small ranch with three horse trailers, elderly dogs, and our entire life is an expensive, grueling ordeal that you don't want to do unnecessarily. But waiting until a mandatory sheriff knock at 3am means you get trapped on a single-lane mountain road in thick smoke.
-
-I started feeding raw wildfire perimeter shapefiles, local meteorological wind gust forecasts, and topographical ridge data into Claude. I asked it to analyze the wind vector shift predicted for 1:00 AM combined with the canyon draw slope.
-
-It explained how the downslope thermal winds would channel the fire straight through our valley saddle hours before the front was projected on the county map. We loaded the trailers and left at 11pm because of what it explained about the wind shift. At 2:30 AM, the mandatory evacuation was ordered, the main road was gridlocked, and our ridge took direct spot fires thirty minutes later. We got out safely because the data was made clear in time.
+https://x.com/awilkinson/status/1857477769489428874
+@awilkinson
+Just watched my 5-year-old son chat with ChatGPT advanced voice mode for over 45 minutes.It started with a question about how cars were made. It explained it in a way that he could understand.He started peppering it with questions. Then he told it about his teacher, and that he was learning to count.ChatGPT started quizzing him on counting, and egging him on, making it into a game. He was laughing and having a blast, and it (obviously) never lost patience with him.I think this is going to be revolutionary. The essentially free, infinitely patient, super genius teacher that calibrates itself perfectly to your kid's learning style and pace. Excited about the future.
 #date
-2025-10
+2024-11
 #tags
-daily-life, family-and-relationships, Claude
+education, family-and-relationships, ChatGPT

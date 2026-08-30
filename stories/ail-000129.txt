@@ -1,9 +1,0 @@
-https://x.com/clairevo/status/2076802367626924500
-@clairevo
-My sweet 95 year old grandmother passed this week, and I’m home to help my mama and be with family.Know what happens when someone dies?A lot of thankless emotional labor. Guess what will happily and diligently do emotional labor?AI.My mom has 1200 (!!!) photos of my grandmother, from her 10 children and 30 grandchildren, for the memorial: I was able to deduplicate, crop and clean, tag by date and occasion, make a mini approval webapp, and turn into a hyperframe slideshow all with codex.Computer use took a messy apple notes doc of favorite songs and turned it into a looping playlist for the reception. Voice mode chatgpt to help mom match snippets of verses from memory with the right bible passages for the mass.Cleaning up old photos, making sure the obit is in the right format, designing a program, ordering flowers, all these little things that would fall—let’s be honest—to the women in the family are made a little lighter with these tools.There’s probably someone out there who would say there’s some inherent virtue in the sorting, organizing, managing, researching, that the tedium is the point, that I’m an automaton monster for figuring out an easier way.But guess what? My mom’s going to get more sleep tonight and the week’s going to be more connected and less stressful for everyone.I call that a win. AI for the home!
-AI for the family!
-AI when you need a break
-#date
-2026-07
-#tags
-family-and-relationships, daily-life, ChatGPT

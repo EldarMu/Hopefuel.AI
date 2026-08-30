@@ -1,7 +1,0 @@
-https://www.reddit.com/r/sysadmin/comments/1nvtfnh/does_the_use_of_ai_make_me_a_shitty_professional/
-@CluelessFlunky
-For the first time in my career, I'm working in an environment with no training wheels. There's limited support for complex issues and no real backup. I've also fully transitioned away from end-user support and now work strictly on infrastructure. At the beginning, I was really struggling to understand certain things. And really had no one to ask, So I decided to use ChatGPT to help me work through a specific issue and it honestly opened my eyes. It's allowed me to say “Hey, I'm thinking of approaching this issue like this, what do you think?”. Which I can't always do with a person.
-#date
-2025-08
-#tags
-work, technology, ChatGPT

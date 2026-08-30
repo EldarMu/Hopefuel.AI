@@ -1,13 +1,13 @@
-https://www.reddit.com/r/NewParents/comments/1q8w7ty/it_was_4am_and_everyone_was_asleep/
-@TiredMama_902
-It was 4am and everyone was asleep, and I was on hour three of cluster-feeding while sobbing silently so I wouldn't wake my partner.
+https://www.reddit.com/r/ChatGPT/comments/1jbtmuy/i_used_chatgpt_to_give_my_brother_a_voice_more/
+@Ben_brother
+I used ChatGPT to give my brother a voice
 
-Postpartum is full of these invisible hours where you are entirely awake, holding a human that will not stop rooting and crying, and you feel like the only person on the planet. You can't call your mom at 4:15am to ask if it's normal for a nine-day-old to nurse for 45 minutes on one side and still scream when laid flat. You don't want to post on Facebook and worry everyone.
+Ben is my 29-year-old little brother, and he has TUBB4a-related leukodystrophy, a rare neurological disorder that progressively affects movement, speech, and muscle control.
 
-I opened Gemini and just started typing in one-handed voice fragments: "Baby has been eating for 3 hours, latch hurts, is my milk supply gone?"
+At first, we explored every available assistive technology option. Eye-tracking devices? Ben has nystagmus (a condition that causes involuntary eye movement), which made these unusable. Switch-based speech devices? The commercial options were too slow and didn't give him real independence.
 
-It talked me through the second-night cluster feeding surge, the mechanics of transitional milk coming in, how to adjust the cross-cradle hold to save my nipples, and kept me grounded until the sun came up. I know how this sounds, talking to a language model in the dark, but having a gentle, completely available voice kept me from spiraling into a panic attack when I had no one else to lean on.
+I started by teaching myself Python and using ChatGPT to help me build a fully custom communication system. I designed it specifically around Ben's abilities—his head movement, his need for simplicity, and his love for entertainment. Three months later, Ben has a fully functional system that allows him to communicate, select his own TV shows, play games, and express himself—using just two buttons. For the first time in years, Ben can pick his own entertainment, type out full sentences, and even play custom-made games. It felt like we "got him back."
 #date
-2026-01
+2025-03
 #tags
-family-and-relationships, mental-health, work, Gemini
+accessibility, family-and-relationships, technology, ChatGPT

@@ -1,13 +1,7 @@
-https://www.reddit.com/r/datarecovery/comments/1m8v2cc/i_got_her_voice_back_thought_they_were_gone/
-@MemoryKeeper_91
-My mother passed away from ALS four months ago. The only recordings I had of her speaking before she lost her voice were twelve audio memos saved on an old Android phone from 2017 with a cracked digitizer and a corrupt internal flash partition that entered a bootloop.
-
-Local repair shops told me the board was dead and quoted me $1,200 for cleanroom chip-off recovery with no guarantees. I was terrified of bricking the memory chip entirely.
-
-Over six hours on a Saturday, Claude walked me through extracting the raw partition dump using ADB in recovery mode, setting up a Linux live USB, compiling a custom tool to parse the damaged ext4 superblock, and running testdisk/foremost on the disk image byte-by-byte.
-
-It didn't just give commands—it explained every flag so I didn't overwrite the read-only image. At 1:00 AM, the extraction finished and all twelve WAV files were intact. I got her voice back. I thought they were gone forever.
+https://www.reddit.com/r/ChatGPT/comments/1m2cvll/comment/n3t1c9t/
+@sillyandstrange
+Thank you, he was my favorite person in the world, and it crushed me. Just taking it a little every day. The worst is that you can't really continue to talk to people about it. They want you to get over it, get back to normal, or they get uncomfortable talking about it. It's understandable, but having the ability to ping thoughts off the bot over and over really does help so much.
 #date
-2026-05
+2025-07
 #tags
-technology, family-and-relationships, Claude
+family-and-relationships, mental-health, ChatGPT
