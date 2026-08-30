@@ -1,0 +1,23 @@
+https://www.reddit.com/r/ChatGPT/comments/1joegl6/i_used_chatgpt_to_diagnose_a_serious_car_problem/
+@Rest_and_Digest
+I used ChatGPT to diagnose a serious car problem and it was right about everything.
+
+I just thought this was really cool and want to share. I have access to GPT Plus through work so I play around with Deep Research mode a lot and think it's one of the coolest things I've ever seen.
+
+It was Thursday night and the soonest appointment I could get with Toyota was for today. The next day, I would have been able to bring it to one of the few guys in my area who really knows his way around Toyota hybrids — but he's tried to rip me off before, so I want to have some backup understanding of the situation in my pocket first, but I don't know a fucking thing about cars beyond changing various fluids and especially not about hybrids.
+
+I spent maybe 45 minutes Googling, but without a solid foundation of knowledge, couldn't definitively say if anything I was reading specifically applied to my issue. Most of what I read pointed toward the hybrid battery, replacements for which at this point in the car's age would probably have cost around what the car is worth. Same for most of the hybrid system.
+
+I gave ChatGPT a rundown of the situation — the entire hybrid system suddenly died when under momentary load as I was accelerating and the car is now locked in safe mode — and ask it to use deep research mode to familiarize itself with the Prius hybrid system, particularly with regard to diagnostics and repairs. It asked me some clarifying questions (did I want to know about DIY repairs? Common failure points and repair costs? Known service issues? among others) and set to work.
+
+15 minutes later, it finished researching and used info from 33 sources to conclude that, most likely, the power module in the hybrid system inverter overheated and blew. It mentioned that this was a known issue with my year (among others) and that Toyota had tried to fix it with a software patch before I'd even purchased the car, that the software patch hadn't worked, and that a subsequent class action suit had resulted in a 15 year warranty enhancement.
+
+That info led me to find an internal Toyota training PDF which, once fed into ChatGPT, confirmed that my VIN is within the eligible range and that I met all of the other situational requirements, assuming it was the correct issue.
+
+Just to be sure, I had it run through other likely scenarios. It worked through each one, compared how it usually presents to what happened to mine, and one by one narrowed it down until again it concluded that was almost absolutely certain it was the inverter. So I decided to skip taking it in for a preemptive second opinion and just wait for my appointment.
+
+So today, I brought it to Toyota and told the guy what I think. Him being the car man and me being Joe Car Driver, he was obviously and appropriately very skeptical — but I just got off the phone and it was indeed the inverter. Fully covered under warranty.
+#date
+2025-03
+#tags
+money-and-consumer, daily-life, ChatGPT

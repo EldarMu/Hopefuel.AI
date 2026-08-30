@@ -1,0 +1,7 @@
+https://x.com/PovilasKorop/status/2079887758282166608
+@PovilasKorop
+ChatGPT has just helped me to recover my wife's Windows PC, which wasn't booting after overnight Windows Update.I had to remember some stuff I had learned in high school in ~1999 from paper books."Chkdsk" and "dir" commands C:\Windows and other foldersMmmm. Nostalgia.
+#date
+2026-07
+#tags
+technology, daily-life, family-and-relationships, ChatGPT
