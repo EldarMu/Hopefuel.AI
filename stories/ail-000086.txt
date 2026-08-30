@@ -1,0 +1,11 @@
+https://www.reddit.com/r/ClaudeAI/comments/1vk4t88/comment/p2qquaa/
+@michaelrxs
+I have wanted to get all my smart devices into Home Assistant for years. Claude helped me knock it out in less than a weekend.
+
+I had so many random zigbee, zwave, wifi, and proprietary hubs with different devices scattered around the house. I had attempted setting up Home Assistant multiple times in the past, but always hit walls with YAML configurations, template sensors, and complex automations that made me give up.
+
+This time, whenever I ran into a configuration error or couldn't get a custom integration or Jinja2 template working, I just pasted my code and logs into Claude. It immediately debugged the issues, wrote clean configuration snippets, and helped me build complex automations from scratch that I never could have figured out on my own. Everything is unified on local control now.
+#date
+2026-08
+#tags
+technology, daily-life, Claude

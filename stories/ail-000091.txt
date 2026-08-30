@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=46542135
+@linsomniac
+I fed all the data I got into ChatGPT deep research to analyze patterns and triggers. It turns out my chronic sinus infections were primarily driven by localized tree and mold allergies that had never shown up clearly on standard skin prick tests, combined with an ineffective OTC allergy regimen. It suggested a specific combination of targeted nasal antihistamines and fluticasone. It's been over 6 months since I've had a sinus infection.
+#date
+2026-01
+#tags
+health, ChatGPT
