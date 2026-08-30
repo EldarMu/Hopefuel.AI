@@ -1,15 +1,19 @@
-https://x.com/keeran/status/2093483640823198081
-@keeran
-Tried leaning in to the ChatGPT Work thing this week.
+https://x.com/lamxnt/status/1875728063989764546
+@lamxnt
+CRAZY unlock:
 
-Gave it permission to interact with CS of a FB scam dropship company and it created an evidence pack that led to a successful chargeback in 40 mins.
+Was in a super in depth chat with Claude building out some business ideas for fun.
 
-Had it sign up to all the pet insurance aggregator sites and figure out the best deal for me, handling all the underwriter confirmations in writing.
+Suddenly stopped, and asked:
 
-Exposed my Google accounts and services, WhatsApp and Telegram desktop CLIs and generated a genuinely useful morning brief.
+"What thought loops am I entering, or where are you noticing I'm getting stuck while navigating this new adventure?"
 
-Still think I’m massively behind yet so far ahead.
+And it dropped an absolute BOMB on me. I've done years of therapy as a teenager and never came CLOSE to the clarity of the single response it gave me.
+
+I then uploaded the response to the Claude Project I built out, and am instantly getting way more hyper-personal answers that cut right through. It's explaining high-level business concepts while NAVIGATING the limitations it KNOWS I have, therefore is able to explain it in a way it KNOWS I will understand
+
+Please see @internetvin article I just reposted if this perks your ears up. It's actually insane
 #date
-2026-08
+2025-01
 #tags
-money-and-consumer, animals-and-nature, technology, ChatGPT
+mental-health, work, Claude
