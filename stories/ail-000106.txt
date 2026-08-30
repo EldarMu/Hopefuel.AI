@@ -1,0 +1,13 @@
+https://www.reddit.com/r/CaliforniaWildfires/comments/1p4x8ww/we_left_at_11pm_because_of_what_it_said_about_the/
+@Ridgecrest_Local
+When the mountain fire sparked across the ridge on Tuesday afternoon, the official county alerts were just saying "advisory status - monitor local channels."
+
+Evacuating our small ranch with three horse trailers, elderly dogs, and our entire life is an expensive, grueling ordeal that you don't want to do unnecessarily. But waiting until a mandatory sheriff knock at 3am means you get trapped on a single-lane mountain road in thick smoke.
+
+I started feeding raw wildfire perimeter shapefiles, local meteorological wind gust forecasts, and topographical ridge data into Claude. I asked it to analyze the wind vector shift predicted for 1:00 AM combined with the canyon draw slope.
+
+It explained how the downslope thermal winds would channel the fire straight through our valley saddle hours before the front was projected on the county map. We loaded the trailers and left at 11pm because of what it explained about the wind shift. At 2:30 AM, the mandatory evacuation was ordered, the main road was gridlocked, and our ridge took direct spot fires thirty minutes later. We got out safely because the data was made clear in time.
+#date
+2025-10
+#tags
+daily-life, family-and-relationships, Claude

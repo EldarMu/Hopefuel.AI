@@ -1,0 +1,13 @@
+https://www.reddit.com/r/deaf/comments/1u8k4ll/i_finally_understood_what_the_audiologist_was/
+@SilentWaves_08
+My husband and I are both profoundly Deaf and our eight-month-old daughter is hearing.
+
+We took her in for a comprehensive pediatric audiology screening after her daycare noted she was hyper-responsive to ambient noise. The clinic handed us a dense, six-page printout with complex speech audiometry charts, tympanometry graphs, and acoustic reflex threshold tables filled with technical shorthand like "dB HL," "type A tymps," and "ipsilateral reflex decay." The audiologist was trying to explain it through an interpreter who was unfamiliar with specialized acoustic terms, and we left feeling completely overwhelmed and unsure if our daughter had middle ear fluid or permanent sensorineural loss.
+
+I took photos of the entire report and uploaded them to Claude. I told it: "We are culturally Deaf parents. Translate these audiograms and clinical summaries into plain, direct visual explanations."
+
+It broke down the exact decibel levels across frequencies, mapped out her normal hearing thresholds, and clarified that the only issue was mild Eustachian tube dysfunction from a cold. I finally understood what the audiologist was trying to tell us.
+#date
+2026-06
+#tags
+accessibility, family-and-relationships, Claude

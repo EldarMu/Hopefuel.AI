@@ -1,0 +1,13 @@
+https://www.reddit.com/r/internetparents/comments/1j7x2lm/this_is_going_to_sound_stupid_but_nobody_taught/
+@Oakland_Bound_22
+This is going to sound stupid but nobody taught me how to make a doctor's appointment or what to do when you get there.
+
+I aged out of foster care at eighteen and spent the last seven years just avoiding the healthcare system entirely because asking someone felt like admitting how neglected my childhood was. I had a severe toothache and a persistent cough, but I didn't know what an in-network provider was, what a co-pay meant at the front desk, or what to say when the receptionist asks for my insurance card.
+
+I asked Gemini to walk me through the entire phone call script beforehand. I had it explain what questions the receptionist would ask, what information was written on the front and back of my state Medicaid card, and what happens between sitting in the waiting room and the nurse calling your name.
+
+I just got back from the clinic. I handed over the card, paid the eight-dollar copay, answered the intake questions, and picked up an antibiotic from the pharmacy. First medical visit I've ever navigated on my own at twenty-seven years old.
+#date
+2026-01
+#tags
+daily-life, education, family-and-relationships, Gemini

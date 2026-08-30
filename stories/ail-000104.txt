@@ -1,0 +1,13 @@
+https://www.reddit.com/r/college/comments/1m1q7yy/cleared_they_dropped_the_honor_council_charge/
+@BioMajor_Undergrad
+I was accused of academic dishonesty and contract cheating on my upper-division biochemistry final project. The professor ran our reports through a faulty automated detector, and the university sent me a notice stating I had an Academic Integrity Board hearing in four days with no representation allowed—no lawyer, no advisor, just me in front of three faculty members.
+
+I was in such a state of panic that every response I tried to write sounded rambling, defensive, and guilty. When you're inarticulate from terror, institutions assume you are concealing something.
+
+I uploaded the university honor code bylaws, the assignment rubric, the professor's formal allegation letter, and my complete Google Docs edit history with timestamps into Claude. It outlined a factual, dispassionate defense strategy: it generated a chronologically sequenced audit log proving my document's keystroke progression over six weeks, matched my phrasing directly to lab notes taken in person, and drafted a formal statement adhering strictly to the university's evidentiary standards.
+
+I submitted the packet yesterday afternoon. The board reviewed the documentation and dismissed the charges without even holding the hearing. Cleared.
+#date
+2026-05
+#tags
+work, law-and-bureaucracy, education, Claude
