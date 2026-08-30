@@ -1,13 +1,7 @@
-https://www.reddit.com/r/deaf/comments/1u8k4ll/i_finally_understood_what_the_audiologist_was/
-@SilentWaves_08
-My husband and I are both profoundly Deaf and our eight-month-old daughter is hearing.
-
-We took her in for a comprehensive pediatric audiology screening after her daycare noted she was hyper-responsive to ambient noise. The clinic handed us a dense, six-page printout with complex speech audiometry charts, tympanometry graphs, and acoustic reflex threshold tables filled with technical shorthand like "dB HL," "type A tymps," and "ipsilateral reflex decay." The audiologist was trying to explain it through an interpreter who was unfamiliar with specialized acoustic terms, and we left feeling completely overwhelmed and unsure if our daughter had middle ear fluid or permanent sensorineural loss.
-
-I took photos of the entire report and uploaded them to Claude. I told it: "We are culturally Deaf parents. Translate these audiograms and clinical summaries into plain, direct visual explanations."
-
-It broke down the exact decibel levels across frequencies, mapped out her normal hearing thresholds, and clarified that the only issue was mild Eustachian tube dysfunction from a cold. I finally understood what the audiologist was trying to tell us.
+https://www.reddit.com/r/immigration/comments/1hcin9e/anyone_else_used_chatgpt_for_immigration_stuff/
+@OldAssDreamer
+I was bored one night and explained my whole Dreamer situation, how I was brought up here, the things I had tried in the past, the things my lawyer had deemed too risky to try, and current political climate to ChatGPT. I was impressed by how the LLM knew all the nuances of immigration law including 245i exemption, Exclusion, etc. and at the end told me to keep my chin up. Not gonna lie, for a future terminator, the 1's and 0's that machine spit out were actually comforting. PS. of course I wouldn't use it to do any actual filings but it helped reinforce the things I already knew.
 #date
-2026-06
+2024-12
 #tags
-accessibility, family-and-relationships, Claude
+law-and-bureaucracy, ChatGPT

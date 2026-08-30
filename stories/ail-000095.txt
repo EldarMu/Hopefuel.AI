@@ -1,13 +1,7 @@
-https://www.reddit.com/r/povertyfinance/comments/1x1n8po/i_got_this_letter_and_they_gave_me_ten_days_update/
-@RustBeltRambler
-I got a letter from the county assistance office on Friday citing a state statutory code, declaring an overpayment, and stating my SNAP and Medicaid benefits were being terminated in ten days unless I filed an administrative appeal.
-
-The letter was written in dense legal terminology that made it sound like I had committed fraud. My stomach dropped through the floor; without Medicaid, my insulin is completely out of reach, and ten days over a holiday weekend meant I had zero chance of getting a legal aid attorney on the phone before the deadline lapsed.
-
-I uploaded the scan to ChatGPT and asked it to explain the exact statutory citation and tell me what the agency was actually alleging. It broke down that the notice was triggered by an automatic data-match discrepancy between quarterly wage reporting and my gig work income, not a fraud finding. It then drafted a formal, one-page notice of appeal requesting an administrative fair hearing and continuation of aid pending the hearing (aid paid pending).
-
-Update: It's sorted. Hand-delivered the drafted notice to the county office counter yesterday morning, got it date-stamped, and benefits remain active while the wage timeline gets clarified.
+https://x.com/rsaksida/status/2093726123955777569
+@rsaksida
+1.5 billion tokens later, I'm able to compile OSM maps into the proprietary format used by my beloved VW Polo 2019 so I don't need a phone, I don't need to rely on VW for updates, and I can customize them to my heart's content. Thank you gpt-5.6-sol-xhigh-san, you are the best.
 #date
-2026-07
+2026-08
 #tags
-law-and-bureaucracy, money-and-consumer, ChatGPT
+technology, daily-life, ChatGPT

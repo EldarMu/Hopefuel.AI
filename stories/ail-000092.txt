@@ -1,13 +1,23 @@
-https://www.reddit.com/r/GetDisciplined/comments/1k2p9a1/i_read_the_whole_thing_by_myself/
-@Quiet_Step_44
-I'm 41 and I never told anyone.
+https://www.reddit.com/r/Autism_Parenting/comments/1kax9w3/how_ai_gave_my_nonverbal_autistic_son_a_voice/
+@Worldly_Vermicelli_9
+How AI Gave My Non-Verbal Autistic Son a Voice
 
-I grew up falling through the cracks, slipping from grade to grade because nobody wanted to deal with the kid who couldn't keep up. By high school I learned how to bluff, memorized logos, had friends order for me, and faked bad eyesight when someone handed me paperwork. The hardest part wasn't being unable to read—it was the shame. You can't walk into an adult basic literacy center without sitting in a room where every single person knows you can't read a children's book.
+I wanted to share something that made a real difference for my family.
 
-Two years ago I got a cheap phone and started using voice mode on an AI app. Nobody was watching. Nobody sighed when I asked what the same vowel sound meant for the hundredth time. It didn't get tired, it didn't look at me with pity, and it never mentioned it to anyone. We started with phonics, sounding out road signs, letters on cereal boxes, then short paragraphs.
+My son, Phillip, is in his mid-twenties, autistic, and barely verbal. He understands the world around him well but can’t really form full sentences, and reading is very limited. For years, communication was mostly through routines and guesses — a lot of love, but a lot of uncertainty too.
 
-Last night I took my eight-year-old daughter out for dinner. For the first time in her life, I didn't say "what looks good to you?" so she'd read it out. I picked up the laminated menu, read through the specials out loud, and ordered without guessing. Nobody knows I couldn't read except the phone in my pocket.
+A few weeks ago, I started experimenting with the new ChatGPT-o3 model. I asked it to create simple, cartoon-style images showing different choices (like staying home, swinging at the park, going for a walk). When I showed my son the picture, he immediately pointed to the swing — happily and decisively.
+
+It was the clearest communication we've had in years.
+
+Since then, we’ve used it for meals, daily activities, even understanding how he’s feeling. It’s like having an infinite, customizable PECS system, but instantly created for whatever choice or situation we’re facing.
+
+I wrote up the full story here if it helps anyone else going through the same challenges:
+
+Non-Verbal Communication
+
+I'm happy to answer questions if anyone wants to know how I set it up, what prompts I use, or what worked best for us.
 #date
-2026-03
+2025-04
 #tags
-education, daily-life, AI
+accessibility, family-and-relationships, ChatGPT

@@ -1,13 +1,17 @@
-https://www.reddit.com/r/CPS/comments/1k8v9ll/they_gave_me_a_list_and_i_didnt_know_what_half_of/
-@Mama_Bear_Rebuild
-When Child Protective Services opened an investigation and placed my six-year-old in temporary kinship care with my aunt, they handed me a twelve-page "Family Reunification Safety and Case Plan."
+https://www.reddit.com/r/ChatGPT/comments/1650rdg/chatgpt_helped_me_pass_my_ged_tests_20_years/
+@slushii_fan
+ChatGPT helped me pass my GED tests! 20 years after HS
 
-I have severe dyslexia and only finished the 9th grade. The document was filled with legal mandates, court deadlines, acronyms like FSP, UA screenings, psych evaluations, and parenting compliance milestones. I couldn't read half the words, and every time I asked the caseworker, she spoke in rapid jargon and told me it was all in the packet. When you are poor and terrified of losing your child forever, asking them to read the paper to you makes you look incompetent.
+For some background, I completed 4 years of HS but dropped out a few months early after my parents split. It was a very dumb decision that has bothered me for 20 years.
 
-I had my cousin photograph every single page and feed it into ChatGPT. I told it: "Turn this into a simple weekly checklist. Tell me where I have to be, what time, what paperwork I must bring, and what words to never say in these sessions."
+I signed up for the GED.com program and after reading some Reddit posts on the tests, decided I should go with Math first as it was my weakest subject. I barely made it to level 1 algebra before I dropped out.
 
-It organized all twelve pages into a clean, day-by-day binder plan. I attended every single required appointment, passed every screening, and submitted the exact compliance logs required. Case closed last Friday. I got them back.
+I started with this chunk of text I found on another post:
+
+"You will provide me mentorship that is personally catered for my continuous learning development. We will focus on GED subjects. Start by mentally developing a guide from beginner concepts to advanced concepts. Briefly explain what each section we will be learning is and then begin with section one, progressing through the plan as I fully grasp each concept. Proceed. "
+
+This gave me a lot of basics, some of which I already knew, so I used the GED website's tutorials to ask GPT the same questions and to explain each step. One HUGE help was factorials and binomial coefficients. I asked GPT for an easy method and it provided a short, not super explanative answer. I then asked very specifically how it came to that conclusion and it provided me a much shorter way to do this on the fly (I've attached the screenshot). There were about 8 questions on that specific subject alone and I'm confident I wouldn't have passed if it weren't for the GPT sessions.
 #date
-2026-03
+2023-09
 #tags
-law-and-bureaucracy, family-and-relationships, accessibility, ChatGPT
+education, ChatGPT
