@@ -1,0 +1,15 @@
+https://x.com/keeran/status/2093483640823198081
+@keeran
+Tried leaning in to the ChatGPT Work thing this week.
+
+Gave it permission to interact with CS of a FB scam dropship company and it created an evidence pack that led to a successful chargeback in 40 mins.
+
+Had it sign up to all the pet insurance aggregator sites and figure out the best deal for me, handling all the underwriter confirmations in writing.
+
+Exposed my Google accounts and services, WhatsApp and Telegram desktop CLIs and generated a genuinely useful morning brief.
+
+Still think I’m massively behind yet so far ahead.
+#date
+2026-08
+#tags
+money-and-consumer, animals-and-nature, technology, ChatGPT
