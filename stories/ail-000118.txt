@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ChatGPT/comments/1jbtmuy/i_used_chatgpt_to_give_my_brother_a_voice_more/
+@Ben_brother
+I used ChatGPT to give my brother a voice
+
+Ben is my 29-year-old little brother, and he has TUBB4a-related leukodystrophy, a rare neurological disorder that progressively affects movement, speech, and muscle control.
+
+At first, we explored every available assistive technology option. Eye-tracking devices? Ben has nystagmus (a condition that causes involuntary eye movement), which made these unusable. Switch-based speech devices? The commercial options were too slow and didn't give him real independence.
+
+I started by teaching myself Python and using ChatGPT to help me build a fully custom communication system. I designed it specifically around Ben's abilities—his head movement, his need for simplicity, and his love for entertainment. Three months later, Ben has a fully functional system that allows him to communicate, select his own TV shows, play games, and express himself—using just two buttons. For the first time in years, Ben can pick his own entertainment, type out full sentences, and even play custom-made games. It felt like we "got him back."
+#date
+2025-03
+#tags
+accessibility, family-and-relationships, technology, ChatGPT
