@@ -1,0 +1,18 @@
+https://www.reddit.com/r/ClaudeAI/comments/1s44wlj/claude_has_changed_me/
+@random-nerdism
+I've been glued to a keyboard since 1996. I started out writing QBasic stuff in my bedroom which turned into web stuff in the 2000s including a job where I created a lightweight ecommerce system in ASP driven by a daily snapshot of a static MS Acess database for a retailer who saw the future coming. It took me a year between other tasks. It felt like forever.
+I've had a million ideas and started hundreds of unfinished projects since then. Cutting code has always been rewarding but the hours of debugging always killed me. Maybe it's the ADHD.
+
+One awesome and unique idea that I've had rattling in my brain since 2021 has been bugging me a HEAP lately, so I started throwing some vibe coding prompts at Claude last week.
+
+I'm a week in and probably 20 hours of my time and I almost have a product ready for market.
+The speed that I can refine the project and throw multiple requests at Claude seemingly in opposite directions, yet get a valid response is insane.
+
+What exploded my brain is, I've written zero code this week. And almost got an entire, complex system working flawlessly. Zero code.
+I don't see an end to human developers any time soon. This has opened my eyes to how tools like Claude will be that wingman to sit next to you and guide you along and call out the hazards and stuff in your blind spots as you smash through a project.
+
+Especially if you can just talk to it like a human.
+#date
+2025-12
+#tags
+work, technology, Claude
