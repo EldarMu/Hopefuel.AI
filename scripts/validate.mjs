@@ -1,7 +1,8 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const STORY_DIR = new URL("../stories/", import.meta.url);
+const STORY_DIR = fileURLToPath(new URL("../stories/", import.meta.url));
 const DOMAINS = new Set([
   "health",
   "mental-health",
@@ -83,7 +84,7 @@ if (names.length === 0) throw new Error("stories/ is empty");
 const records = [];
 for (const name of names) {
   if (!name.endsWith(".txt")) fail(name, "stories/ may contain only .txt files");
-  records.push(parse(name, await readFile(join(STORY_DIR.pathname, name), "utf8")));
+  records.push(parse(name, await readFile(join(STORY_DIR, name), "utf8")));
 }
 
 const urls = new Map();

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "/schema/story-v1.json",
+  "title": "AI Is Loved story",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "canonical_path", "text", "textKind", "source", "models", "domains"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^ail-[0-9]{6}$" },
+    "canonical_path": { "type": "string", "pattern": "^/stories/ail-[0-9]{6}$" },
+    "text": { "type": "string", "minLength": 1 },
+    "textKind": { "enum": ["verbatim", "paraphrase"] },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "platform", "author"],
+      "properties": {
+        "url": { "type": "string", "format": "uri" },
+        "platform": { "type": "string" },
+        "author": { "type": "string", "minLength": 1 },
+        "publishedAt": { "type": "string", "pattern": "^[0-9]{4}(?:-(?:0[1-9]|1[0-2]))?$" },
+        "accessedAt": { "type": "string", "format": "date" }
+      }
+    },
+    "models": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1, "uniqueItems": true, "description": "Open model names. New models do not require a schema change." },
+    "domains": { "type": "array", "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" }, "minItems": 1, "uniqueItems": true, "description": "Controlled domain IDs from /api/tags." },
+    "addedAt": { "type": "string", "format": "date" }
+  }
+}
