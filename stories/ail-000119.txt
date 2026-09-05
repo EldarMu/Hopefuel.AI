@@ -1,0 +1,7 @@
+https://www.reddit.com/r/therapyGPT/comments/1rp5cel/chatgpt_claude_for_relationship_help/
+@livelaughrun-
+My girlfriend and I go to couples counseling. We often get there and I can't remember anything that's happened over the last couple of weeks but she remembers EVERYTHING. So daily I get prompted to share one thing thats good, one thing thats bad and the general direction/vibe of the relationship. Before our appointment I hit a button and it prints out an llm generated summary of the previous couple of weeks and it's a great starting point for our session. At this point the my girlfriend and my counselor both ask for my ai generated recap at the start of the meeting. It also includes suggestions like 'hey, ya'll should discuss compromise' or something relevant to the previous couple of weeks data. This context is super helpful! And I've written the module in a way that it does its best to be impartial.
+#date
+2025-11
+#tags
+family-and-relationships, mental-health, Unspecified LLM
