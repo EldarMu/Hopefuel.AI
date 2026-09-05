@@ -1,0 +1,9 @@
+https://www.reddit.com/r/ChatGPT/comments/1vagu2e/comment/p0lvxz3/
+@DonTequilo
+I just found out my business has been on a downward spiral for the last 3 years because on August 2023 we switched to Google’s GA4 AND never really configured it correctly, it caused our campaigns to perform awfully from that month on. I was able to detect this with the help of AI.
+If it weren’t for it, I would have never found the problem as we had multiple meetings with Google’s team, they helped us set it up and everything and they swore everything was configured perfectly.
+Turns out not even Google was able to do it correctly. AI did. Maybe it’s too early to tell as we just made the corrections, but it was evident we had lots of errors in the configuration.
+#date
+2026-01
+#tags
+work, technology, Unspecified AI

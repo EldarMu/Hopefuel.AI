@@ -1,0 +1,21 @@
+https://www.reddit.com/r/ClaudeAI/comments/1r557rb/claude_completely_changed_my_life_and_im_not_even/
+@mckaizu
+My journey started with a simple curiosity: how to create a red button in HTML. I began learning to build landing pages, but things were rough. I had lost my job and moved to my old village to care for my sick mother, with no idea how to earn money online.
+
+I started exploring AI tools, beginning with ChatGPT. However, it overwhelmed me with endless text that sometimes made me feel physically sick. Still, I managed to create a login button just by talking to it. My curiosity led me to test various free AI tools until I discovered Claude. At first, I didn't take it seriously—the logo and interface made me think it was for shopping or something trivial, not coding.
+
+After a month with Claude, I realized how wrong I was. This AI was incredible! As someone with limited knowledge who had been abandoned by a friend who refused to share his coding expertise, Claude became my savior. It understood exactly what I needed, both technically and emotionally.
+
+I landed my first job designing a login page for $15. The company loved it and offered more work. Though nervous, I continued learning with Claude's help and my income grew. I subscribed to Claude's basic plan—expensive at the time, but worth it for project work.
+
+After six months of continuous use, I upgraded to the max plan. I had hundreds, if not thousands, of conversations with Claude Opus, building CMS systems, QR applications for photographers, and more.
+
+Now I'm learning Claude Code, and my life has transformed. I've integrated it with Visual Studio Code, making everything easier. I currently earn up to $8,000 per project and can support my mother.
+
+Thank you, Claude.
+
+Note: I use claude to translate my story in English so that I can share it with you and understand it better, this is base on true story that happen to me. Thanks 🙏
+#date
+2025-11
+#tags
+work, family-and-relationships, technology, Claude
