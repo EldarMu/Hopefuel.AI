@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ChatGPTCoding/comments/1k2ifpe/i_used_chatgpt_to_build_custom_software_that_gave/
+@narbehouse
+I used ChatGPT to build custom software that gave my nonverbal brother his voice back (and a whole new life)
+
+My brother Ben has TUBB4A-related leukodystrophy, a rare neurodegenerative condition that left him nonverbal and quadriplegic. Because of his physical limitations and nystagmus, standard assistive technology and eye-tracking devices were ineffective, frustrating, and unengaging.
+
+I’m not a professional developer, but with ChatGPT acting as my coding copilot, I built a custom, switch-accessible communication hub and entertainment system from scratch in Python. It allows him to navigate menus, use a predictive text keyboard to speak, browse media, and play custom video games using just two head switches.
+
+It gave him his voice back, his independence, and a whole new life. We’ve open-sourced the software (Benny's Accessibility Hub) so other families dealing with similar challenges can use it for free.
+#date
+2025-04
+#tags
+accessibility, family-and-relationships, technology, ChatGPT

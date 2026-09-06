@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=44727026
+@andix
+Absolutely. I used to have a lot of weird IPv6 issues in my home network I didn't understand. ChatGPT helped me to dump some traffic with tcpdump and explained what was happening on the network.
+
+In the process it helped me to learn many details about RA and NDP (Router Advertisments/Neighbor Discovery Protocol, which mostly replace DHCP and ARP from IPv4).
+
+It made me realize that my WiFi mesh routers do quite a lot of things to prevent broadcast loops on the network, and that all my weird issues could be attributed to one cheap mesh repeater. So I replaced it and now everything works like a charm.
+
+I had this setup for 5 years and was never able to figure out what was going on there, although I really tried.
+#date
+2025-07
+#tags
+technology, daily-life, education, ChatGPT, GPT-4o

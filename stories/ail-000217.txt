@@ -1,0 +1,29 @@
+https://www.reddit.com/r/InternalAudit/comments/1rw2820/passed_cia_level_3/
+@Liv323536
+Passed CIA level 3
+
+I started preparing for the 3 exams on 19 January and I initially intended to sit the Challenge exam (CA route). However, I just wanted to get it out of the way and the on-demand exams are faster and cheaper.
+
+I did Levels 1-3 on Feb 11-13, passed the first two and got a score of 576 on the level 3 exam. On the night I was very frustrated because I was so close and I just wanted to do it and move on. The 30-day wait felt long.
+
+The first thing I did on the next day was to run through the relevant level 3 topics in the Hock textbook (before it expired) to remember concepts that were tested in the exam. I then ran these through Chatgpt (general), Chatgpt (a specific chat loaded with the relevant standards, Gemini, Claude as well as a NotebookLM bloc loaded with the standards. As you can imagine, I had those principles nailed down. The second thing I did was to load a Chatgpt chat with the standard and ask it to give me 1 randomised requirement anytime I asked it to. I did this daily and the standards became second nature.
+
+With respect to the exam itself, I uploaded my exam feedback sheet into Gemini and Chatgpt and shared a detailed recap on how I felt the exam went and what I struggled with. The feedback was that I escalated too quickly and that I should follow the planning. Also, I initially struggled with 50-50 questions because I knew the standards but not in a way that was precise enough for the exam.
+
+Based on my weaknesses, I used to practice 3-5 questions per day (2-3 focused, 2 spread across the syllabus) on Gemini and Chatgpt and I got instant feedback on any mistakes I made + why I made them and the explanation backing up the correct answer. Gemini was fantastic and i was shocked by its ability to come up with questions at an above the exam standard. It saw the exam questions as level 6 and I asked it to test me on the highest level it could for MCQs which was level 11 so after doing that, the exam was a breeze.
+
+The final thing I did was to have the apps give me a rolling pass probability and explain how to bridge the gap. Initally, it was escalating too quickly and not following the standard then the only real gap after simulating my pass probability 10,000 times (the apps gave me a 99.99% chance of passing) was exam execution and the apps adviced me to:
+
+Take my time to get the questions right at the first time of asking.
+
+Only flag true 50-50s
+
+Only change answers if I can back it up with a standard.
+
+I executed this in the exam and I only had 10 minutes left after the flagged questions had been reviewed and it was a comfortable pass.
+
+This is to encourage people that think they need to spend a lot of money when retaking the exams. I only paid around £22 for these AI tools that served as my on-demand tutors.
+#date
+2026-03
+#tags
+education, work, ChatGPT, Gemini, Claude, NotebookLM

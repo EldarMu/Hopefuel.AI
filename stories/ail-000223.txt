@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=46535112
+@mlmonkey
+My uncle had an issue with his balance and slurred speech. Doctors claimed dementia and sent him home. It kept becoming worse and worse. Then one day I entered the symptoms in ChatGPT (or was it Gemini?) and asked it for the top 3 hypotheses. The first one was related to dementia. The second was something else (I forget the long name). I took all 3 to his primary care doc who had kept ignoring the problem, and asked her to try the other 2 hypotheses. She hesitantly agreed to explore the second one, and referred him to a specialist in that area. And guess what? It was the second one! They did some surgery and now he's fine as a fiddle.
+#date
+2026-01
+#tags
+health, family-and-relationships, ChatGPT, Gemini
