@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=41126229
+@scarface_74
+And he admitted he is “neither an engineer nor an economist, nor do I have privileged information”.
+
+So why should we listen to him? ChatGPT has saved me a lot of time.  Luckily it’s well trained on AWS API’s, tge SDK, CDK, Terraform and Kubernetes.  Anything it isn’t trained on, I just give it links to the documentation
+#date
+2024-08
+#tags
+technology, work, ChatGPT

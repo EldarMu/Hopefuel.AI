@@ -1,0 +1,19 @@
+https://news.ycombinator.com/item?id=35296181
+@thwayunion
+Meh.
+
+I was working on a personal project yesterday to answer some questions I had about how liquidity risk works for money market mutual funds, and to forecast/nowcast liquidity risk and NAV risk for a bunch of funds.
+
+Mind you: I don't know the first thing about anything financial. I was just curious.
+
+chatgpt gave me a bunch of sources of data that I wanted, translating my lay description of things I wanted to know into financial terms of art. I could then look up legal definitions and formulas for those terms to make sure they were what I thought they were. chatgpt also told me which SEC forms those things are disclosed on, what data brokers I could use for other data, etc.
+
+between chatgpt and copilot I saved at least an hour on the job of pulling down historical data from EDGAR for a bunch of funds and getting the stats I wanted (I didn't know EDGAR existed until yesterday, and the xml/html/txt formats are kind of annoying... like, fine, but a bit of a pita so I'm glad I had help because ughhh is that kind of code boring and damn are LLMs good few-shot inductive parser generators!). Also wrote some nice chart.js code for me and helped with automatically collecting, searching, and extracting some key stats and terms from prospectuses. I didn't know about chart.js until yesterday.
+
+All of this would've been possible without assistants, and required a lot of "executive function" on my part to bring together, but it seriously saved me at least a couple hours of implementation work and up to a day on research and learning terminology and regulatory stuff. Again, verification of those things is way easier when you know what words to look up definitions for. And chatgpt did make mistakes/hallucinate.
+
+I don't find much use in my professional life, where the code I'm writing is apparently too domain-specific for copilot to be helpful and the mathematics is too complex for chatgpt to help with. Maybe in a few years. We'll see.
+#date
+2023-03
+#tags
+education, money-and-consumer, ChatGPT

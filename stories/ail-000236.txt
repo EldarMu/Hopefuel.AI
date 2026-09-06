@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=42336652
+@veidr
+Is anybody else tempted to sign up for this just for personal use? I've found ChatGPT-o1 Preview to be so helpful — which was absolutely not the case for me with any previous models (or Claude 3.5) — that the concept of having "unlimited"  usage of o1 is pretty intriguing.
+
+I recently used it to buy some used enterprise server gear (which I knew nothing about) and it saved me hours of googling and translating foreign-language ads etc. That conversation stretched across maybe 10 days, and it kept the context the whole time. But then I ran out of "preview" tokens and it got dumb and useless again. (Or maybe the conversation exceeded the context window, I am not really sure.)
+
+But that single conversation used up the entire amount of o1 tokens that come with my $20/month ChatGPT Plus account. I am not sure that I have 10x that number of things for it to help me with each month, and where I live $200 is a not-insignificant amount, but... tempting.
+#date
+2024-12
+#tags
+technology, money-and-consumer, ChatGPT

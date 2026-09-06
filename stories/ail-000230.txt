@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=43884731
+@_qswe
+I've found that AI is incredibly valuable as a general thinking assistant for those tasks as well. You still need enough expertise to know when to reach for it, what to prompt it with, and how to validate the utility and correctness of its output, but none of that consumes as much time as the time saved in my experience.
+
+I think of it like a sort of coprocessor that's dumber in some ways than my subconscious, but massively faster at certain tasks and with access to vastly more information. Like my subconscious, its output still needs to be processed by my conscious mind in order to be useful, but offloading as much compute as possible from my conscious mind to the AI saves a ton of time and energy.
+
+That's before even getting into its value in generating content. Maybe the results are inconsistent, but when it works, it writes code much more quickly than any human could possibly type. Programming aside, I've objectively saved significant amounts of time and money by using AI to help not only review but also revise and write first drafts of legal documents before roping in lawyers. The latter is something I wouldn't have considered worthwhile to attempt in most cases without AI, but with AI I can go from "knowing enough to be dangerous" to quickly preparing a passable first draft on my own and having my lawyers review the language and tighten up some minor details over email. That's a massive efficiency improvement over the old process of blocking off an hour with lawyers to discuss requirements on the phone, then paying the hourly rate for them to write the first draft, and then going through Q&A/iteration with them over email. YMMV, and you still need to use your best judgement on whether trying this with a given legal task will be a productive use of time, but life is a lot easier with the option than without. Deep research is also pretty ridiculous when you find yourself with a use case for it.
+
+In theory, there's not really anything in particular that I'd say AI lets me do that I couldn't do on my own*, given vastly more hours in the day. In practice, I find that I'm able to not only finish certain tasks more quickly, but also do additional useful things that I wouldn't otherwise have done. It's just a massive force multiplier. In my view, the release of ChatGPT has been about as big a turning point for knowledge work as computers and the Internet were.
+
+*: Actually, that's not even strictly true. I've used AI to generate artwork, both for fun/personal reasons and for business, which I couldn't possibly have produced by hand. (I mean with infinite time I could develop artistic skills, but that's a little reductive.) Video generation is another obvious case like this, which isn't even necessarily just a matter of individual skill, but can also be a matter of having the means and justification to invest money in actors, costumes, props, etc.
+#date
+2025-05
+#tags
+work, law-and-bureaucracy, ChatGPT

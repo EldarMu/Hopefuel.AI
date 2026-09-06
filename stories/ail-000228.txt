@@ -1,0 +1,19 @@
+https://news.ycombinator.com/item?id=46535824
+@k2xl
+ChatGPT arguably saved my fathers life two weeks ago. He was in a rehab center after breaking his hip and his condition suddenly deteriorated.
+
+While waiting for the ambulance at the rehab center, i plugged all his health data from is MyChart and described the symptoms. It accurately predicted (in its top two possibilities) C Diff infection.
+
+Fast forward two days, ER has prescribed in general antibiotics. I pushed the doctors to check for C Diff and sure enough he tested positive for it - and they got him on the right antibiotics for it.
+
+I think it was just in time as he ended up going to the ICU before he got better.
+
+Maybe they would have tested for C Diff anyway, but definitely made me trust ChatGPT. Throughout his stay after every single update in his MyChart I copy and paste the pdf to the long running thread for his health.
+
+I think ChatGPT health- being able to automatically import this directly will be a huge game changer. This is probably my number one use case of AI is health and wellness.
+
+My dad is getting discharged tomorrow (to a different rehab center, thankfully)
+#date
+2026-01
+#tags
+health, family-and-relationships, ChatGPT

@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=36974753
+@rokizero
+How can you say that something is outright false if there is not fact/claim you can disprove. You’re responding to someone you don’t know and have no idea what they are working on.
+
+I’m (not OP!) a cloud engineer but also work on a lot of FE (React) code for internal tools. ChatGPT has saved me countless hours (literally tens a month) writing super simple code that I am able to easily write up myself but typing it out just takes time. After month of using it I find myself still quite excited whenever cGPT saved me another hour. We also use Retool, but I find myself writing code ‘myself’ more often since cGPT launched.
+
+No, I wouldn’t just copy paste production code handling PII, but prototyping or developing simple tools is sooooo much faster, for me.
+#date
+2023-08
+#tags
+technology, work, ChatGPT

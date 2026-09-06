@@ -1,0 +1,25 @@
+https://news.ycombinator.com/item?id=41931036
+@josephg
+I don't think you understand the value proposition of chatgpt today.
+
+For context, I'm an expert too. And I had the same experience as you. When I asked it questions about my area of expertise, it gave me a lot of vague, mutually contradictory, nonsensical and wrong answers.
+
+The way I see it, ChatGPT is currently a B+ student at basically everything. It has broad knowledge of everything, but its missing deep knowledge.
+
+There are two aspects to that to think about: First, its only a B+ student. Its not an expert. It doesn't know as much about family law as a family lawyer. It doesn't know as much about cardiology as a cardiologist. It doesn't know as much about the rust borrow checker as I do.
+
+So LLMs can't (yet) replace senior engineers, specialist doctors, lawyers or 5 star chefs. When I get sick, I go to the doctor.
+
+But its also a B+ student at everything. It doesn't have depth, but it has more breadth of knowledge than any human who has ever lived. It knows more about cooking than I do. I asked it how to make crepes and the recipe it gave me was fantastic. It knows more about australian tax law than I do. It knows more about the american civil war than I do. It knows better than I do what kind of motor oil to buy for my car. Or the norms and taboos in posh british society.
+
+For this kind of thing, I don't need an expert. And lots of questions I have in life - maybe most questions - are like that!
+
+I brainstormed some software design with chatgpt voice mode the other day. I didn't need it to be an expert. I needed it to understand what I was saying and offer alternatives and make suggestions. It did great at that. The expert (me) was already in the room. But I don't have encyclopedic knowledge of every single popular library in cargo. ChatGPT can provide that. After talking for awhile, I asked it to write example code using some popular rust crates to solve the problem we'd been talking about. I didn't use any of its code directly, but that saved me a massive amount of time getting started with my project.
+
+You're right in a way. If you're thinking of chatgpt as an all knowing expert, it certainly won't deliver that (at least not today). But the mistake is thinking its useless as a result of its lack of expertise. There's thousands and thousands of tasks where "broad knowledge, available in your pocket" is valuable already.
+
+If you can't think of ways to take advantage of what it already delivers, well, pity for you.
+#date
+2024-10
+#tags
+daily-life, technology, ChatGPT

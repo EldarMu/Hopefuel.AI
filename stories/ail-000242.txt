@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=43509450
+@Fruitmaniac
+Not everyone is as impressed as us by new tech, especially when it's kinda buggy.
+
+The article makes a lot of good points. I get a lot of slop responses to both coding and non-coding prompts, but I've also gotten some really really good responses, especially code completion from Copilot. Even today, ChatGPT saved me a ton of Google searches.
+
+I'm going to continue using it and taking every response with a grain of salt. It can only get better and better.
+#date
+2025-03
+#tags
+technology, ChatGPT

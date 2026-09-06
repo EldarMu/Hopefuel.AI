@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=38226219
+@a_square_peg
+ChatGPT has already saved me from hours of Googling when I'm trying to find out how to do certain things. It almost feels magical - I don't have to read through half-dozen slightly different variations of what I need to do.
+
+Before ChatGPT, to find the answer to things like "how do I set up Gunicorn to run as a daemon that restarts when it fails" I would have to endure hours of googling, snarky stack-overflow comments that I shouldn't do that, etc., but as a solopreneur without access to a more senior engineer to ask, it's been fantastic. I've been quite skeptical of machine learning/AI claims but I feel like I'm experiencing a genuine case of a technology that's proving to be so much more useful than I had imagined.
+#date
+2023-11
+#tags
+technology, work, ChatGPT

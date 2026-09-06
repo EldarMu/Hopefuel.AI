@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=35701862
+@bmurphy1976
+I think the difference between those other hype cycles and this one is utility.  I found Bitcoin very interesting (Erlang as well, still do) but not very practical in my day-to-day life.  Unless I'm going to be hired by a firm that specializes in that tech, they're just not very useful.  Nerdy and interesting and fun yes, but I just don't need them in my day-to-day life.
+
+On the other hand ChatGPT 3.5 has become immediately useful today. It's already saved multiple hours of time doing nonsense work, or digging around for an answer to that one problem I have.  It's succeeded when Stack Overflow, Google, Reddit, and the Official Documentation™ failed me.
+
+That's incredible!!
+
+And like a car I don't really have to know or care how it works (traditionally I didn't care at all about AI tech). Sure, it's a new skill (like driving) that takes some practice to do safely and effectively, but I don't have to know the details of how it works.  Just how to use it.
+
+That's why this hype cycle is different, that's why it's not going away.  It's useful, and we are collectively figuring out how to use it effectively.  We do that through collaboration and communication and HN is one of the key points where ideas are shared. To put a stop on that now would be insanely short sighted.  The criticism, post-mortems, retrospectives and "AI is dead" articles will come in time.
+#date
+2023-04
+#tags
+daily-life, technology, ChatGPT

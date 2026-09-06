@@ -1,0 +1,19 @@
+https://news.ycombinator.com/item?id=45501806
+@raducu
+>  I have yet to see a chat agent deployed that is more popular than tailored browsing methods.
+
+Not an agent, but I've seen people choose doctors based on asking ChatGpt for criteria and the did make those appointments. Saved them countless web interfaces to dig through.
+
+ChatGpt saved me so much money by searching for discount coupons on courses.
+
+It even offered free entrance passwords on events I didn't know had such a thing (I asked it where the event was and it also told me the free entrance password it found on some obscure site).
+
+I've seen doctors use ChatGpt to generate medical letters -- Chat Gpt used some medical letters python code and the doctors loved the result.
+
+I've used ChatGpt to trim an energy bill to 10 pages because my current provider generated a 12 page bill in an attempt to prevent me from switching (because they knew the other provider did not accept bills of more than 10 pages).
+
+Combined with how incredibly good codex is, combined with how easily chat gpt can just create throw away one-time apps, no way the whole agent interface doesn't eat a huge chunk of the traditional UX software we are used to.
+#date
+2025-10
+#tags
+money-and-consumer, technology, ChatGPT

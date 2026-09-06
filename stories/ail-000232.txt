@@ -1,0 +1,17 @@
+https://news.ycombinator.com/item?id=45947838
+@koliber
+It depends on how much time I have, and how important the task is. I've been surprised and I've been disappointed.
+
+One particular time I was wrestling with a CI/CD issue. I could not for the life of me figure it out. The logs were cryptic and there was a lot of them. In desperation I pasted the 10 or so pages of raw logs into ChatGPT and asked it to see if it can spot the problem. It have me three potential things to look at, and the first one was it.
+
+By directing my attention it saved me a lot of time.
+
+At the same time, I've seen it fail. I recently pasted about 10 meetings worth of conversation notes and asked it to summarize what one person said. It came back with garbage, mixed a bunch of things up, and in general did not come up with anything useful.
+
+In some middle-of-the road cases, what you said mirrors my experience: we disagree what is notable and what is not. Still, this is a net positive. I take the stuff it gives me, discard the things I disagree on, and at least I have a partial summary. I generally check everything it spits out against the original and ask it to cite the original sources, so I don't end up with hallucinated facts. It's less time than writing up a summary myself, and it's the kind of work that I find more enjoyable than typing summaries.
+
+Still, the hit to miss ration is good enough and the time savings on the hits are impressive so I continue to use it in various situations where I need a summary or I need it to direct my attention to something.
+#date
+2025-11
+#tags
+technology, work, ChatGPT

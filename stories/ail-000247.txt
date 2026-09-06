@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=35709775
+@tempestn
+Tangentially, I enjoy occasionally watching 3d movies at home and am disappointed that new TVs don't come with 3d when they pretty easily could.  The glasses-free stuff that's coming is cool though.
+
+More substantively, LLMs are useful today, so even if they somehow don't improve at all, they're going to be impactful.  In just the few months that we've had chatGPT it's saved me countless hours in work and even personal tasks, and I can see various ways it's going to be useful in the future.  As one of the sibling replies says, it doesn't have to be perfect to be useful, and this is a tool with incredibly broad usefulness.  (Admittedly unlike 3D TVs...)
+#date
+2023-04
+#tags
+daily-life, work, ChatGPT

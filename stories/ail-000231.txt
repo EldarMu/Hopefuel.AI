@@ -1,0 +1,21 @@
+https://news.ycombinator.com/item?id=34287711
+@kator
+I engage with ChatGPT daily now on a number of topics. In general, I've been trying to search on google and talk to ChatGPT about the same topic, of course I don't put three words in I try to use natural language with ChatGPT. (I had a stint in NLP systems for 5 years around 1997, so that might bias me a bit on how I engage)
+
+What has impressed me is some stuff like "Can you summarize this for me?" and "How would you parse the datetime out of this log entry in python3: {raw text}", "How could I make the following mysql query more readable?" etc.
+
+At this stage, it's like when Stack Overflow came out. And yes, some SO stuff is crap, but once in a while, you get something that saves you 3 hours of your life. For example, recently, ChatGPT has saved me hours of poking around on topics I wanted to solve quickly without thinking so I could get to the high-value work that would get me closer to my goal.
+
+That said, I am amused at how it can bald-face lie about even mathematically incorrect things, and it gets lost if a thread gets a bit too long.
+
+Something is happening here. I think it'll be a while before these things write code from reading a paragraph from a product manager or a less technical user's "use case".
+
+What's interesting is to watch this pendulum swing back and forth, from expert systems coded by hand to neural nets and now these large language models. If the pendulum keeps swinging, it might land on your head one day if you don't pay attention.
+
+All this said, I enjoy my interactions with ChatGPT more than most SO posts, so I continue to use it, and luckily I have 40 years of coding experience to help me identify where it's a bit off.
+
+I have taken to pasting questions from my mentees into ChatGPT and sharing the result and suggesting they try ChatGPT to learn python3 in addition to SO and other tools. It seems to help them, I worry it will confuse them with a bald-faced lie, but I'm here to help when it does!
+#date
+2023-01
+#tags
+education, technology, ChatGPT

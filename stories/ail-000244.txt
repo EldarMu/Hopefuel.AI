@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=40163612
+@neonlights84
+I don't have a formal background in CS -- most of my schooling and professional background has been centered squarely on mechanical engineering. Attending college in 2004-2009, the school I went to spent just a couple class sessions teaching MATLAB and LabView. Neither language really appealed to me and after some initial struggles I realized that our TAs weren't really checking our scripts... so I faked a bunch of non-functional homework scripts just to move forward in the class. The experience soured me on programming for years.
+
+Years later, the pandemic hit and I found myself with excess free time and nothing to do in the evenings. So I decided to take a series of Coursera classes to learn data science programming in Python and VBA. VBA became rather useful as I was able to program sophisticated macros for automating tasks in SolidWorks CAD. But my programming knowledge has still been rather limited compared to most professional programmers.
+
+When ChatGPT came out and people started tinkering with it for programming, I was delighted to find that it was able to produce what appeared to be SolidWorks VBA scripts. But on further examination the scripts produced were often buggy and in need of rework. So I was rather skeptical for a while about ChatGPT's usefulness.
+
+A few years later, I'm now in a job that requires a LOT of programming and scripting in a multitude of different languages (Python, Bash, and a few others) and the focus has shifted away from CAD. I'll humbly admit that ChatGPT has saved me multiple times in figuring out how to approach different problems. The code often works right on the first try. It's an essential tool for me now.
+#date
+2024-04
+#tags
+work, education, ChatGPT

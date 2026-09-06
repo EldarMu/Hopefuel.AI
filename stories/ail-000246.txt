@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=36289071
+@ryanjshaw
+This is not true. I've been building a site with Sveltekit and Appwrite for fun. I know nothing about these technologies. ChatGPT has saved me hours of messing around and I haven't needed SO once. It doesn't always give me the best answer first, sure. It's an iterative process, which all software development is anyway.
+#date
+2023-06
+#tags
+technology, creative-work, ChatGPT

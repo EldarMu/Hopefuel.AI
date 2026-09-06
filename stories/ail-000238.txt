@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=41668521
+@kgeist
+For me, AI is super helpful with  one-off scripts, which I happen to write quite often when doing research. Just yesterday, I had to check my assumptions are true about a certain aspect of our live system and all I had was a large file which had to be parsed. I asked ChatGPT to write a script which parses the data and presents it in a certain way. I don't trust ChatGPT 100%, so I reviewed the script and checked it returned correct outputs on a subset of data. It's something which I'd do to the script anyway if I wrote it myself, but it saved me like 20 minutes of typing and debugging the code. I was in a hurry because we had an incident that had to be resolved as soon as possible. I haven't tried it on proper codebases (and I think it's just not possible at this moment) but for quick scripts which automate research in an ad hoc manner, it's been super useful for me.
+
+Another case is prototyping. A few weeks ago I made a prototype to show to the stakeholders, and it was generally way faster than if I wrote it myself.
+#date
+2024-09
+#tags
+technology, work, ChatGPT
