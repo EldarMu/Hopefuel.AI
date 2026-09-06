@@ -1,0 +1,17 @@
+https://news.ycombinator.com/item?id=44924245
+@trentnix
+There were some odds and ends around partition management that made me hesitate. ChatGPT helped me distill what I wanted to do into a plan that made sense to me.
+
+In terms of issues, getting certain mounts to persist took some time. I had jump back into Windows and change some settings to get Windows to give up control.
+
+I tried to install a few packages, like Emulation Station, that presented some headaches but I worked through it.
+
+I tried installing SpaceDrive and it was a slog that eventually went nowhere. It took a lot of effort to get it compiled and running and then it didn't really work, so I gave up. It's alpha software, but given the press (and investment) it's received I expected a smoother experience.
+
+Installing MakeMKV took a small bit of gymnastics to install, but once it was installed it worked great.  Setting up backups on Mint didn’t behave as I expected at first, but I figured it out.
+
+I didn’t really have any issues, per se, with Mint. It was a breeze. I’m sure the forums are great, but GPT hit enough that it wasn't too terrible when it missed. And it has a lot less latency than searching a forum or posting and waiting for responses.
+#date
+2025-08
+#tags
+technology, daily-life, ChatGPT

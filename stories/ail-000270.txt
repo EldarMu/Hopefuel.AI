@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=46931674
+@bbkane
+I've been amazed at AI's usefulness for Linux sysadmin tasks.
+
+Last week I installed KDE on a new computer with two identical SSDs. One I wanted to wipe for the OS and the other I wanted to keep the data on.
+
+Unfortunately I couldn't tell which one to install the OS on! ChatGPT helped me open a terminal and run the correct udevadm and lsblk commands to see what files existed on each disk.
+#date
+2026-02
+#tags
+technology, ChatGPT

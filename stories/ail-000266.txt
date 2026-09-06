@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=45928638
+@orbital-decay
+Are we even living in the same universe?? In mine, Claude and Gemini Pro outperform classic machine translators by orders of magnitude, that's not an exaggeration. I can finally rely on correct machine translation when reading articles in languages I don't speak and when talking to people in their native language. They still miss some nuance in the informal talk, but I can be reasonably sure it adapts the cultural context pretty well, and tolerate the rest.
+
+>replacing results with “somewhat random but reads plausible” AI summaries
+
+I'm talking about actual deep (re)search that cites the sources, not simple summaries. For example I'm considering a KTM 890 Adventure R as my next motorcycle but the reliability and TCO are worrying. I've prompted and launched an agent to recursively scan YouTube travel videos, or rather the transcriptions, to look for actual issues with this bike, without all that KTM marketing bullshit and paid reviews, and provide me with timecodes. And it did, finding a ton of extremely non-obvious non-English channels in the process (Russian, Afrikaans, Spanish etc), scanning dozens of hours of videos, and providing timecodes for me to verify. That saved me insane amount of time.
+
+Normal people actually pay money for this, I'm pretty surprised to see this in the wild but it's true. Reducing this to "techbros and influencers" is pure wishful thinking.
+#date
+2025-11
+#tags
+daily-life, technology, Claude

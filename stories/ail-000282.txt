@@ -1,0 +1,12 @@
+https://news.ycombinator.com/item?id=42522386
+@sebastiansm
+Yesterday ChatGPT helped me to elaborate a skincare routine for my wife with multiple serums and creams that she received for Christmas. 
+She and I had no idea when to apply, how to combine or when to avoid combination of some of those products.
+
+I could have google it myself in the evenings and had the answer in a few days of research, but with o1 in a 15min session my wife had had a solid weekly routine, the reasoning about those choices and academic papers with research about those products. (Obviously she knows a lot about skincare in general, so she had the capacity to recognize any wrong recommendation).
+
+Nothing game changer, but is great to save lots of time in this kind of tasks.
+#date
+2024-12
+#tags
+family-and-relationships, daily-life, ChatGPT

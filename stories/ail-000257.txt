@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=46999342
+@stephenhuey
+A couple months ago things were different. Try their stronger models. Gemini recently saved me from a needle in a haystack problem with buildpacks and Linux dependencies for a 14-year-old B2B SaaS app that I was solving a major problem for, and Gemini figured out the solution quickly after I worked on it for hours with Claude Code. I know it's just one story where Gemini won, and I have really enjoyed using Claude Code, but Google is having some success with the serious effort they're putting into this fight.
+#date
+2026-02
+#tags
+technology, work, Gemini

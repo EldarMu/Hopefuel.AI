@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=47401037
+@ogogmad
+OpenBSD might have "better" support for sleep and hibernate, but I didn't succeed in installing it on this laptop: I think it required me to connect an Ethernet cable, which I wasn't going to do.
+
+Veering even more off-topic: I've just installed OpenSUSE Kalpa on this laptop. That's not regular OpenSUSE, by the way. Previously, each of the like, 5 problems I've encountered doing it, would've caused me to give up - but ChatGPT helped me fix all of them! I think this is going to become my daily driver for a while now.
+#date
+2026-03
+#tags
+technology, daily-life, ChatGPT

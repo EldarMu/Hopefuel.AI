@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=47482850
+@volkercraig
+Interestingly that sort of research is actually what I've used Claude/Chatgpt deep research and openclaw for. If I have an idea, I get an agent to go and do some product research for me and see if there is a market, if anyone has tried it, and if there is anyone doing it.
+
+It has unironically saved me a lot of time I would have otherwise spent going down rabbit holes.
+
+Of the models I've found that claude doesn't gas you up as much as GPT, so for stuff like this where the answer can be "no, that's not a good idea" I usually use claude.
+#date
+2026-03
+#tags
+work, technology, Claude

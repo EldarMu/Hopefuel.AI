@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=43500914
+@foobarbaz569
+I was previously a non believer in LLMs, but I've come around to accepting them. Gemini has saved me so much time and energy it's actually insane. I wouldn't be able to do my work to my satisfaction (which is highly technical) without its support.
+#date
+2025-03
+#tags
+work, technology, Gemini

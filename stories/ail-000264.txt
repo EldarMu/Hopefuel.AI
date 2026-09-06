@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=46611926
+@mrkiouak
+A site I put together while volunteering for my Vermont town, made heavy, heavy use of Claude Code (and occasional Gemini (both UI & Vertex for initial Annual Town Report summaries & highlights).
+
+Really pleased with how much time LLMs saved me. Followed a typical "Comparative Budget info is usually between page 14-40, please parse budget info out into this JSON structure", I eyeball review, tweak where issues, repeat to get raw data.
+
+Then site was super, super quick to get setup and live (deployed via Cloud Run) (literally less than an hour). Then a couple hours over a few days to add content, restructure etc.
+
+Still more of a rough draft, but this is absolutely 100% not something I'd have been able to do or remotely have considered doing without LLMs + past 1.5 years of improvements.
+
+N.B. Vermont State Statutes have unique rules about how municipalities pass budgets, theres an annual town hall day. See e.g. https://www.vermontpublic.org/local-news/2025-02-28/vermont-... (https://www.vermontpublic.org/local-news/2025-02-28/vermont-town-meeting-day-2025-guide) and https://en.wikipedia.org/wiki/Town_meeting#Vermont (https://en.wikipedia.org/wiki/Town_meeting#Vermont)
+#date
+2026-01
+#tags
+community, technology, Claude

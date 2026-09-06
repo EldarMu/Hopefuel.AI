@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=40679398
+@gaiagraphia
+As a teacher with no programming and compsci background I've developed an entire interactive site which currently uses 50k database records; mapping grammar structures to questions to classical art to interactive quizzes to videos to collocations, etc, etc. It's effectively a Wikipedia of the English language with everything arranged into interactive lessons. 449 Svelte/js files in so far.
+
+ChatGPT helped me achieve this from scratch. The code is probably shite, as I'm chasing my own tail understanding what's happening, but I can only imagine that there's others out there using '''the entirety of human knowledge''' to fast-forward their development and realise their dreams.
+
+Of course, at the very top and bleeding edge, current systems aren't very helpful. And this is where we should be placing our curricula; treating school like a microcosm of elite society.
+#date
+2024-06
+#tags
+education, creative-work, ChatGPT

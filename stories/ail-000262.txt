@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=47488415
+@holografix
+Wow the sceptics really came out in force for this one.
+
+I’m currently using Gemini to research components for a remote controlled plane. I have the frame of the plane and now need to buy correctly specced servo motors, an engine, battery, etc etc. It has saved me so much time and educated me tremendously on how the different components interact and the options available.
+
+If I could just press “buy” from within Gemini and pay via Google Pay (or better still, Apple Pay) I’d do it in a heartbeat.
+
+If ChatGPT can do this today, I need to try it.
+#date
+2026-03
+#tags
+creative-work, technology, Gemini

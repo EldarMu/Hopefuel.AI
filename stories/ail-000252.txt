@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=48138085
+@internet101010
+Yeah Claude is really, really good there. You tell it the distro and the problem and it will solve it. Saved me a lot of pain when it came to swapping out an encrypted boot drive and was good about emphasizing the order of operations required for what I would consider a higher risk/complexity situation.
+#date
+2026-05
+#tags
+technology, Claude

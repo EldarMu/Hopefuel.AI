@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=47997520
+@lschneider
+A bit more on the card data problem, since that took the majority of my time.
+
+Each card needs, besides the title and year, a difficulty score, a popularity score, and a fun fact. Difficulty is just a measure how "obscure" the card is, most of the difficulty of a deck comes from how many cards + how close the years of the cards are. Popularity is used to create decks that are actually fun because no one enjoys just having super nieche titles they've never heard of.
+
+Creating 2000+ cards was by hands was not possible so I used Claude to do it. After the initial card generation process, I created some skills to do quality assurance runs on the cards. Dividing cards into chunks that are manageable for Claude was the biggest difficulty here. Also, assigning difficulty/popularity scores was quite hard because Claude gave all of them 4-8 scores (out of 10). I solved this by coming up with specific rules for when to assign which score. For fun facts and year fact checking, I made Claude look up everyting manually on the internet.
+
+Lastly, I had Claude create a scrappy QA dashboard with card stats and edit forms. I spent a lot of time playing the decks and manually adjusting things that caught my eye. This is still an ongoing process because when creating shareable decks for my friends, I still find that a lot of good cards are missing.
+
+All in all it took me probably 10-15 hours to create all of the cards. This probably only saved me ~30-50% of the time it would take to create them manually. But now I have a repeatable process that's less error prone and will (hopefully) speed up creating more cards in the future.
+#date
+2026-05
+#tags
+creative-work, technology, Claude

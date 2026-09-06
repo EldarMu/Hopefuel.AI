@@ -1,0 +1,25 @@
+https://news.ycombinator.com/item?id=43962125
+@monkeydust
+Practical use-case.
+
+I am looking for a way to throw an address at a planning authority (UK) and download the associated documents for that property. Could this or another tool help?
+
+e.g.
+
+https://publicaccess.barnet.gov.uk/online-applications/appli... (https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=SW1QTRJIIOQ00)
+
+As pure random example.
+
+A property can have multiple planning applications and under each many documents.
+
+What I have found useful (saved me time and potential lost £££) is to take the documents, combine to single pdf and provide to Gemini 2.5 Pro and then ask it to validate against agent specification for a property.
+
+Over the weekend found a place that was advertising a feature of the house that was explicitly prohibited through planning decision notice.
+
+Called the Agent up on it who claimed no knowledge but said this would have come up through solicitor checks, which it would have done, much later down the process with more or my money spent and considerable time lost.
+
+Of course all this possible without LLMs but just makes it easier/cheaper to check at scale.
+#date
+2025-05
+#tags
+money-and-consumer, law-and-bureaucracy, Gemini

@@ -1,0 +1,17 @@
+https://news.ycombinator.com/item?id=45749803
+@keeda
+I realized this last year when ChatGPT helped me get $500 in compensation after a delayed flight turned a layover into an impromptu overnight stay in a foreign country.
+
+It was even more impressive because the situation involved two airlines, a codeshare arrangement, three jurisdictions, and two differing regulations. Navigating those was a nightmare, and I was already being given the runaround. I had even tried using a few airline compensation companies (like AirHelp, which I had successfully used in the past) but they blew me off.
+
+I then turned to ChatGPT and explained the complete situation. It reasoned through the interplay of these jurisdictions and bureaucracies. In fact, the more detail I gave it, the more specific its answers became. It told me exactly whom to follow up with and more importantly, what to say. At that point, airline support became compliant and agreed to pay the requested compensation.
+
+Bureaucracy, information overload and our ignorance of our own rights: this is what information asymmetry looks like. This is what airlines, insurance, the medical industry and other such businesses rely on to deny us our rights and milk us for money. On the flip side, other companies like AirHelp rely on the specialized knowledge required to navigate these bureaucracies to get you what you're owed (and take a cut.)
+
+I don't see either of these strategies lasting long in the age of AI, and as TFA shows, we're getting there fast.
+
+ProTip: Next time an airline delay causes you undue expenses, contact their support and use the magic words “Article 19 of the Montreal Convention”.
+#date
+2025-10
+#tags
+money-and-consumer, law-and-bureaucracy, ChatGPT

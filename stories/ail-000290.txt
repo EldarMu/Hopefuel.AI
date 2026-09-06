@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=48418391
+@hilti
+Claude helped me to rewire my first digital Märklin model train. It pulled the documentation of the control keyboards 6040 and told me how to wire them properly to the routers.
+
+And I restored an old vintage amp with the help of schematics, multimeter and Claude. That was really cool.
+#date
+2026-06
+#tags
+daily-life, creative-work, Claude

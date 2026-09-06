@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=45455420
+@smoe
+Capability wise, they seem close enough that I don’t bother re-evaluating them against each other all the time.
+
+One advantage Gemini had (or still has, I’m not sure about the other providers) was its large context window combined with the ability to use PDF documents. It probably saved me weeks of work on an integration with a government system uploading hundreds of pages of documentation and immediately start asking questions, generating rules, and troubleshooting payloads that were leading to generic, computer-says-no errors.
+
+No need to go trough RAG shenanigans and all of it within the free token allowance.
+#date
+2025-10
+#tags
+law-and-bureaucracy, technology, Gemini

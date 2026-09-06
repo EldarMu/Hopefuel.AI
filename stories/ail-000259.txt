@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=46100406
+@qustrolabe
+What examples of AI integrations annoy you? Because I have such wonderful time randomly discovering AI integrations where they actually fit nicely: 1) marimo documentation has ask button to quickly get some help, kind of like way smarter RAG; 2) postman has AI that can write little scripts that visualize responses however you want (for example I turned bunch of user ids into profile links so that I could visit all of them); 3) Grok button on each Twitter post is just amazing to quickly get into what post even references and talks about. 4) Google's AI Mode saved me many clicks, even just Gemini that can quickly fetch when certain TV Show goes live and make reminder is amazing
+#date
+2025-11
+#tags
+daily-life, technology, Gemini

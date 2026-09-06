@@ -1,0 +1,19 @@
+https://news.ycombinator.com/item?id=48072226
+@coldstartops
+Here is a public project.
+
+https://github.com/KeibiSoft/KeibiDrop (https://github.com/KeibiSoft/KeibiDrop)
+
+It took me 2 years ago around 2k hours to build a cross platform FUSE vault, without using AI assisted tools.
+
+The pain was debugging through logs and system traces. And understanding how things work.
+
+Now managed to ship this one much faster, as an after hours project. Started it in may 2025, and around end of November 2025 started using claude on it.
+
+Just by dumping logs into claude, and explaining the attack vector for the problems, saved me the FML moments of grindings walls of syscalls on 3 platforms.
+
+I would say much easier to progress, and ship with the same rigour, minimize my time, focus and brain power involvement such that I can put the energy somewhere else.
+#date
+2026-05
+#tags
+technology, creative-work, Claude

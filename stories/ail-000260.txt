@@ -1,0 +1,17 @@
+https://news.ycombinator.com/item?id=49574053
+@BlackRabbit1
+For reviewing schematic/boards I recently developed something for internal tests:
+
+1. A frontier model (either Opensource or closed source) gets a load of text to review a Kicad project systematically
+
+2. The frontier model can extremely "ask" a cheap Gemini vision model to give it data from datasheets or specs.
+
+Main problem: the quality dramatically hits the shitter done once it falls back to "pdf2latext" due to complex tables.
+
+It was even able to do complex ngspice simulations.  But you must offer it all datasheet PDFs.
+
+$1-2 of tokens saved me from $70-80 bugged PCBs.
+#date
+2026-09
+#tags
+technology, money-and-consumer, Gemini

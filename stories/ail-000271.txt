@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=46816704
+@gaoshan
+ChatGPT helped me understand a problem with my stomach that multiple doctors and numerous tests have not been able to shed any effective light on. Essentially I plugged in all of the data I could from my own observations of my issue over a 35 year period. It settled on these 3 possibilities: "Functional Dyspepsia with slow gastric accommodation, Mild delayed gastric emptying (even subclinical), Visceral hypersensitivity (your nerves fire pain signals when stretched)" and suggested a number of strategies to help with this. I implemented many of them and my stomach pain has been non-existent for months now... longer than I have ever been pain free.
+
+I feel like the difference is that doctors took what I told them and only partially listened. They never took it especially seriously and just went straight to standard tests and treatments (scopes, biopsies and various stomach acid impacting medications). ChatGPT took some of what I said and actually considered it, discounting some things and digging into others (I said that bitter beer helped... doctor laughed at that, ChatGPT said that the alcohol probably did not help but that the bittering agent might and it was correct). ChatGPT got me somewhere better than where I was previously... something no doctor was able to do.
+#date
+2026-01
+#tags
+health, ChatGPT

@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=40538871
+@idamantium
+this is what i've done. never really broke the site in a way that i couldn't easily roll back and fix, and that was rare. what really slowed me down was messing up my local ruby installation because i really don't know anything about ruby. chatgpt helped me finally fix that though.
+#date
+2024-05
+#tags
+technology, ChatGPT

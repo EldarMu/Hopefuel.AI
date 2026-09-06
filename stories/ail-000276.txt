@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=45735660
+@awillen
+Often with these kinds of things it's not even as much about being specifically accurate as it is about presenting yourself in a way that makes the other party believe that have sufficient understanding of the issue at hand and the escalation paths available that you won't just go away if they don't play ball. That is, make yourself credibly as a Dangerous Professional, in patio11 parlance.
+
+I just did this with a pet insurance bill, and ChatGPT was very helpful. They denied based on the pre-existing condition exclusion even where it was obviously not valid (my dog chipped her tooth severely enough to need a root canal, and they denied because years before when she wasn't covered under the policy, she had chipped the same tooth in a minor, completely cosmetic way).
+
+I was sure they were in the wrong and would've written a demand letter even in the pre-AI days, but ChatGPT helped me articulate it in a way that made me sound vastly more competent than the average consumer threatening a lawsuit. It helped make my language as legally formal as possible, and it gave me specific statutes around what comprises a pre-existing condition in CA as well as case law that placed very high standards on insurers seeking to decline coverage by invoking an exclusion (yes I checked, and they were real cases that said what it thought they said).
+
+Gave them fourteen days to reverse the denial before I filed in small claims court, and on day fourteen got a letter informing me that the claim would be paid in full. It's of basically no cost to them to deny even remotely borderline cases, so you have to make them believe that you will use the court system or whatever other escalation paths there are to impose costs, and LLMs are great for that.
+#date
+2025-10
+#tags
+law-and-bureaucracy, money-and-consumer, ChatGPT

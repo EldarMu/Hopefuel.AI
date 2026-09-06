@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=47397948
+@adonovan
+I’ve been an overt AI hater but have found very recently that, though I still hate a great many things about AI, it has become useful for coding.
+
+In 10m Gemini correctly diagnosed and then fixed a bug  in a fairly subtle body of code that I was expecting to have to spend a couple hours working on.
+
+I spent much of the past week using Gemini to build a prototype of a clean new (green field) system involving RPCs, static analysis, and sandboxing. I give it very specific instructions, usually after rounds of critical design discussions, and it generates structurally correct code that passes essentially valid tests. Error handling is a notable weakness. I review the code by hand after each step and often make changes, and I expect to go over the over the whole thing very carefully at the end, but it has saved me many hours this week.
+
+Perhaps more valuable than the code has been the critical design conversation, in which it mostly is fluent at the level of an experienced engineer and has been able explain, defend, and justify design choices quite coherently. This saved time I would otherwise have spent debating with coworkers. But it’s not always right and it is easily led astray (and will lead astray), so you need a clear idea in mind, a firm hand, and good judgment.
+#date
+2026-03
+#tags
+technology, work, Gemini

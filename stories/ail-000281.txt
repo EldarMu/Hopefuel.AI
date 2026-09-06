@@ -1,0 +1,19 @@
+https://news.ycombinator.com/item?id=42813922
+@shlomo_z
+Seems like everyone disagrees with you. Instead of reply to each of them individually I will reply here:
+
+I used to be a non-programmer (although extremely technically advanced). I was very good with the terminal because I always played around with ADB and other things. I even wrote Windows batch scripts (but looking at them now is embarrassing. I used a lot of repetition instead of loops).
+
+When ChatGPT became available, and my friend taught me how to use it to write Python scripts, I went all in. I didn't write a word of my own code. I just copy /pasted Chatgpt's output into notepad++. It was really annoying sometimes to get ChatGPT to change a simple thing. It hallucinated often and "fixed" stupid things I didn't ask for help with. I used all these scripts for various personal things. For example, it made me a GUI to edit the metadata of every .mp3 in a folder).
+
+After several months of exposure to code, I knew the basic syntax and tried to code myself when I could, and Stack Overflow was a big help. I still had very basic skills and didnt even know what a `class` was.
+
+Fast forward to now, I consider myself extremely good at Python, and decent in other languages. I now use classes and dataclasses all the time. I always add type hints to my code. I follow Python PEPs and try to design my code to be short, maintainable, and to the point.  If a library lacks documentation, I just read the source code. I started using an IDE, and the intellisense is really a step up from using notepad++.
+
+I still use copilot, but I refuse to paste large code blocks from any llm. It makes the code so much harder to maintain. If I really do like the code chatgpt gave me when I get stuck, I write it myself, instead of copy/paste.
+
+I don't know if everyone has the same experience as me, but I would certainly say that ChatGPT helped me become a successful programmer.
+#date
+2025-01
+#tags
+education, technology, ChatGPT

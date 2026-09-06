@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=41601587
+@Meganet
+ChatGPT helped me to setup a hugo page from scratch with templating and stuff.
+
+It did so by just reading the hugo documentation without any RAG.
+
+And it was 10x better than the huge documentation in itself.
+#date
+2024-09
+#tags
+technology, ChatGPT

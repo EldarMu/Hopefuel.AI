@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=48891960
+@coderatlarge
+claude helped me build a functional visual modem (using the cameras and microphones/speakers) for mac/iPhone in about a day and <100 prompts. i’ve worked on mobile apps once 10 years ago and have never built one from scratch. i've built a handful of UIs in 20 years on different platforms. my actual work was mostly in systems software. so it would have probably taken me weeks to months to build this from scratch. it would have cost substantial money to outsource this and iterate on ui and core algo as i did.
+
+i've been curious about the feasibility of this concept for quite some time and now i have an actual example to study and measure and hack on, for a fraction of the cost of my pro sub. it wasn’t trivial, i doubt a non-swe could get it done in that time, but i'm a pretty happy customer overall.
+#date
+2026-07
+#tags
+technology, creative-work, Claude

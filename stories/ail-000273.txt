@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=46091175
+@keeda
+We all knew this was coming, but I had an experience a year+ ago that showed this ChatGPT already had this capability back then. It also showed how AI could truly differentiate itself from other ad vectors, potentially in an actually heplful way: I had requirements very specific to my situation, and ChatGPT helped me find the exact products that could meet my unique requirements.
+
+Briefly, I had an old Surface Pro whose SSD had died, and given that disassembly was too cumbersome, I wanted to fix it by booting off an external drive. So I wanted a USB drive or microSD card that was fast, durable and spacious enough to support my Windows version for typical usage over extended periods of time, but also small and light enough to keep perma-attached without being too cumbersome, for a reasonable budget.
+
+I explained my requirements in a conversation with ChatGPT and after some back and forth, especially about the physical characteristics of the ideal drive, it eventually recommended 3 very specific USB drives. Those were then my starting point for a search on Amazon, and I did end up buying a closely related product.
+
+I'm not even sure if this was an intentional outcome or yet another emergent thing. But I recall thinking that a) doing this research on my own would have taken me 5x the time, and b) if ChatGPT had simply provided affiliate links to those products it could have effectively monetized that conversation. Win-win for everyone without the need for intrusive ads.
+
+Unfortunately, the lure of ad revenue is too strong and enshittification will ensue... but it doesn't have to.
+#date
+2025-11
+#tags
+technology, daily-life, ChatGPT

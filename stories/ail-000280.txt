@@ -1,0 +1,17 @@
+https://news.ycombinator.com/item?id=43499137
+@marcuschong
+The key for LLM productivity, it seems to me, is grounding. Let me give you my last example, from something I've been working on.
+
+I just updated my company commercial PPT. ChatGPT helped me with:
+ - Deep Research great examples and references of such presentations.
+ - Restructure my argument and slides according to some articles I found on the previous step, and thought were pretty good.
+ - Come up with copy for each slide.
+ - Iterate new ideas as I was progressing.
+
+Now, without proper context and grounding, LLMs wouldn't be so helpful at this task, because they don't know my company, clients, product and strategy, and would be generic at best. The key: I provided it with my support portal documentation and a brain dump I recorded to text on ChatGPT with key strategic information about my company. Those are two bits of info I keep always around, so ChatGPT can help me with many tasks in the company.
+
+From that grounding to the final PPT, it's pretty much a trivial and boring transformation task that would have cost me many, many hours to do.
+#date
+2025-03
+#tags
+work, ChatGPT

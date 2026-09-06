@@ -1,0 +1,21 @@
+https://news.ycombinator.com/item?id=41028447
+@kibbi
+Am I blind or is there no mention at all of the GPT model he used?
+
+The author states his conclusions but doesn't give the reader the information required to examine the problem.
+
+- Whether the article to be summarized fits into the tested GPT model's context size
+
+- The prompt
+
+- The number of attempts
+
+- He doesn't always state which information in the summary, specifically, is missing or wrong
+
+For example: "I first tried to let ChatGPT one of my key posts (...). ChatGPT made a total mess of it. What it said had little to do with the original post, and where it did, it said the opposite of what the post said." He doesn't say which statements of the original article were reproduced falsely by ChatGPT.
+
+My experience is that ChatGPT 4 is good when summarizing articles, and extremely helpful when I need to shorten my own writing. Recently I had to write a grant application with a strict size limit of 10 pages, and ChatGPT 4 helped me a lot by skillfully condensing my chapters into shorter texts. The model's understanding of the (rather niche) topic was very good. I never fed it more than about two pages of text at once. It also adopted my style of writing to a sufficient degree. A hypothetical human who'd have to help on short notice probably would have needed a whole stressful day to do comparable work.
+#date
+2024-07
+#tags
+work, creative-work, ChatGPT

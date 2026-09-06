@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=46540630
+@dxuh
+I've had serious trouble with my knee and elbow for years and ChatGPT helped me immensely after a good couple dozen of doctors just told me to take Ibuprofen and rest and never talked to me for longer than 3 minutes. I feel like as with most things LLM there are many opponents that say "if you do what an LLM says you will die", which is correct, while most people that look positively towards using LLMs for health advice report that they used ChatGPT to diagnose something. Having a conversation with ChatGPT based on reports and scans and figuring out what follow-up tests to recommend or questions to ask a doctor makes sense for many people. Just like asking an LLM to review your code is awesome and helpful and asking LLM to write your code is an invitation for trouble.
+#date
+2026-01
+#tags
+health, ChatGPT

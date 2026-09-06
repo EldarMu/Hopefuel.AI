@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=46127397
+@adventured
+I'll give you a basic example where it saved me a ton of time to vibe code instead of doing it myself, and I believe it would hold true for anyone.
+
+Creating ~50 different types of calculators in JavaScript. Gemini can bang out in seconds what would take me far longer (and it's reasonable at basic tailwind style front-end design to boot). A large amount of work smashed down to a couple of days of cumulative instruction + testing in my spare time. It takes far long to think of how I want something to function in this example than it does for Gemini to successfully produce it. This is a use case scenario where something like Gemini 3 is exceptionally capable, and far exceeds the capability requirements needed to produce a decent outcome.
+
+Do I want my next operating system vibe coded by Gemini 3? Of course not. Can it knock out front-end JavaScript tasks trivially? Yes, and far faster than any human could ever do it. Classic situation of using a tool for things it's particularly well suited.
+
+Here's another one. An SM-24 Geophone + Raspberry PI 5 + ADC board. Hey Gemini / GPT, I need to build bin files from the raw voltage figures + timestamps, then using flask I need a web viewer + conversion on the geophone velocity figures for displacement and acceleration. Properly instructed, they'll create a highly functional version of that with some adjustments/iteration in 15-30 minutes. I basically had them recreate REW RTA mode for my geophone velocity data, and there's no way a person could do it nearly as fast. It requires some checking and iteration, and that's assumed in the comparison.
+#date
+2025-12
+#tags
+technology, Gemini

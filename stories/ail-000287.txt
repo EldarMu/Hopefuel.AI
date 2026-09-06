@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=40657815
+@giancarlostoro
+In my case, I talk a lot, and write a TON, my use for AI is really "can you say the same information with less words" then I tweak what it gives me. To be fair, I'm not a paid writer, just a dev writing emails to business people. I rewrite emails like 20 times before sending them. ChatGPT has helped me to just write it once, and have it summarized. I usually keep confidential details out and add them in after if needed.
+#date
+2024-06
+#tags
+work, technology, ChatGPT

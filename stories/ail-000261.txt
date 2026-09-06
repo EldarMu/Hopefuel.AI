@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=48368188
+@spacebanana7
+I used Gemini to fix my new boiler by taking various photos and asking it for help. It saved me a plumber call-out (this was a user error issue, nothing safety critical).
+
+Gemini also told me about some obscure procedures to fix my wedding paperwork after it’d been submitted with typos.
+#date
+2026-06
+#tags
+daily-life, family-and-relationships, Gemini
