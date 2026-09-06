@@ -1,0 +1,25 @@
+https://news.ycombinator.com/item?id=45909771
+@chadcmulligan
+Isn't a big part of it knowing what to ask Claude Code - for example I wanted some code to brighten/darken my buttons on mouseover, I asked Claude to make some code to do that, it was a bit wrong, I fixed it. I integrated the code and tested it. Now I know how to do all this, because I've been doing it for years, I could have done it without Claude but it saved me a bit of time.
+
+Now there are a few things I see that affect this
+
+1. The only way Claude knew how to do this is because there was a stack of existing code, but its probably in C, so you could regard Claude as an expert programming language translator.
+
+2. There is no way that Claude could integrate this into my current code base
+
+3. Claude can't create anything new
+
+4. It's often very wrong, and the bigger/more complex the code is, the wronger it gets.
+
+So, what are the areas that Claude excels? it seems that CRUD web app/Web front end is the sweet spot? (not really sure about this - I don't do much web front end work). I write graphics Apps and Claude is handy for those things you'd have to look up and spend some time on, but thats about all.
+
+An example - I asked it to make me some fancy paint brush code (to draw in a painterly style), this is hard, the code that it made was pretty bad, it just used very basic brush styles, and when pressed it went into crazy land.
+
+So my point is - if something exists and its not too hard, Claude is great, if you want something large and complex, then Claude can be a good helper. I really don't see how it can replace a good dev, there are a lot of code monkeys around gluing web sites together that could be replaced but even then they are probably the same people who are vibe coding now.
+
+If you really want some fun ask them to draw a circuit diagram for a simple amplifier, it's almost painful watching them struggle.
+#date
+2025-11
+#tags
+technology, Claude

@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=48646773
+@SyneRyder
+I've had success with vision models & OCR, saved me many hours / days / weeks of typing work.
+
+Last year I finally OCR'd many hundreds of pages of my father's old writings. I found that feeding it to Claude Sonnet 4.x via API gave me results that were perfect. No corrections required. So perfect, that Claude was reading along with the story, and actually pointed out a continuity error in the story where an incorrect character was reciting dialog. Claude asked if it should transcribe exactly as is or if I would like Claude to correct the continuity error.
+
+Claude also correctly OCR'd some handwriting that was in the margins of the documents. Sonnet came very close to transcribing a Word Sleuth puzzle, but that was where I hit the limits of its capability at the time.
+
+Mistral OCR was also good (and actually what I started with), but it wasn't quite as good as Claude. And when it was wrong, Mistral could be frighteningly wrong - one API call must have failed, the model must have been presented with a pure black / null image, and I got back a "transcription" that described neverending darkness. It read like something the Woodsman would have broadcast in Twin Peaks S3E8. That poor model.
+
+Tables from electronics datasheets might be okay, I think I've had success with OCR of technical manuals with tables for 80s synthesizer hardware. But I admit my use cases don't crossover into transcriptions of equations or graphs.
+#date
+2026-06
+#tags
+family-and-relationships, technology, Claude

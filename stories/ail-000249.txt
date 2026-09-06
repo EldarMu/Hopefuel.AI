@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=35246747
+@iamsanteri
+I've done what I'd describe as pair programming with GPT-4 yesterday rebuilding my blog from Ghost over to Next.js. Using tailwind CSS, we tried and worked through animations and other such tricky aspects I usually find tedius but after a mistake or two, we tried different things and eventually ChatGPT nailed it and saved me lots of time.
+
+The keyword in your comment is "premature" hype. I'm betting that within this decade we'll see how far all this will be going and that's quite some change at a pace we haven't dealt with before. Let's see what you think in 5-10 years.
+#date
+2023-03
+#tags
+creative-work, technology, ChatGPT
