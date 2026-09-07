@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=49253471
+@ElFitz
+Meanwhile, ChatGPT correctly diagnosed what was wrong with my plant from a single photo, identified which leaves I should cut, and annotated the picture showing where to cut and what not to touch.
+
+I honestly expected a made-up useless generated image that matched the idea but not the actual thing.
+
+Guess I’m still living in 2024.
+#date
+2026-08
+#tags
+animals-and-nature, ChatGPT

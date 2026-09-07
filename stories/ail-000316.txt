@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=39497148
+@iamleppert
+ChatGPT4 correctly diagnosed my neurological condition, an infection that many doctors had missed. While I was in the hospital I asked ChatGPT the same questions as the doctors and it was nearly identical to what they were telling me every time.
+
+It also acted as a therapist and talked me down from several depressions while in the hospital, far better than any human therapist I’ve ever had. The fact that it’s an AI made me actually feel better than if the therapy was delivered by a real therapist, for some strange reason.
+#date
+2024-02
+#tags
+health, mental-health, ChatGPT

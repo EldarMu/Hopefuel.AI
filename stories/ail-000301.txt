@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=46496267
+@codebolt
+Another anecdote: I built my first Android app in less than a dozen hours over the holiday, tailored for a specific need I have. I do have many years of experience with Java, C# and JS (Angular), but have never coded anything for mobile. Gemini helped me figure out how to set up a Kotlin app with a reasonable architecture (Hilt for dependency injection, etc). It also helped me find Material3 components and set up the UI in a way that looks not too bad, especially considering my lack of design skills. The whole project was a real joy to do, and I have a couple of more ideas that I'm going to implement over the coming months.
+
+As a father of three with a busy life, this would've simply been impossible a couple of years ago.
+#date
+2026-01
+#tags
+family-and-relationships, Gemini

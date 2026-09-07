@@ -1,0 +1,17 @@
+https://news.ycombinator.com/item?id=48399525
+@SkyPuncher
+I found H2 anti-histamines like Pepcid actually made my symptoms worse.
+
+I was in a similar situation where Claude finally helped me make a breakthrough. It seems that my issue is entirely related to histamine levels.
+
+* H1 (like Zyrtec) help block the body’s response to high histamines
+
+* H2 (like Pepcid) actually worsen my symptoms overtime because my body was readjusting baseline
+
+* Quercitin and DAO enzyme help massively.
+
+Also being extremely mindful of histamine levels in food helps keep my baselines low. This can be tricky because histamines collect as food ages (so two batches of something can lead to different responses) and some “low histamine” foods can still trigger your body to dump histamines (so they actually act like high histamine foods).
+#date
+2026-06
+#tags
+daily-life, Claude

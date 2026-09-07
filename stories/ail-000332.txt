@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=48431970
+@ragebol
+- Claude fixed my Linux laptop install, with me just describing issues and pasting commands and output
+
+- OpenCode one-shotted a basic implementation of the classic battlefield game, but with 6 players and visiting locations and doing assignments to earn bombs for the game. Over the last month, 'I' expanded it into something I could actually monetize I think.
+
+- it's just productive at work
+#date
+2026-06
+#tags
+technology, Claude

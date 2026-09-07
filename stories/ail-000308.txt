@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=35535882
+@leobg
+It does take a special person, and a special frame of mind to even sit down and ask such a question. I guess 80% of the reward is simply asking the question. Having a system that actually answers it might only be worth 20%.
+
+We’ve already seen cases here where, if a doctor had asked ChatGPT, they would’ve diagnosed the disease correctly. The problem wasn’t that the AI wasn’t good enough. The problem was that they never asked the question.
+
+Then, again, having easy access to getting such questions answered – maybe that makes more people ask such questions?
+#date
+2023-04
+#tags
+health, ChatGPT

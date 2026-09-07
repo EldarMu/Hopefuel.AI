@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=45118333
+@devinprater
+I use AI, as a blind person. I posted a week or so ago a video in which I use TalkBack's image description feature to play a video game that has no accessibility at all. Of course, that was on Android which isn't the most blind-friendly of OS', and iOS doesn't have LLM image descriptions built in, nor good PS2 emulators.
+
+Other blind people are all in with the AI hype, describing themselves as partially sighted because of AI with their Meta Rayban glasses. Sidenote, Rayban glasses report that I died last year. I somehow missed my funeral, sorry to all those who were there without me. I do like brains, though...
+
+Meanwhile many LLM sites are not blind-friendly, like Claude, Perplexity, and there are sites that try but fail so exasperatingly hard that I lose any motivation for filing reports where I can't even begin to explain what's breaking so hard. It's evident that OpenWebUI have not tested their accessibility with a screen reader. Anyway blindness organizations (NFB mainly) have standardized on just use ChatGPT and everything else is the wild west where they absolutely do not care. Gemini could be more accessible, on web and especially Android, but all reports have been ignored so I'm not going to bother with them anymore. It's sad since their AI describes images well. Thank goodness for the API, and tools like [PiccyBot](https://www.piccybot.com/) on iOS/Android and [viewpoint](https://viewpoint.nibblenerds.com/) and [OmniDescriber](https://audioses.com/en/yazilimlar.php) on Windows. I'm still waiting for iOS to catch up to Android in LLM image descriptions built into the screen reader. Meanwhile, at least we have [this shortcut](https://shortcutjar.com/describe/documentation/). It uses GPT 4O but at least it's something. Apple could easily integrate with their own Apple Intelligence to call out to ChatGPT or whatever, but I guess competition has to happen. Or something. Maybe next year lol. In the meantime I'll either use my own cents to get descriptions or share to Seeing AI or something like a cave man.
+#date
+2025-09
+#tags
+accessibility, ChatGPT

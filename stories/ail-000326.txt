@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=46257955
+@bgilly
+I’ve been fine tuning mine pretty often. Do you have any Claude.md files you can share as good examples? Especially with opus 4.5.
+
+And thank you for your work!! I focus all of my energy on helping families stay safe online, I make educational content and educational products (including software). Claude Code has helped me amplify my efforts and I’m able to help many more families and children as a result. The downstream effects of your work on Claude Code are awesome! I’ve been in IT since 1995 and your tools are the most powerful tools I’ve ever used, by far.
+#date
+2025-12
+#tags
+family-and-relationships, technology, Claude

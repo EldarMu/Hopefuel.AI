@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=48054340
+@evilelectron
+This is exactly how I did my last project of automating the generation of an interface library between a server that controls hardware and the mobile app.
+
+The hardware control team delivers a spec as a document and spreadsheet. The mobile team was using that to code the interface library and validating their code against the server. I converted the document to TSV, sent some parts to Claude and have it write a parser for the TSV keeping all the nuances of human written spec. It took more than 150 iterations to get the parser to handle all edge cases and generate an intermediate output as JSON. Then Claude helped me write a code generator using some custom glue on top of Apollo to generate the code that is consumed by the mobile app.
+
+This whole pipeline runs as part of Github actions and calls Claude only when our library validator fails. There is an md file which is sent to Claude on failure as part of the request to figure out what went wrong, propose a solution and create a PR. This is followed by a human review, rework and merge. Total credits consumed to get here < $350.
+#date
+2026-05
+#tags
+technology, Claude

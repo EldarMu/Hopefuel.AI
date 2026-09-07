@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=34070355
+@gamegoblin
+Obviously, I agree replacing doctors is a terrible idea.
+
+That said, in the last 5 years I have broken an ankle in a rock climbing accident, and gotten a herniated disk in my neck from wrestling. Both times, medical professionals misdiagnosed me for months (both times until I eventually found a doctor who would refer me for an MRI which proved the issue in both cases). This resulted in a lot of undue suffering and increased damage.
+
+In both cases, I explained the situation and symptoms to GPT3 (this is before ChatGPT was released), and it correctly diagnosed the issue in both circumstances, down to the exact bone I most likely fractured in my ankle (talus), and down to the exact vertebrae I was likely herniated in my neck (C6-C7).
+
+Now, I "consult" GPT before going to the doctor.
+#date
+2022-12
+#tags
+health, ChatGPT

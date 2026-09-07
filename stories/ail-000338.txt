@@ -1,0 +1,23 @@
+https://news.ycombinator.com/item?id=35332172
+@Jamesbeam
+I want to share a personal experience with GPT-4 and other AI tools that has helped me a lot, given my recently acquired physical disability.
+
+My creative and critical thinking are still in great shape, but I've been struggling to execute my ideas because of my physical limitations. For example, I used to paint as a way to deal with traumatic experiences, but that's no longer possible for me.
+
+I got depressed and frustrated, being no longer able to transfer traumatic memories out of my head.
+
+I found a workaround using Stable Diffusion and ChatGPT. By doing this, I can recreate my paintings in my own style without having to physically paint them. It's now part of my weekly routine and has been a real support for my therapy and PTSD.
+
+Another thing GPT-4 has helped me with is managing anxiety attacks. I'm not good at coding, it's simply a skill I'm not good at, but with some assistance from GPT-4, I made a simple browser game using HTML, CSS, and JS. This game is now my go-to distraction when I feel anxious and is easily accessible on my phone.
+
+GPT-4 has also made everyday tasks, like writing letters or emails, a bit easier for me. I can shave off a few minutes here and there that way each day, which is a lot of time I can do stuff I enjoy if you add them up over a year or longer.
+
+While these benefits may not seem groundbreaking to everyone, especially if you're healthy, they've made a significant difference in my life and for me personally, and I think that is remarkable.
+
+I'm also not good at asking other people for help, especially for stuff I managed to do on my own for all my life.
+
+So if I can ask AI Tools to do stuff for me instead of taking up a friend's lifetime, it helps me to keep a sense of independence and being able to take care of myself.
+#date
+2023-03
+#tags
+accessibility, ChatGPT

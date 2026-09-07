@@ -1,0 +1,31 @@
+https://news.ycombinator.com/item?id=47170438
+@epiccoleman
+I might be tilting at a strawman of your definition of vibe coding - apologies in advance if so.
+
+But LLM-aided development is helping me get my hands dirty.
+
+Last weekend, I encountered a bug in my Minecraft server. I run a small modded server for my kids and I to play on, and a contraption I was designing was doing something odd.
+
+I pulled down the mod's codebase, the fabric-api codebase (one of the big modding APIs), and within an hour or so, I had diagnosed the bug and fixed it. Claude was essential in making this possible. Could I have potentially found the bug myself and fixed it? Almost certainly. Would I have bothered? Of course not. I'd have stuck a hopper between the mod block and the chest and just hacked it, and kept playing.
+
+But, in the process of making this fix, and submitting the PR to fabric, I learned things that might make the next diagnosis or tweak that much easier.
+
+Of course it took human judgment to find the bug, characterize it, test it in-game. And look! My first commit (basically fully written by Claude) took the wrong approach! [1]
+
+Through the review process I learned that calling `toStack` wasn't the right approach, and that we should just add a `getMaxStackSize` to `ItemVariantImpl`. I got to read more of the codebase, I took the feedback on board, made a better commit (again, with Claude), and got the PR approved. [2]
+
+They just merged the commit yesterday. Code that I wrote (or asked to have written, if we want to be picky) will end up on thousands of machines. Users will not encounter this issue. The Fabric team got a free bugfix. I learned things.
+
+Now, again - is this a strawman of your point? Probably a little. It's not "vibe coding going straight to production." Review and discernment intervened to polish the commit, expertise of the Fabric devs was needed. Sending the original commit straight to "production" would have been less than ideal. (arguably better than leaving the bug unfixed, though!)
+
+But having an LLM help doesn't have to mean that less understanding and instinct is built up. For this case, and for many other small things I've done, it just removed friction and schlep work that would otherwise have kept me from doing something useful.
+
+This is, in my opinion, a very good thing!
+
+[1]: https://github.com/FabricMC/fabric-api/pull/5220/changes/3e3... (https://github.com/FabricMC/fabric-api/pull/5220/changes/3e355986821c1cba87fec2cb044894ea6912ac98)
+
+[2]: https://github.com/FabricMC/fabric-api/pull/5220/changes (https://github.com/FabricMC/fabric-api/pull/5220/changes)
+#date
+2026-02
+#tags
+family-and-relationships, technology, Claude

@@ -1,0 +1,19 @@
+https://news.ycombinator.com/item?id=43509405
+@seertaak
+I totally agree, and this community far is from the worst. In trans communities there's incredible hostility towards LLMs - even local ones. "You're ripping off artists", "A pissing contest for tech bros", etc.
+
+I'm trans, and I don't disagree that this technology has aspects that are problematic. But for me at least, LLMs have been a massive equalizer in the context of a highly contentious divorce where the reality is that my lawyer will not move a finger to defend me. And he's lawyer #5 - the others were some combination of worse, less empathetic, and more expensive. I have to follow up a query several times to get a minimally helpful answer - it feels like constant friction.
+
+ChatGPT was a total game-changer for me. I told it my ex was using our children to create pressure - feeding it snippets of chat transcripts. ChatGPT suggested this might be indicative of coercive control abuse. It sounded very relevant (my ex even admitted in a rare, candid moment that she feels a need to control everyone around her one time), so I googled the term - essentially all the components were there except physical violence (with two notable exceptions).
+
+Once I figured that out, I asked it to tell me about laws related to controlling relationships - and it suggested laws either directly addressing (in the UK and Australia), and the closest laws in Germany (Nötigung, Nachstellung, violations of dignity, etc., translating them to English - my best language). Once you name specific laws broken and provide a rationale for why there's a Tatbestand (ie the criterion for a violation is fulfilled), your lawyer has no option but to take you more seriously. Otherwise he could face a malpractice suit.
+
+Sadly, even after naming specific law violations and pointing to email and chat evidence, my lawyer persists in dragging his feet - so much so that the last legal letter he sent wasn't drafted by him - it was ChatGPT. I told my lawyer: read, correct, and send to X. All he did was to delete a paragraph and alter one or two words. And the letter worked.
+
+Without ChatGPT, I would be even more helpless and screwed than I am. It's far from clear I will get justice in a German court, but at least ChatGPT gives me hope, a legal strategy. Lastly - and this is a godsend for a victim of coercive control - it doesn't degrade you. Lawyers do. It completely changed the dynamics of my divorce (4 years - still no end in sight, lost my custody rights, then visitation rights, was subjected to confrontational and gaslighting tactics by around a dozen social workers - my ex is a social worker -, and then I literally lost my hair: telogen effluvium, tinea capitis, alopecia areata... if it's stress-related, I've had it), it gave me confidence when confronting my father and brother about their family violence.
+
+It's been the ONLY reliable help, frankly, so much so I'm crying as I write this. For minorities that face discrimination, ChatGPT is literally a lifeline - and that's more true the more vulnerable you are.
+#date
+2025-03
+#tags
+law-and-bureaucracy, ChatGPT

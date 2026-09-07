@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=48855856
+@ToValueFunfetti
+An AI chatbot diagnosed my rolled shoulders. I had assumed I had bad workout form. I would google "discomfort in upper back" or whatever and it would say "back pain after exercise means take a rest" and I would rest and it wouldn't get better until I lost interest in working out. It never occurred to me that this could be a medical problem, so I never asked a doctor (not that I had one to ask, as I was working retail at the time). Last time I started working out, I went to ChatGPT instead of google and it said "here's your problem, here's how to fix it" and it was right and I continue to work out and my quality of life has risen tremendously. YMMV
+#date
+2026-07
+#tags
+health, ChatGPT

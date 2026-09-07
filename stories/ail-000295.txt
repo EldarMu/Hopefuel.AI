@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=47293771
+@LoganDark
+I love Claude Code because it lets me try out ideas a lot faster. Sometimes I have to fight with it to get the outcome I want, but other times it's like I can do something in 3 days that'd otherwise take me weeks. For example, I recently had it port a diffusion language model to Swift+MLX so that I could run it on macOS. It messed up one of the details at first, but it was able to figure out the problem and fix it. And for another example, there's a RISC-V bare-metal project where I wanted to play with low-level operating-system-esque things; Claude Code helped me with things like the QEMU invocation, setting up `defmt`, and stuff like that.
+
+I review absolutely everything it does and do a lot of manual iteration on its work to clean up after it, but I think it's worth it, especially because it makes it so much easier to get ideas out that otherwise don't feel worth learning to make fully manually.
+#date
+2026-03
+#tags
+technology, Claude

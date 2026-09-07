@@ -1,0 +1,17 @@
+https://news.ycombinator.com/item?id=48800997
+@pugio
+AI + hardware has really helped my wife and I get more sleep.
+
+I had an esp32-box-3 lying around from a lapsed "voice agent" project from a year or two ago. Had a baby. Baby moved to another room, sleep trained. Baby either: 1. wakes up a few times a night, babbles for a bit, goes back to sleep OR 2. baby wakes up and fusses for N (=10) minutes, at which point parents need to go in and settle (that's the sleep training routine we use).
+
+In either case, we do NOT want to wake up every time the baby does. Baby can go back to sleep easily, we adults have a harder time. A few rounds with Claude and the esp32 is now our new baby monitor. It tracks cry/fuss duration and publishes an audio stream (via a web UI or direct with, say, VLC). The audio only comes through AFTER N minutes of fussing have elapsed. It also posts notifications (to ntfy) after 30s and N minutes. My log says baby often wakes up 1-2 times a night and resettles almost immediately. We only wake up if the audio comes through, after N (10) minutes.
+
+Also during the day it's really handy to be notified when baby has woken up from her nap. Let's us be out of the house, or in a distant room, and still keep track of what's going on.
+
+It's fun to keep improving and adding features to this. Never would have had the time/energy to get this done without a coding agent. I ordered a set of 10 more of the esp32-box-3s to give them out to my friends (well, some are for other projects... so much potential).
+
+(EDIT: Yes, I know this isn't AI designing hardware, but even writing code for embedded off the shelf stuff feels like a huge new potential.)
+#date
+2026-07
+#tags
+family-and-relationships, technology, Claude

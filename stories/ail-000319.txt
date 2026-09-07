@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=48002280
+@adamtaylor_13
+Despite what I suspect the general consensus on HN may be, this does not surprise me at all.
+
+My wife was recently diagnosed with Mast Cell Activation Syndrome (MCAS) after a pretty scary series of ER visits. It's a very strange and stubborn autoimmune disease that manifests with a number of symptoms that, taken individually, could indicate damn near anything.
+
+You could almost feel the doctors rolling their eyes as she explained her symptoms and medical history.
+
+Anyway... it lit a bit of a fire in me to dig deeper, and one day Claude suggested MCAS. I started plugging in more labs, asking for Claude to cross-reference journals mentioning MCAS, and sure enough: it's MCAS.
+
+idk what the moral of the story is except our current medical system is a joke. The doctors aren't the villains, but they sure aren't the heroes either.
+#date
+2026-05
+#tags
+health, family-and-relationships, Claude

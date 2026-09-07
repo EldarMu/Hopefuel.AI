@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=36528000
+@lemming
+I'm endlessly amused by the fact that among the first applications of LLMs were tools to summarise emails, accompanied by tools to write your emails based on a short description of what you want to say. So soon we'll effectively be communicating by text message, with the LLMs acting as a sort of anti-compression in between.
+
+My brother lives in Japan, and he recently had to write a lot of emails to the company renovating his apartment. He said that ChatGPT was a lifesaver there since at least 75% of semi-formal (i.e. between customer and company) Japanese emails is formality and filler. He just skipped all of that and ChatGPT wrote it for him.
+#date
+2023-06
+#tags
+family-and-relationships, ChatGPT

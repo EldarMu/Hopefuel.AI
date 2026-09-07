@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=49467734
+@mattmaroon
+It’s never told me that, but it does help me fix problems. For instance the other day I noticed that my state unemployment insurance rate had increased from 0.75% to 12.75%. I absolutely could have spent hours of my time scouring the website, trying to call and waiting on hold, talking around the issues with a poorly trained state agent.
+
+Instead, I asked ChatGPT what happened. It did a dive and figured out that I was being assessed a penalty rate because I had switched to a new payroll provider that does not file wage reports in my one quarter (seasonal business) where I have no wages. Without a wage report, you are considered delinquent.
+
+You have to love the government, it is the only place where you can be delinquent on a payment you do not owe. ChatGPT filed the correct wage report, navigated to the Support site requested a retroactive rewrite, which was granted and saved me many thousands of dollars.
+
+Would I have done this myself eventually? Probably. But I work a lot in season. Something more important would have been neglected. It would have taken me an amount of hours that I would happily buy back for an entire year of ChatGPT business. It didn’t even hit my 5 hour usage limit to do it.
+
+So maybe instead of asking it how it feels about you, ask it to do useful things. It’s my employee, not my girlfriend.
+#date
+2026-08
+#tags
+law-and-bureaucracy, ChatGPT

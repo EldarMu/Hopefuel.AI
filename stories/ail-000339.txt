@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=39658918
+@ttul
+I read a lot of niggling comments here about whether Claude was really being smart in writing this GIF fuzzer. Of course it was trained on fuzzer source code. Of course it has read every blog post about esoteric boundary conditions in GIF parsers.
+
+But to bring all of those things together and translate the concepts into working Python code is astonishing. We have just forgotten that a year ago, this achievement would have blown our minds.
+
+I recently had to write an email to my kid’s school so that he could get some more support for a learning disability. I fed Claude 3 Opus a copy of his 35 page psychometric testing report along with a couple of his recent report cards and asked it to draft the email for me, making reference to things in the three documents provided. I also suggested it pay special attention to one of the testing results.
+
+The first email draft was ready to send. Sure, I tweaked a thing or two, but this saved me half an hour of digging through dense material written by a psychologist. After verifying that there were no factual errors, I hit “Send.” To me, it’s still magic.
+#date
+2024-03
+#tags
+accessibility, Claude

@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=48528892
+@enraged_camel
+I'm using AI for most things. It has been an incredible improvement to both my quality of life and my wallet. Some of the most high profile items from just the past three months:
+
+* I'm getting my roof replaced due to hail damage. Insurance originally covered only $5k due to depreciation. I fed the insurance policy to AI. I learned about the appraisal clause and invoked it. At the end, I got another $6,500 back.
+* I was having issues with plumbing. Four different plumbers came, they all said the cast iron pipes under the house need to change. Quotes ranged from $35k to $55k. I had AI walk me through the process. It taught me about the yard line vs. under-slab distinction, and suggested getting just the yard line replaced first because it's much cheaper and can fix the issue. I did that and spent $6k. The issue was fixed. I "saved" $30k for now by deferring that massive month-long project. (For brevity, I'm omitting a ton of boring technical stuff I learned about plumbing that helped me make the optimal decision - none of the contractors bothered explaining any of it.)
+* My 2010 Hyundai Santa Fe is starting to show its age. I've taken it to multiple different repair shops, then fed their diagnoses and recommendations to AI and figured out which ones are trying to fleece me and which ones are being more careful and conservative with their repair recommendations. Probably saved several thousand dollars there. Learned a lot about cars too!
+* My partner and I are converting the backyard to a wildlife sanctuary. The AI helped us plan what to plant where (depending on lots of factors like sunlight location, irrigation access, etc.) and it has been going really well. Also planned out a dragonfly pond to deal with mosquitoes. AI created a project plan, including schematics, material purchase list and step-by-step instructions.
+* I've been wanting to do various other home improvement projects, but only ones that make financial sense. I took photos of my house, both inside and outside, and fed them to AI, and said "give me a list of projects I can do that will have high ROI for when I decide to sell this house". It spent 15 mins doing deep research, then came back with a long, prioritized list. If I do all the projects, I'd be spending about $40k and it would improve the house valuation by about $90k.
+
+I can go on. There's probably dozens of stuff that I've used it for over the past year that led to massive time and money savings, and I've learned a ton as well about topics I normally would not have been exposed to or bothered to research myself. And I'm not even including all the work-related usage, both for my employer and my side business.  That would be its own very long list.
+#date
+2026-06
+#tags
+money-and-consumer, ChatGPT

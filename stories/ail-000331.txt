@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=45042312
+@ivm
+Yes, HN discussions of LLMs are quite tiresome. I make indie apps, but it has been getting worse and worse over the years, as the API surfaces and UI variety of iOS and Android have grown.
+
+Claude Code and ChatGPT brought me back to the early 2010s golden age when indies could be a one-man army. Not only code, but also for localizations, marketing. I'm even finally building some infrastructure for QA automation! And tests, lots of tests. Unimaginable for me before because I never had that bandwidth.
+
+Not to mention that they unblock me and have basically fixed a large part of my ADHD issues because I can easily kickstart whatever task or delegate the most numbing routine work to an agent.
+
+Just released a huge update of my language-learning app that I would never dreamed of without LLM assistance (lots of meticulous grammar-related work over many months) and have been getting a stream of great reviews. And all of that for only $100+20 a month – I was paying almost twice as much for Unity3d subscription a decade ago.
+#date
+2025-08
+#tags
+mental-health, technology, Claude

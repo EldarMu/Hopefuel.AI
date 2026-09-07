@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=44853936
+@iamben
+A couple of things that really helped me (Claude is my choice for coding):
+
+- add to your global settings a few lines that say something like "don't write any code until you fully understand my requirements, ask questions until you are completely clear", this mostly stops it just going ahead and writing best guess just the first time. And then,
+
+- when it looks it's going off the rails, cut your loses straight away and ask it to write a prompt for another chat. Tell it to cover everything it knows about what you're working on and what you want to do. Paste that into the new chat and get it to ask if it needs clarification (and then if needed, paste between the two chats). The new chat often solves the problem the other one was stuck on first time.
+
+Hope they help - coding with AI has made me enjoy the process once again. I'm actually completely silly projects I've always wanted to do because I can get past the blockers so much more easily.
+#date
+2025-08
+#tags
+technology, Claude

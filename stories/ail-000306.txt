@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=46544348
+@sib
+Many, many, many doctors (including at a top-rated children's hospital in the US) spent 4+ years unsuccessfully trying to diagnose a very rare disease that my younger daughter had. Scores of appointments and tests. By the time she was 13, she weighed 56 lbs (25 kg) and was barely able to walk 100 yards. Psychiatrists even tried to imply that it was all imaginary and/or that she had an eating disorder.
+
+Eventually, one super-nerdy intern walking rounds with the resident in the teaching hospital remembered a paper she had read, mentioned it during the case review, and they ran tests which confirmed it. They began a course of treatment and my daughter now lives normally (with the aid of daily medication.)
+
+I fed a bunch of the early tests and case notes to ChatGPT and it diagnosed the disease correctly in minutes.
+
+I surely wish we had had this technology a dozen years ago.
+
+(I know, the plural of anecdote is not data.)
+#date
+2026-01
+#tags
+health, family-and-relationships, ChatGPT

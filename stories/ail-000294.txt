@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=47975844
+@sleepingNomad
+Thanks! HN gave me great bug reports and feature requests. Claude helped me ship fast. 16 releases in 7 hours is a lot easier with a decent pair programmer.
+#date
+2026-05
+#tags
+technology, Claude

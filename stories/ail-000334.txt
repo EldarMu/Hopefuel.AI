@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=42381424
+@theshackleford
+Whilst i'm a little ashamed to share this, it does seem relevant. I’ve been using canvas for a while and have found it valuable for my needs.
+
+Due to medical reasons, I’m on daily medications that heavily impact my cognitive abilities. This is combined with chronic pain, which affects every aspect of my life. Thinking, energy, stress etc. This has made everything harder. In fact it was suspected/suggested at one point, that I would never return to the workforce, though luckily this did not come to pass.
+
+While I still retain my knowledge and can learn new skills, brain fog and exhaustion from my physical symptoms have made it difficult to communicate as effectively as I once did, which is particularly frustrating since communication was prior to these issues, my biggest strength. Now, I often struggle to express my ideas in a clear, digestible manner. It's very difficult to gather all my thoughts in the one place coherently for complex topics.
+
+To assist with this, I use ChatGPT with Canvas as I guess a structured editing tool. I input my content and research, organise it to the best of my ability, and ask for feedback to refine the presentation. Clarifying structure, reducing redundancy, and improving flow. I don’t ask or let it insert data about the topic itself, I ask only that it modify how my data is communicated.
+
+It’s a bittersweet solution, but I would say that it's helped me remain employed, which is important, because I have a lot of ongoing medical costs.
+#date
+2024-12
+#tags
+accessibility, ChatGPT

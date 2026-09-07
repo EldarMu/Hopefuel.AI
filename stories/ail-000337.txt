@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=42428197
+@Quinzel
+I have a kind of surprising experience with regard to this topic…
+My older son was already a teenager when LLM’s got mainstream. He has struggled with an awful combination of Tourette Disorder, ADHD and OCD which has meant he’s been pretty disconnected from school entirely since he was very young. However, when he discovered chatGPT he started using it to write formal complaints about all the teachers he didn’t like and emails those formal complaints to the school principal.
+
+The upside is that before ChatGPT he showed no interest in written communication at all and his school was genuinely concerned. Even an educational psychologist couldn’t properly assess whether he had an actual learning disability over and above his neurological conditions because instead of taking the psychometric tests he ate the papers. Just to be clear, he’s not intellectually disabled in anyway, he’s just so defiant that he blatantly refused to engage in any psychometric tests, and he stated that his IQ was his private business. Instead of being annoyed at all his letter writing, the school have taken his letters as an indication that he has some ability to read, write and comprehend, as all the letters he has written have been adapted by him to suit certain nuanced circumstances that would either require detailed prompts, or alternatively heavy editing. I have to say the school’s response to the letters has been refreshing. They wanted to see what else he might use AI to come up with, or how else he might use AI to engage in learning. His school has been allowing him to use AI to complete non-assessed school work. Everyone is so happy because he firstly started doing school work, but then, he’s also started doing some school work, without using AI now as well.
+As a parent, I think if that was the aid he needed to build his self-esteem enough for him to feel able to engage in learning then I’m all for it.
+#date
+2024-12
+#tags
+accessibility, ChatGPT

@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=39378393
+@Sakos
+Isn't it obvious? I can't have a conversation with an exercise and the solution. ChatGPT has helped me uncover gaps in my mathematical knowledge because I can ask it questions about what something means, how something was arrived at, or how it works. Sometimes proofs involve logical "jumps" that aren't immediately or intuitively obvious, or require some mathematical maturity that I otherwise wouldn't be aware of. Something I would've otherwise needed a tutor for to determine.
+#date
+2024-02
+#tags
+education, ChatGPT

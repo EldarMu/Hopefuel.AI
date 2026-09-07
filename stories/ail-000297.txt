@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=46662457
+@nanapipirara
+Claude helped me immensely getting an image converter to work. Giving it screenshots of wrong output (lots of layers had an unpredictable offsets that was not supposed to be there) and output as I expected it helped Claude understand the problems and it fixed the bugs immediately.
+#date
+2026-01
+#tags
+daily-life, Claude

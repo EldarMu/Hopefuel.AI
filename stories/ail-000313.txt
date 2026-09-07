@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=45858724
+@AuryGlenz
+ChatGPT is amazing for interpreting test results. Of course you should back it up with a doctor.
+
+Back when 3.5 came out I gave it some information about me when I was a teenager on a condition that (multiple) doctors totally misdiagnosed. It immediately told me three tests I should have done, two of which would have diagnosed it right away. Instead, I had to deal with extreme fatigue for over a decade until I finally did research on my own and had those same tests done.
+
+As far as test results go, right now we’re dealing with our dog having increased thirst. She’s been on prednisone for a year, and that’s not an uncommon side effect. We brought her in to the vet and they tested her and diagnosed in as stage one kidney disease, with no mention of the prednisone. I put those results and her details into ChatGPT and it told us it could absolutely be the prednisone, and told us we could use an inhaler for what we were using the prednisone for - chronic bronchitis. Our vet never offered than option. We’ll find out in a few months if she actually has kidney disease or not, but chances are it was just the prednisone.
+
+As a bonus, the vet before this one diagnosed her bronchitis as heart failure. They didn’t run any tests, scans, etc. Just “sorry, your dog is going to die soon.”  What a fun week that was.
+
+ChatGPT is an amazing second opinion tool. Obviously you need to ask it neutral, well formed questions.
+#date
+2025-11
+#tags
+health, animals-and-nature, ChatGPT

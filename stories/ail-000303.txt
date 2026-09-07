@@ -1,0 +1,17 @@
+https://news.ycombinator.com/item?id=48658311
+@samvher
+Interesting challenge.
+
+1 - I worked abroad and wasn't really familiar with the systems there. Gemini made me aware of a kind of pension account that I could withdraw from when I left the country netting me a few thousand dollars.
+
+2 - Working as a tech contractor, charging by deliverable, Codex/Claude Code speed me up and it doesn't seem to have significantly dropped rates in the market.
+
+3 - Also contractor related: I had Claude do a quick legal sanity check of my contracts, and it warned me of some clauses that I'd be better off removing/changing/refining. I was not aware of these nuances and would not have paid a lawyer for this as the contract was too small, but the changes were accepted by the client and reduced my risk exposure meaningfully.
+
+4 - Learning a foreign language, I use it to check my draft emails and messages. It corrects them but also serves a tutoring role providing feedback, improving both the accuracy of my communication and my rate of language acquisition.
+
+5 - Gemini Deep Research helped me narrow down tent models that met my fairly specific set of requirements. Very happy with the tent I ended up buying, from a brand that was not on my radar before.
+#date
+2026-06
+#tags
+law-and-bureaucracy, education, Claude

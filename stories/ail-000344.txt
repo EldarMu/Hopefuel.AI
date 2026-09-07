@@ -1,0 +1,21 @@
+https://community.openai.com/t/artificial-intelligence-in-medicine-my-personal-experience/822079/1
+@V.Daniel
+I want to share my experience using Artificial Intelligence in a medical case. A few weeks ago, my 11-year-old daughter began experiencing intense abdominal pain and difficulty urinating. When we took her to the hospital, the doctors detected a large tumor and immediately referred her to the oncology department. The oncologists suggested the possibility that it was a malignant tumor due to its characteristics, but a gynecology specialist, who is a friend of ours, reviewed the entire file and had a different diagnosis.
+
+With so many doubts and uncertainties, I decided to turn to artificial intelligence using all the information collected from the clinical studies. I have a system that I developed to help people with autism socialize. I made some small adjustments and input all the clinical analysis information. The advantage of my system is that it can connect to the APIs of OpenAI, Anthropic, Mistral, and Gemini, which allowed me to obtain results from several artificial intelligences. The results indicated that the gynecologist's diagnosis was the most accurate, which gave me some peace of mind by ruling out a malignant tumor.
+
+The day of the surgery arrived, and it was finally discovered that the tumor was a hematometra. Thus, both the gynecologist and the artificial intelligence were close to the final diagnosis. **I am aware of the restrictions regarding the use of artificial intelligence in medical matters**, but why not start training artificial intelligences specifically in medicine, as in the case of Med-Gemini? This could help so many children with cancer or other diseases.
+
+It is truly sad to see children receive the news that all available treatments have failed and that they only have palliative care left, to die with as little pain as possible. It is heartbreaking to witness human suffering, especially that of children.
+
+Imagine that an artificial intelligence finds the cure for cancer or another disease. That would be a monumental advance for humanity. AI would no longer be seen only as a threat but as the savior of humanity.
+
+For my part, I will talk to some doctors to investigate already diagnosed cases and compare the results with those of the artificial intelligence. This way, I can evaluate the accuracy rate of the AI and how AI can contribute to improving the work of doctors.
+
+This software was modified for this purpose. Originally, the software was created to assist people within the autism spectrum, hence the animated avatar that speaks and listens. My wife is a psychologist, and I am a software engineer. We are researching how AI can help improve the quality of life.
+
+**Note: This software is for personal, non-commercial use only, strictly for research and development purposes, never as a substitute for a healthcare professional.**
+#date
+2024-06
+#tags
+health, Gemini

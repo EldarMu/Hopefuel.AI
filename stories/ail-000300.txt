@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=46633186
+@john___matrix
+I'm now several years out of a career as a web designer and running my own retail business on Shopify and so while I've always had a background in working with devs and having a vague idea of how to plan and spec something, my previous job was design and writing HTML and CSS and I always wanted to be able to make small tools or little fun projects for me but the other parts of the project - the js, caching, api integration etc were always beyond my skillset.
+
+While I wouldn't say execution is necessarily "cheap" for everything, ChatGPT and Gemini helped me build out a little Spotify playlist generator [1] recently that scans my top 100 artists in the last 12 months then generate a playlist based on their bottom 50% of songs in terms of popularity with an option for 1 or 2 songs per artist.
+
+Sadly the Spotify API limits will never allow me to offer it to more than 25 people at a time but I get so bored of their algorithm playing me the same top songs from artists it's a fun way for me to explore "lesser lights" and something I'd have absolutely never have been able to build before, let alone spin up in a couple of evenings.
+
+It's quite liberating as a non-dev suddenly having these new tools available that's for sure.
+
+[1] https://github.com/welcomebrand/Spotify-Lesser-Lights (https://github.com/welcomebrand/Spotify-Lesser-Lights)
+#date
+2026-01
+#tags
+work, technology, Gemini

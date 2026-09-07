@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=48419105
+@jodacola
+Very similar thing this week, and an interesting story to go along with it!
+
+I called my normal HVAC company for my rental home because the tenant reported the AC wasn't cooling the house. When I called, I got one of the latest AI voice assistants to help me, and it was an awful experience and I ended up not hearing back after the assistant told me the office would call me back.
+
+So, I went over to the house and used ChatGPT to help me diagnose the issue by taking some photos of the compressor panel outside. It walked me through what to check, I provided some diagnostic codes I witnessed... and it walked me through the very simple repair of replacing the $25 capacitor. It was going to cost me almost 4x that just for the service call to diagnose what was wrong in the first place.
+
+So, the weird experience was: Gen AI made me lose trust in my normal HVAC company, and more Gen AI basically allowed me to replace my HVAC company and do the repair myself all in one day.
+#date
+2026-06
+#tags
+daily-life, ChatGPT

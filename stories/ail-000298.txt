@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=48711594
+@david-gpu
+Last week I went to a highly-specialized tertiary clinic about further treatment for a rare medical condition that I was diagnosed and treated for as a child. The two very specialized doctors I met there confirmed a diagnostic mistake that a specialist had made ten years ago. The only reason I pursued a second opinion, ten years later, was because Google Gemini had explained to me that the specialist ten years ago had performed the wrong type of test for my condition.
+
+Do these LLMs make mistakes? They sure do, I see it all the time. But they can also help people make breakthroughs.
+
+And this isn't the only time that Gemini has helped me diagnose long-term health issues, either.
+
+I am not advocating to trust anything they say blindly, but they can be a great place to form new hypotheses and learn the right terms to look for when you are unfamiliar with a subject.
+#date
+2026-06
+#tags
+health, family-and-relationships, Gemini

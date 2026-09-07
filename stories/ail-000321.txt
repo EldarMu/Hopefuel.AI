@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=48421652
+@nwhitehead
+(Spouse's story)
+
+Today I used Claude to diagnose a blocking bug in a Steam game I really wanted to play. It took it 18 mins, but it unpacked the Godot package, figured out the bug, proposed a fix, and gave me an in game workaround.
+
+I didn't have to do anything! Claude figured out the structure of the .pck file by using `strings`, then wrote some Python code with some magic Godot-specific code to unpack the specific chunks it needed.
+#date
+2026-06
+#tags
+technology, Claude

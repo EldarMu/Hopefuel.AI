@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=46815865
+@reenorap
+I and many of my friends have used ChatGPT extremely effectively to diagnose medical issues. In fact, I would say that ChatGPT is better than most doctors because most doctors don't actually listen to you. ChatGPT took the time to ask me questions and based on my answers, narrowed down a particularly scary diagnosis and gave excellent instructions on how to get to a local hospital in a foreign country, what to ask for, and that I didn't have to worry very much because it sounded very typical for what I had. The level of reassurance that I was doing everything right actually made me feel less scared, because it was a pretty serious problem. Everything it told me was 100% correct and it guided me perfectly.
+
+I was taking one high blood pressure medication but then noticed my blood sugar jumped. I did some research with ChatGPT and it found a paper that did indicate that it could raise blood sugar levels and gave me a recommendation for an alternative  I asked my doctor about it and she said I was wrong, but I gently pushed her to switch and gave the recommended medication. She obliged, which is why I have kept her for almost 30 years now, and lo and behold, my blood sugar did drop.
+
+Most people have a hard time pushing back against doctors and doctors mostly work with blinders on and don't listen. ChatGPT gives you the ability to keep asking questions without thinking you are bothering them.
+
+I think ChatGPT is a great advance in terms of medical help in my opinion and I recommend it to everyone. Yes, it might make mistakes and I caution everyone to be careful and don't trust it 100%, but I say that about human doctors as well.
+#date
+2026-01
+#tags
+health, ChatGPT

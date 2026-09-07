@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=49284885
+@nope1000
+Recently I had some crashes on my system and claude correctly diagnosed it to a broken SATA cable on my hard drive. That was really practical
+#date
+2026-08
+#tags
+daily-life, Claude

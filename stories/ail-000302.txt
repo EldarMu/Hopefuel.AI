@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=43991777
+@olalonde
+Recently, Gemini helped me fix a bug in a PPP driver (Zephyr OS) without prior knowledge of PPP or even driver development really. I would copy-paste logs of raw PPP frames in HEX and it would just decode everything and explain the meaning of each bytes. In about an hour, I knew enough about PPP to fix the bug and submit a patch.
+
+https://g.co/gemini/share/7edf8fa373fe (https://g.co/gemini/share/7edf8fa373fe)
+#date
+2025-05
+#tags
+technology, Gemini
