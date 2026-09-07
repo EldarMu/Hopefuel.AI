@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=36337778
+@TeMPOraL
+Does ChatGPT succeed at rewriting things 'compassionately' or 'more intelligently'? In my experience: yes, absolutely. I frequently find myself in situations where I need to communicate something emotionally sensitive or politically delicate at work or in my personal life, and I get stuck in analysis paralysis for hours. I know what I want to say, but I'm terrified it will come across as harsh, cold, or defensive. Now, I dump my raw, unedited, emotional thoughts into ChatGPT and ask it to rewrite the message maintaining my core points but with empathy, clarity, and diplomacy. Seeing its suggestions breaks my paralysis. I edit it into my own voice, but it gives me the emotional distance and starting structure I couldn't generate on my own.
+#date
+2023-06
+#tags
+daily-life, work, ChatGPT

@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=45135070
+@lynx97
+I refuse to use streaming services. These days, I have a local music collection with MPD. But as a blind person, I always missed out on the visual culture of music—the album covers, liner art, and packaging that sighted listeners enjoy. So I wrote a small script that takes the current playing album art and feeds it to ChatGPT Vision via API. Now, whenever an album starts playing, my screen reader speaks a vivid, detailed description of the artwork: the color palette, the typography, the surrealist paintings, or the band photography. For the first time in my life, I can appreciate the visual atmosphere of the records in my collection alongside the music.
+#date
+2025-09
+#tags
+accessibility, creative-work, ChatGPT

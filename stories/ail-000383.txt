@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=45603317
+@fiveonthefloor
+Me. After spending $250,000 on incompetent lawyers in my divorce case who have a natural conflict of interest and who get paid by the hour to do poor work, I went to pro se and used ChatGPT to represent myself. I went up against 3 lawyers and held my own. When opposing counsel realized that I knew state statutes, civil procedure, and rules of evidence, they started negotiating and lowered their settlement demand by 50%, saving me over $800,000. It took 9 months of long hours of research, reading civil procedure and statutes, but ChatGPT was the catalyst. It helped me formulate strategies and evaluate options, drafted cross-examination questions, and reviewed documents for inconsistencies. It was an equalizer.
+#date
+2025-10
+#tags
+law-and-bureaucracy, ChatGPT

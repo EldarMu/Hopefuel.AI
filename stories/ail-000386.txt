@@ -1,0 +1,7 @@
+https://community.openai.com/t/new-beta-video-feature-in-ios-voice-mode-a-gamechanger-for-the-blind-visually-impaired/1058376/1
+@kyle-reese
+I'm blind and have already found many awesome uses for ChatGPT since its launch, especially once we got image recognition. But the real-time video mode in the iOS app is on another level for daily independence. This morning I was looking for a specific pair of khaki chinos in my closet among several stacks of folded pants that all feel identical by touch. I pointed my phone camera toward the closet shelf and simply asked, 'Where are my khaki pants?' In real time, ChatGPT said: 'Tilt your camera slightly up and to the right... on the middle shelf, the third pair from the top in the left stack is the khaki chinos.' I grabbed them and they were the exact ones. For a sighted person that sounds trivial; for someone without sight, being able to find your own clothes without asking anyone for help is profound dignity.
+#date
+2024-12
+#tags
+accessibility, ChatGPT

@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=49238757
+@dreamiurg
+I've used Claude to retrieve and analyze 20 years of meteo data - wind, precipitation, snow cover, temp - for Pacific Northwest peaks. I wanted to understand alpine weather windows because bad forecasting gets people killed in the Cascades. Claude helped me write the data processing pipelines, integrate NOAA models, and build climbable.day. It's now a free community resource used by hundreds of local mountaineers every week to assess mountain safety and plan summit attempts when conditions are actually stable. Without an LLM helping me stitch together the geospatial data and meteorological APIs, I never would have had the time or capacity to build this tool for our community.
+#date
+2026-08
+#tags
+daily-life, community, Claude

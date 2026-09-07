@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=41249994
+@ericmcer
+This could be a really cool use for AI. A doctor once recommended a cortisone injection directly behind my ankle for persistent heel pain. Something felt off, so before scheduling it, I asked ChatGPT about the risks and clinical guidelines for cortisone injections in the retrocalcaneal / Achilles area. It immediately highlighted that cortisone near the Achilles tendon is strongly contraindicated in modern orthopedic literature because of a severe risk of tendon weakening and rupture. Armed with that knowledge and the medical terminology, I went to an orthopedic specialist for a second opinion. The specialist was horrified that the first doctor had offered the injection, confirming it easily could have ruptured my tendon. ChatGPT gave me the specific clinical terms I needed to advocate for my own health.
+#date
+2024-08
+#tags
+health, ChatGPT

@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=47090769
+@devinprater
+Last night, on a forked and accessible version of Termux I built with AI assistance, running Emacs and Emacspeak, I was able to write and configure a complete custom speech package using gptel-agent. As a blind person, getting a complex Unix environment working seamlessly with speech output on a mobile device used to require weeks of scouring obscure mailing lists and deciphering outdated documentation. With AI, I can troubleshoot compilation errors, adapt screen reader scripts, and build my own computing tools on my phone. Being able to independently build my own accessible developer tools without having to wait for sighted developers to build them for me has been transformative.
+#date
+2026-02
+#tags
+accessibility, ChatGPT

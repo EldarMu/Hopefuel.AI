@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=49187706
+@devinprater
+Totally blind person here. Screen readers are great when software is properly coded for accessibility, but huge swaths of the modern web and digital world simply aren't. Multimodal AI has changed that equation. When I hit a completely inaccessible web application with unlabeled buttons or image-based forms, I take a screenshot and send it to ChatGPT. It tells me exactly where the buttons are and what they say. I can even point my camera at video game menus on a console that has zero native screen reader support, and it reads the options to me in real time so I can set up audio cues and play. It is an imperfect but indispensable bridge across the accessibility gap.
+#date
+2026-08
+#tags
+accessibility, ChatGPT
