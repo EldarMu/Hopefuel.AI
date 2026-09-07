@@ -1,0 +1,7 @@
+https://x.com/French_Jim/status/2095969563393368070
+@French_Jim
+I gave grok bot access to my health insurance claims to find 2 claims that were not resubmitted properly and then write the insurance company to resubmit. It will handle the response when they write back.
+#date
+2026-09
+#tags
+money-and-consumer, health, Grok
