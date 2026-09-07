@@ -1,0 +1,7 @@
+https://x.com/themfgfellow/status/2085794828420567067
+@themfgfellow
+Had surgery in Feb, total bill was about $200k. Insurance paid 97% or so and I was going to pay my portion to UC Health. Just out of curiosity I gave the bills and the MyCigna statements to Claude. It found a number of double billings which I raised to UC Health and they removed. The bills were too complex for a person like me to analyze otherwise.
+#date
+2026-08
+#tags
+money-and-consumer, health, Claude
