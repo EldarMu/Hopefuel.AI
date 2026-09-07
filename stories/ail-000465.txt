@@ -1,0 +1,7 @@
+https://x.com/biilmann/status/1942672371363766712
+@biilmann
+At Netlify we switched from Zoom to Google Meet. In Meet you can’t share audio from outside the tab. Before AI I would just have lived with it. I opened Claude Code and asked it to make a Chrome extension that injects a Spotify embed on top of any page. Now I have it, and I’ve solved my problem. This is software that would have never been made without AI.
+#date
+2025-07
+#tags
+work, technology, Claude

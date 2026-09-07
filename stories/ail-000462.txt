@@ -1,0 +1,7 @@
+https://x.com/DavidTurturean/status/2070531663461756950
+@DavidTurturean
+I solved my 3rd Erdős problem, #870, with ChatGPT-5.5-Pro, then verified it by formalizing the whole proof in Lean 4, sorry-free and axiom-free. About 180,000 lines of Lean code.
+#date
+2026-06
+#tags
+education, technology, ChatGPT

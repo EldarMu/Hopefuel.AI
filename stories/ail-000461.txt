@@ -1,0 +1,7 @@
+https://x.com/lostinnews/status/2071758458517668015
+@lostinnews
+I had a problem with libzim, dealing with about 5000 scripts, some Kotlin, some Java, some TypeScript. Grok was stumped for a week. ChatGPT solved my problem in an afternoon.
+#date
+2026-06
+#tags
+technology, ChatGPT, Grok

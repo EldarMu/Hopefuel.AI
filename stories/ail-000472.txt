@@ -1,0 +1,7 @@
+https://x.com/haider1/status/1927803461896147242
+@haider1
+The new version of DeepSeek R1 is just incredible at coding. I run a coding challenge where the model builds a word scoring system. It reasoned briefly and then gave me two files: clean code and working tests. Both ran perfectly on the first try. Best model I’ve tested on this task.
+#date
+2025-05
+#tags
+technology, DeepSeek
