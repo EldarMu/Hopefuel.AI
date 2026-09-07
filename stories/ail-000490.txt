@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=48428551
+@Gareth321
+I’m kind of amazed when I read comments like this, but I have to remind myself that I work in an industry which use these tools at the cutting edge and see what they can really do. In the space of 18 months I changed from skeptic to the belief that our world is going to RAPIDLY change, and soon.
+
+I sense that statistics and benchmarks and research and statements from the world’s greatest academics won’t sway you, so maybe I’ll give you a personal anecdote. I have suffered from a condition my whole life called bile acid malabsorption. It caused chronic diarrhoea, pain, arthritis, dehydration, insomnia, and more. I spent decades searching for an answer. Dozens of different tests. Eventually doctors just said I was depressed and prescribed me antidepressants. They didn’t help. On the bad days I considered ending my life.
+
+In desperation I turned to ChatGPT. Over months I described my symptoms, triggers, diet, timing, etc. We “sparred” with each other over assumptions and ideas. I gave it all my medical history. All the tests. Eventually it concluded that BAM was likely (plus another few options). So I pushed my doctor for a specialist referral. The specialist agreed to a scan based on the symptoms. It was confirmed. I’ve been taking some cheap medication each day now and it has changed my life.
+
+I know others for whom ChatGPT has changed their lives in similar ways. Research shows LLMs are better than doctors already in many cases at diagnosis. They are improving at an exponential rate.
+#date
+2026-06
+#tags
+health, ChatGPT

@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=48136798
+@atonse
+I have a similar claude story (much less money though), with the IRS R&D tax credit. The auditing firm initially said we qualify for $0. But then I had claude analyze past R&D reports and our expenses and it found the problem. The auditor had miscategorized our company.
+
+So claude drafted an email even pointing to the right Internal Revenue Code (IRS Law), and specify why we fall under a specific category. The auditor got back to me two days later admitting their mistake and said our company now qualifies for $8k in tax credits. And a few months ago, it identified items in our AWS that saved us $250 a month (paying for itself).
+
+So now I joke that even if I have a claude max plan, I've still come out ahead financially.
+#date
+2026-05
+#tags
+law-and-bureaucracy, money-and-consumer, Claude

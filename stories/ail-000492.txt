@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=46572229
+@al_borland
+My dad used ChatGPT to guide him through testing, diagnosis, preparation, and recovery from a quadruple bypass. He never mentioned it refusing to talk about anything, just about how indispensable it was in the process and saved him months of time over skipping it and relying on the medical system alone, without help.
+
+For example, it told him to go out and get a test on his own before meeting with a certain specialist, so the specialist didn’t order it during the first meeting and then need to wait for a follow up after reviewing it. He did this, gave the results to ChatGPT, which sounded the alarm. He sent a message with the results to his doctor and his appointment with the specialist was moved up to the same week, instead of 3 months out.
+#date
+2026-01
+#tags
+health, family-and-relationships, ChatGPT

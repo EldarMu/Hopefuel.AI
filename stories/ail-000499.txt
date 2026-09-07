@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=46148722
+@rtp4me
+You and I must be using very different versions of Claude.  As an infra/systems guy (non-coder), the ability for me to develop some powerful tools simply by leveraging Claude has been nothing short of amazing.  I started using Claude about 8 months ago and have since created about 20 tools ranging from simple USB detection scripts (for secure erasing SSDs) to complex tools like an Azure File Manager and a production-ready data migration tool (Azure to Snowflake).  Yes, I know bash and some Python, but Claude has really helped me create tools that would have taken many weeks/months to build using the right technology stack.  I am happy to pay for the Claude Max plan; it has returned huge dividends to my productivity.
+
+And, maybe that is the difference.  Non coders can use AI to help build MVPs and tooling they could otherwise not do (or take a long time to get done).  On the other hand, professional coders see this as an intrusion to their domain, become very skeptical because it does not write code "their way" or introduces some bugs, and push back hard.
+#date
+2025-12
+#tags
+work, technology, Claude

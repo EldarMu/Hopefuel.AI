@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=48348703
+@basket_horse
+I used Claude extensively during an internal hackweek at my company to prototype a new data analysis application. Probably would have never attempted the project without AI. Now it’s in production with more than 20k weekly users. Almost never use Claude to dev on it now, but it definitely helped me get off the ground.
+#date
+2026-05
+#tags
+work, Claude

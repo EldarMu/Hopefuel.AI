@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=46534623
+@qgin
+I help take care of my 80-ish year old mother. ChatGPT figured out in 5 minutes the reason behind a pretty serious chronic problem that her very good doctors hadn't been able to figure out in 3 years. Her doctors came around to the possibility, tested out the hypothesis, and it was 100% right. She's doing great now (at least with that one thing).
+
+That's not to say that it's better than doctors or even that it's a good way to address every condition. But there are definitely situations where these models can take in more information than any one doctor has the time to absorb in a 12-minute appointment and consider possibilities across silos and specialties in a way that is difficult to find otherwise.
+#date
+2026-01
+#tags
+health, family-and-relationships, ChatGPT

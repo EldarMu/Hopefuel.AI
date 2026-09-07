@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=46537752
+@SkyPuncher
+I’m married to a doctor. We both complain about the medical system. It’s terrible.  One of my biggest complaints is doctors seem to have no clue how to get symptoms out of patients in a way that translates to diagnosis.
+
+I’ve had longstanding GI issues. I have no idea how to describe my symptoms. They sure seem like a lot of things, so I bring that list to my doc and I’m met with “eh, sounds weird”.
+
+By contrast, I solved my issues via a few sessions with Claude. I was able to rattle off a whole list of symptoms, details about how it’s progressed, diets I’ve tried, recent incidents, supplements/meds I’ve taken. It comes up with hypothesis, research references, and forum discussions (forums are so useful for understanding - even if they can be dangerously wrong). We dive into the science of those leading causes to understand the biochemistry involved. That leads to a really deep understanding of what we can test.
+
+Turns out there’s a very clear correlation with histamine levels and the issues I deal with. I realize a bunched stuff that I thought was healthy (and is for most people) is probably destroying my health. I cut those out and my GI issues have literally disappeared. Massively, massive life improvement with a relatively simple intervention (primarily just avoiding chicken and eggs).
+
+I tell my doctor this and it’s just a blank stare “interesting”.
+#date
+2026-01
+#tags
+health, Claude

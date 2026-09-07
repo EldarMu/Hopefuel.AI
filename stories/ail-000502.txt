@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=44166758
+@homieg33
+Just yesterday I fixed a broken wireless N64 controller receiver with the help of ChatGPT. I tried looking for YouTube videos, but didn’t find the exact thing I needed, and since I’m such a newbie I needed a lot of hand holding.
+
+Anyways, I took pictures of the components and described what I was seeing. It walked me through things really well and asked me to do tests and report back. It even told me how to use my specific multimeter after I took a picture of it. I ended up soldering a jumper cable from the console power supply line (not working) to the micro usb power line (working).
+
+It actually works now and really saved me 30 bucks buying a new controller.
+#date
+2025-06
+#tags
+daily-life, money-and-consumer, ChatGPT

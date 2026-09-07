@@ -1,0 +1,8 @@
+https://news.ycombinator.com/item?id=44234855
+@world2vec
+I used ChatGPT Project folders extensively to deal with my landlord and the rental contract due to problems with the windows. Things went from the landlord saying "maybe they'll be fixed in 2 years if you extend your contract" to "I've called a contractor and am waiting on a quote, should be done in a couple months". 
+I'm not well versed in UK law or how to speak/write "properly" nor have the fortitude to parse long contracts and laws, ChatGPT handled it well enough for me to get what I wanted.
+#date
+2025-06
+#tags
+law-and-bureaucracy, ChatGPT

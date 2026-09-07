@@ -1,0 +1,35 @@
+https://news.ycombinator.com/item?id=46638363
+@spaceman_2020
+I just used Claude Code to do something that would have taken my wife 3+ days
+
+She has to go through about 100 resumes for a position at her college. Each resume is essentially a form the candidate filled out and lists their detailed academic scores from high school > PhD, their work experience, research and publications.
+
+Based on the declared data, candidates are scored by the system
+
+Now this is India and there's a decent amount of fraud, so an individual has to manually check the claimed experience/scores/publications against reality
+
+A candidate might claim to have relevant experience, but the college might be unaccredited, or the claimed salary might be way too low for a relevant academic position. Or they might claim to have published in XYZ journal, but the journal itself might be a fraudulent pay-to-publish thing
+
+Going through 100+ resumes, each 4 pages long is a nightmare of a task. And boring too.
+
+--
+
+So I asked Claude Code to figure out the problem. I gave it a PDF with the scoring guidelines, a sample resume, and asked it to figure out the problem
+
+Without me telling it, it figured out a plan that involved checking a college's accredition and rating (the govt maintains a rating for all colleges), the claimed salary vs actual median salary for that position (too low is a red flag), and whether the claimed publication is in either the SCOPUS index or a govt approved publications index
+
+(I emphasize govt approved because this is in a govt backed institution)
+
+Then I gave it access to a folder with all the 100 resumes.
+
+In less than 30 minutes, it evaluated all candidates and added the evaluation to a CSV file. I asked it to make it more readable, so it made a HTML page with data from all the candidates and red/green/yellow flags about their work-experience, publications, and employment
+
+It made a prioritized list of the most promising candidates based on this data
+
+My wife double checked because she still "doesn't trust AI", but all her verification almost 100% matched Claude's conclusions
+
+This was a 3 day, grinding task done in 30 minutes. And all I did was type into a terminal for 20 minutes
+#date
+2026-01
+#tags
+family-and-relationships, work, Claude

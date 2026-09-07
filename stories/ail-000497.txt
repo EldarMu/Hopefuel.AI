@@ -1,0 +1,17 @@
+https://news.ycombinator.com/item?id=47987505
+@charliebwrites
+Anecdata, sample size of one:
+
+When I was looking for my next role after being laid off, I didn’t get much of a response with my human handmade resume despite my experience
+
+Just for kicks, I asked ChatGPT to “Analyze my resume and give it a score for what percentage it was in” then I asked it to revise it to make it score as high as possible
+
+I still tweaked and fact checked it but after I started sending that out, I got a much higher hit rate than before
+
+But who knows, maybe the market changed, was a better time of year, etc
+
+I still had to pass interviews and prove my worth. But it probably helped me get my foot in the door
+#date
+2026-05
+#tags
+work, ChatGPT

@@ -1,0 +1,31 @@
+https://news.ycombinator.com/item?id=45449712
+@delaminator
+I am a single Dev in an SME. I have been programming for 45 years.
+
+I look after a mishmash of systems of 30 years of people coming and going.
+
+We have windows batch files, java, python, talend scripts, a delphi database with a subset of SQL (DBISAM), powershell.
+
+We have manual processes all around us - people have this as part of their job "copy this data from this spreadsheet to that spreadsheet and then save it with this specific name".
+
+All typical.
+
+Claude has been a game changer. I can instruct it : look at this {batch file, java, python} and write the C# equivalent. Then make it a Windows Service with a web front end liveboard.
+
+And while it is doing that I can open another instance and move on to the next one.
+
+I didn't even know C# a year ago. I adopted it because one of our suppliers uses it and we needed to know they could step in if something happened to me. I spend 6 months doing it all manually so I'm not just vibing.
+
+I'm building software I simply would not bother doing - C# Avalonia GUI programs - 100s of lines of axaml I just wouldn't begin to take on.
+
+I've done an entire ODBC SQL client for connecting to our data sources and I can customize it to do whatever I need to that one wouldn't put in a general purpose ODBC program like 'if you see a filename.parquet in a duckdb script without a path, prepend p:parquets to it'
+
+I have to use Windows in the workplace. It's like having a proper OS like plan9 at my disposal and doing dev in Acme.
+
+My output is accelerating daily as I learn better prompting techniques and writing scripts to use while doing it.
+
+It has brought back the joy
+#date
+2025-10
+#tags
+work, technology, Claude

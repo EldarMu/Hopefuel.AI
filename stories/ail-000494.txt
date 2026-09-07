@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=48417845
+@andrewthornton
+My furnace went out during the 2025 holiday and I couldn't get an appointment with a repair person for 2 days. It was getting very cold in my house so I went into my attic and made several videos of the furnace attempting to start and gave it to gemini. It diagnosed the issue immediately and had me spin one of the components (a small exhaust fan) while the furnace tried to fire. It came on immediately. I had to do that several times, but it worked until the HVAC service showed up.
+#date
+2026-06
+#tags
+daily-life, Gemini

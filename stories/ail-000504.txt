@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=44085356
+@mbac32768
+I took my kid to an ER with an emergency medical issue and the three specialists had no fucking idea what to do and were going to plan a treatment that wouldn't have helped while he died. Meanwhile we asked ChatGPT while we were beside him in bed, feeling doomed about the ventilator they were preparing for him what it could be and it identified the actual thing that was killing him and we pointed it out to them and they stopped everything and treated him for that thing instead and he was released the next morning and fully recovered.
+
+The median doctor is probably worse than an LLM at this point.
+#date
+2025-05
+#tags
+health, family-and-relationships, ChatGPT

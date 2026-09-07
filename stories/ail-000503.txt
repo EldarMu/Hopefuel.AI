@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=48434979
+@burnto
+I had received four very different bids for a home repair project. Just wildly different itemization breakdowns, costs, timelines, scopes, even formats. Opus helped me turn it into an apples-apples comparison, filled in missing areas with reasonable inferences based on the other bids, provided a nice pdf I printed to review with my partner, even offered suggested key questions for follow up calls. It really clarified the advantages of one of the bids.
+
+I use it professionally all the time and could cite technical scenarios where it’s become almost indispensable, but saving me time and money and reducing stress on this mundane stuff… now imagine applying to people’s stressors: job searches, health, big purchases, debt… there’s an opportunity to actually make people’s lives better. After 30 years of hype cycles, I should be wary of techno-optimism. But here I am feeling cautiously optimistic anyway.
+#date
+2026-06
+#tags
+money-and-consumer, daily-life, Claude

@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=45491494
+@lachlan_gray
+They have helped me a lot with chunking tasks, and guiding me through tasks that I can't hold in focus.
+
+There's a prompt I used while moving out, where I had claude ask me questions, what is in each room. And then once we had this item list, organizing it.
+#date
+2025-10
+#tags
+accessibility, daily-life, Claude

@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=48710917
+@chpatrick
+I recently had a pretty bad injury and out of curiosity I asked Gemini what it thought based on some CT scan slice images (and no other information). Surprisingly it came to exactly the same diagnosis and treatment plan as my doctors, but the big advantage is that I could ask it follow up questions any time, whereas the doctors barely explained anything.
+#date
+2026-06
+#tags
+health, Gemini

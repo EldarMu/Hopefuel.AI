@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=47495428
+@matheusmoreira
+I don't know. Claude helped me implement a ton of features I had been procrastinating for months in a matter of days. I'm implementing features in my project faster than I can blog about them. It definitely manifested as a huge commit spike.
+
+And it's not like I'm blindly commiting LLM output. I often write everything myself because I want to understand what I'm doing. Claude often comments that my version is better and cleaner. It's just that the tasks seemed so monumental I felt paralyzed and had difficulty even starting. Claude broke things down into manageable steps that were easy to do. Having a code review partner was also invaluable for a solo hobbyist like me.
+#date
+2026-03
+#tags
+accessibility, work, Claude

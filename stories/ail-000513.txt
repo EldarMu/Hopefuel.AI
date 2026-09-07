@@ -1,0 +1,15 @@
+https://news.ycombinator.com/item?id=36303506
+@RecycledEle
+Before ChatGPT, I was not good enough at some things to earn certification in them. Cisco and Adobe Creative Cloud come to mind.
+
+Now when I run into a certification objective that baffles me, I ask ChatGPT. It gives me (typically) a full-page that explains what I need to know (theory) and where to click in the program (practice) to make it work. In the full-page, there is usually 1 omitted partial-step. It might say "click on X" without saying that X is under the Y sub-menu.
+
+Keep in mind that before ChatGPT, I would have been totally lost on what that objective even meant.
+
+ChatGPT has helped me earn 3 Adobe CC certifications this year, and will soon help me earn a 4th.
+
+Then I might go back and take another crack at Cisco certification.
+#date
+2023-06
+#tags
+education, ChatGPT
