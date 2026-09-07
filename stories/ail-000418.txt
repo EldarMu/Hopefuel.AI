@@ -1,0 +1,7 @@
+https://x.com/majimagic1/status/2096042656337985683
+@majimagic1
+My wife put the office PC we connect to our TV to 3D mode. Spent like 3 hours messing around trying to fix it until Grok helped me find some registry files to delete while plugged into a different monitor.
+#date
+2026-09
+#tags
+technology, daily-life, Grok

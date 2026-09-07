@@ -1,0 +1,7 @@
+https://x.com/Christo377011/status/2006868422336926145
+@Christo377011
+I was in Baylor Scott & White hospital Irving, TX, and was about to be released with an incorrect diagnosis. I showed an MRI from five years ago to Grok which proved the diagnosis was wrong. I discovered this myself, but no one was listening to me because I couldn't explain it clearly while presenting with stroke-like symptoms. Grok examined the MRI results, agreed with me, and helped me write the email. The email worked. My primary care physician agreed that the diagnosis of an inner ear problem causing vertigo was incorrect. There is narrowing in my cervical spinal canal that's causing nerve damage similar to myelinolysis, and a recent small stroke in my right cerebellum. If Grok hadn't helped me write the email, I would have been sent home with anti-vertigo meds that would have proved useless.
+#date
+2026-01
+#tags
+health, Grok
