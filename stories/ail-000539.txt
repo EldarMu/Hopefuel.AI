@@ -1,0 +1,9 @@
+https://www.reddit.com/r/ChatGPT/comments/1rdeqx0/comment/o74k12f/
+@Ur-Best-Friend
+I use LLMs for work a ton, easily 1-2 hours per day, it's invaluable in IT if you use it right.
+
+Most practical example recently: We had a subtle VPN security problem where disabled contractor accounts were still authenticating under certain conditions. I spent half a day banging my head against the wall. Fed the NPS RADIUS policies and AD group configurations to the model, and it pointed out an obscure 10-year-old dial-in permission attribute that overrode the network policy server block rules. Fixed a critical vulnerability in 20 minutes that could have taken days to trace.
+#date
+2026-02
+#tags
+technology, work, Unspecified AI

@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ClaudeAI/comments/1ukkrs0/claude_feels_like_cheating/
+@PhysicalLevel4260
+Claude feels like cheating
+
+I am a 42-year-old stay-at-home mom with zero background in computer science or programming. I've always had an idea for a cozy puzzle adventure game for my kids, but creating software always felt like an impossible closed door.
+
+With Claude (Sonnet 3.5 / Claude Code), I've built a fully functioning, multi-level 2D game in Godot. Claude guided me through engine architecture, wrote GDScript modules, taught me how signals work, and helped build an in-game visual level editor so I can design and test puzzles visually without touching code. 
+
+Seeing my kids play and laugh at a video game that I envisioned and built is one of the most empowering feelings of my life.
+#date
+2026-07
+#tags
+creative-work, education, technology, Claude

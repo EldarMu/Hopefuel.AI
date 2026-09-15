@@ -1,0 +1,13 @@
+https://www.reddit.com/r/PE_Exam/comments/1k2z2ed/chatgpt_helped_me_pass_the_pe_exam_8_weeks_of/
+@alphabetsoup_420
+ChatGPT helped me pass the PE exam (8 weeks of studying)
+
+Just found out I passed the Civil PE (Transportation) on my first attempt after 8 weeks of intensive studying. 
+
+I work full time and couldn't afford a $1,500 review course. Instead, I used GPT-4o as my personalized tutor every single night. Whenever I was stuck on a practice problem or couldn't understand the AASHTO Green Book or HCM manual provisions, I'd give ChatGPT the problem, the reference equations, and ask it to break down the underlying engineering concepts and theory step by step.
+
+It was patient, never got frustrated when I asked "why" 10 times in a row, and gave intuitive real-world metaphors that finally made tricky horizontal curve and pavement design mechanics click. If you use it to understand the principles rather than just blindly looking for answers, it's an incredible study partner.
+#date
+2025-04
+#tags
+education, work, ChatGPT, GPT-4o

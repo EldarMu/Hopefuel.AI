@@ -1,0 +1,11 @@
+https://www.reddit.com/r/ChatGPT/comments/1kypl62/comment/mv0tb3j/
+@Mickthebrain
+I spent 12 days amassing jpegs via microfiche computer in the Washington DC public library. My project is to reprint the daily local newspaper columns from the 1930s and 1940s. 
+
+Standard OCR completely choked on the aged, three-column newspaper scans, introducing hundreds of typos per page. Transcribing by hand was taking 30+ minutes per column. 
+
+With ChatGPT vision, I feed it the high-res crop and it transcribes the entire archaic font with near-perfect accuracy in about 15 seconds, preserving formatting and correcting for faded ink. It turned an impossible multi-year slog into an active, daily historical publication project.
+#date
+2025-05
+#tags
+creative-work, education, technology, ChatGPT

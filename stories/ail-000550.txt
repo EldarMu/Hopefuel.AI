@@ -1,0 +1,13 @@
+https://www.reddit.com/r/amazoneero/comments/1vwiz5b/longlived_connections_getting_interrupted_all_at/
+@codesujal
+Long-lived connections getting interrupted all at once across network
+
+After the 7.16.2 update, my network has become unstable for long-lived connections. Think of long-lived socket connections that last for minutes at a time (SSH sessions, database connections, IoT telemetry). Every 8 minutes, all persistent TCP connections across the entire network would reset simultaneously.
+
+I worked with Claude Code to write a Python diagnostic script with asynchronous TCP sockets testing connection lifetimes, latency spikes, and keep-alive probes across different subnets. 
+
+The script provided concrete, timestamped, reproducible packet trace evidence proving that the router gateway was aggressively dropping idle TCP states. I submitted the test script and diagnostic logs to Eero senior engineering support. They escalated the bug, rolled back the faulty firmware update, and confirmed a fix in the subsequent patch release. Network is rock solid now!
+#date
+2026-08
+#tags
+technology, daily-life, community, Claude

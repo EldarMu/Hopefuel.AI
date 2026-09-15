@@ -1,0 +1,15 @@
+https://www.reddit.com/r/ChatGPT/comments/1k846lm/chatgpt_helped_me_find_a_song_i_hadnt_heard_in_20/
+@kosk11348
+ChatGPT helped me find a song I hadn't heard in 20 years with almost zero concrete information
+
+For two decades, I had this fragment of a melancholic indie song stuck in my head from the early 2000s. I didn't know the artist, the title, or any exact lyrics—just the general instrumentation (acoustic guitar with sparse synthesizer), that the singer had a frail high-pitched male voice, and a rough memory of the album art having muted pastel colors.
+
+I spent years typing vague queries into Google, SoundHound, forums, and Reddit to no avail. 
+
+I gave ChatGPT a brain dump of everything I remembered: the vague melody progression, the era (2002-2006), the emotional vibe, and the fact that it sounded like a mix of Bright Eyes and The Postal Service. After 3 back-and-forth guesses, it asked: "Could it be the artist Okay (Marty Anderson) and the song 'Give Up' from the album High Road?"
+
+I pulled it up on YouTube and instantly broke down crying. That was it. Twenty years of searching solved in under 5 minutes.
+#date
+2025-04
+#tags
+creative-work, daily-life, ChatGPT

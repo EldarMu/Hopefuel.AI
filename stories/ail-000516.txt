@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=48420135
+@hparadiz
+Been using it to manage an estate and just being able to shove all the documents right into an LLM and have it spit back out perfectly worded emails as well as keep track of check lists of things I need to do with an automatically create a ledger for me in sheets. It's been a huge mental load off and I've instead been able to focus better at work and the labor costs saved to me have been immense. Just on this one little thing. I'm one of those people that over thinks correspondences and letters and it ends up causing me to be stuck on something so being able to ask for just the right wording has been super helpful to me.
+#date
+2026-06
+#tags
+daily-life, law-and-bureaucracy, work, Unspecified AI

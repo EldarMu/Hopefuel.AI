@@ -1,0 +1,13 @@
+https://www.reddit.com/r/OculusQuest/comments/1wbg7uw/fix_for_not_being_able_to_launch_link_or_airlink/
+@proflopper
+!!Fix for not being able to launch link or airlink!!
+
+I had been completely locked out of using both link and airlink for over a year now, with neither virtual desktop nor steam working as well. After days of troubleshooting and endless back and forth with Meta support that went nowhere, I sat down with ChatGPT.
+
+I fed it my dxdiag logs, event viewer crash logs, and hardware specs. ChatGPT identified that my laptop's integrated AMD Radeon graphics was creating an unrecognized driver conflict with the Oculus runtime whenever the discrete Nvidia GPU attempted to initialize the display stream. 
+
+Following its precise instructions to configure display adapter overrides in device manager, Link and Air Link initialized instantly. After an entire year of being unable to play PC-VR, my headset works perfectly!
+#date
+2026-09
+#tags
+technology, daily-life, ChatGPT

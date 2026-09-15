@@ -1,0 +1,9 @@
+https://www.reddit.com/r/ChatGPT/comments/1rdeqx0/comment/o78x1zw/
+@Successfully-sexy_89
+I have a 2012 mini cooper. My mechanic said a I had to do a $3,000 fix to my car for a starting issue. I uploaded the repair estimate and fault codes to ChatGPT, and it told me the mechanic's diagnosis didn't align with the symptoms and suggested buying a $100 OBD2 scan tool to check wheel speed sensors first. 
+
+I bought the tool, tested the sensors as directed, and found out it was just a $40 ABS wheel speed sensor causing the computer to disable ignition. I replaced it myself watching YouTube. Car started immediately and has run with zero problems since. Saved $2,900 as a 55-year-old woman who had never worked on a car in her life!
+#date
+2026-02
+#tags
+daily-life, technology, money-and-consumer, ChatGPT

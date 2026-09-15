@@ -1,0 +1,15 @@
+https://www.reddit.com/r/GeminiAI/comments/1wdx81c/using_gemini_to_help_with_insurance_claims/
+@ObjectiveExpression3
+Using Gemini to Help with Insurance Claims
+
+I had an interesting experience using Gemini for a travel insurance claim. To sum up the issue, I planned a river cruise in Europe and suffered an unexpected medical emergency requiring cancellation. 
+
+The insurance company denied my claim twice, citing an ambiguous clause regarding pre-existing conditions and claim notification timelines. 
+
+I uploaded the entire 60-page policy document, my denial letters, and the attending physician's statement into Gemini 1.5 Pro. Gemini combed through the contract definitions and caught an explicit exception clause in subsection 4.2 that contradicted the insurer's denial reasoning. It drafted a formal, polite, legally grounded appeal citing the exact policy definitions. 
+
+Within two weeks of sending the Gemini-drafted letter, the insurer reversed their decision and issued a full reimbursement of $6,800.
+#date
+2026-09
+#tags
+law-and-bureaucracy, money-and-consumer, Gemini

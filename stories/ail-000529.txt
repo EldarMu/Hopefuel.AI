@@ -1,0 +1,9 @@
+https://www.reddit.com/r/ChatGPT/comments/1w7nv0q/comment/p7wkgxt/
+@shitty_advice_BDD
+Had some old mods that were broken because the modder stopped updating so eventually the game updates broke the mods and the game would crash on startup. 
+
+I don't know anything about programming. I fed the crash logs, scripts, and error dumps into Codex, asked it what was causing the crashes, and it pinpointed the outdated API calls in three separate armor mods. It rewrote the scripts, fixed the syntax, and gave me instructions on correcting the load order. Within 15 minutes, all three broken mods were functioning perfectly in the latest game version.
+#date
+2026-09
+#tags
+technology, creative-work, daily-life, ChatGPT

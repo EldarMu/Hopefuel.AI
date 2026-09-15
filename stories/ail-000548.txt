@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ClaudeAI/comments/1uq2m1r/i_have_depression_and_spent_a_decade_failing_to/
+@No_Society_4065
+I have depression and spent a decade failing to build an idea. AI helped me finally ship it.
+
+I've been wanting to build a social site for TV shows and movies since the early '10s. For ten years, every time I tried to learn full-stack development, depressive episodes and chronic fatigue would derail my progress, leaving dozens of abandoned Git repositories and compounding my feelings of worthlessness.
+
+Using Claude and Gemini together changed everything. I maintained the product vision, database schema design, and feature roadmaps, while AI acted as the tireless senior engineer handling the boilerplate, API routes, and React state management.
+
+Last night, after ten years of believing I would never amount to anything, I deployed the live web application to production and welcomed our first 100 users. It completely restored my belief in myself.
+#date
+2026-07
+#tags
+mental-health, accessibility, creative-work, technology, Claude, Gemini

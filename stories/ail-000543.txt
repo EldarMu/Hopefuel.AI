@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ClaudeAI/comments/1rphxvk/claude_helped_me_get_a_traffic_light_reprogrammed/
+@lennyp4
+Claude helped me get a traffic light reprogrammed
+
+There is a busy intersection near my home where the turning signal had an unnecessary 1-second dead phase that was backing up traffic for nearly half a mile during rush hour. 
+
+I took notes on the light timing cycles, fed the data into Claude, and asked it to translate my layman observations into formal municipal traffic engineering terminology citing MUTCD standards. 
+
+I submitted the formal inquiry to our city's Department of Transportation. Within a week, a traffic engineer responded, confirmed the timing fault in the controller, and updated the signal program. Traffic now flows smoothly with zero backups!
+#date
+2026-03
+#tags
+community, law-and-bureaucracy, daily-life, Claude

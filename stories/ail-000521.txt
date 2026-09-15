@@ -1,0 +1,11 @@
+https://www.reddit.com/r/ChatGPT/comments/1mgp5v9/comment/n6rci9m/
+@Aggressive-King-4170
+- Deep Research mode helped me figure out and repair a pool salt cell panel setting issue that a pool contractor couldn't diagnose after 2 visits. Saved me hundreds of dollars and endless frustration.
+
+- Had a slow leak in my radiator that 2 plumbers couldn't locate. I took close-up photos from multiple angles, fed them to ChatGPT, and it pointed out that a microscopic hairline fissure around an improper bleed plug was venting steam and dripping under pressure. Replaced the plug myself for $6. Problem solved.
+
+- A persistent computer startup glitch that 3 different IT forums couldn't fix. Detailed troubleshooting with ChatGPT isolated an obscure motherboard BIOS power-state bug conflicting with a secondary NVMe drive. Adjusted the PCIe lane power setting as suggested, and it's booted flawlessly ever since.
+#date
+2025-08
+#tags
+technology, daily-life, money-and-consumer, ChatGPT, Deep Research

@@ -1,0 +1,9 @@
+https://www.reddit.com/r/ChatGPT/comments/1rdeqx0/comment/o76ifci/
+@space_monster
+I used it (and Gemini) to win a legal battle with my strata committee, which saved me about $40k in maintenance costs that they were improperly trying to push onto lot owners. 
+
+I fed in the strata bylaws, the relevant state legislation, and 10 years of meeting minutes. The models caught procedural violations, identified statutory definitions that exempted my unit, and drafted formal legal rebuttals. The strata's legal team reviewed our submissions and completely backed down, dropping the assessment for me and two neighbors.
+#date
+2026-02
+#tags
+law-and-bureaucracy, money-and-consumer, community, ChatGPT, Gemini
