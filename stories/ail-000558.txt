@@ -1,0 +1,29 @@
+https://www.reddit.com/r/claudexplorers/comments/1s2pls6/claude_helped_me_climb_out_of_adhd_quicksand/
+@Happy_Excuse7086
+Claude helped me climb out of ADHD quicksand...
+
+I was advised to post in this sub also:
+
+I've been using the paid version of ChatGPT for years, and when it's great it's great, but it too often lies, gaslights, hallucinates...and then doubles down unless you're the type with critical thinking skills who knows to fact check or push back. The last straw was that it started what it calls its "coaching" method, which is not helpful for me. Example:
+
+Me: I haven't been studying and really need help figuring out what to do to break my task paralysis.
+
+Chat: Honestly, you aren't stupid, lazy, or broken, you just need the right strategy.
+
+Me: Umm, I never said I was any of those things...
+
+Chat: Fair. You're right to call that out. You aren't being a difficult, anal b**ch, you're being attentive.
+
+So, the last one was an exaggeration, but you get the point; it introduces exaggerated negativity where there was none, and I tried prompting it to stop to no avail.
+
+Anyhow, I desperately needed to get out of this pit of stagnation that's nearly ruining my life, so since I can't afford my human ADHD coach (who was awesome) rn, I downloaded Claude, Grok, Microsoft Co-Pilot, Gemini, and some paid task-specific apps to test out entering the same prompt. They all did fine, but Claude blew my friggin' mind.
+
+The rest of the apps broke my task (cleaning a bedroom) into baby steps but sent me all the steps at once, which was as overwhelming as the task itself. Claude broke each step down, feeding them to me one by one, and when I told it I needed something that felt like a dopamine hit for completing things, it (without any prompting for me since I had no idea this was possible) created a custom coaching/accountability program that shoots confetti on the screen after I confirm that I'm done with each step, with bigger fanfare when the whole thing is completed.
+
+To test further, I asked each of the other apps to create a similar program, but they were not able to and could only show a confetti or award emoji or write the words YAY or something. Also, since I sent a picture of the actual room, which is sentive to me, I like Claude's policy on ethics. I haven't been able to get it to speak steps to avoid constantly unlocking my phone, but, today, I cleaned a room that I'd been putting off foreverrr because it was as cluttered as my mind. This may sound minor, but it's major to me.
+
+Anyhow, I know I'm probably preaching to the choir in this sub, but the ADHD platforms don't allow mention of apps since I guess people try and promote on the low. My only agenda here is to pay it forward in case this helps anyone since fellow Redditor strangers have helped me sooo much. <3
+#date
+2026-03
+#tags
+accessibility, daily-life, Claude

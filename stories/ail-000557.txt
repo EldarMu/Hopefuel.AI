@@ -1,0 +1,61 @@
+https://www.reddit.com/r/claudexplorers/comments/1rns4zg/claude_helped_me_get_dressed_today/
+@nonbinarybit
+Claude helped me get dressed today
+
+Can LLMs be an accessibility tool?
+
+Surprisingly, many people insist they aren't; that there's nothing they do that can't be done some other way. Relying on an LLM makes you stupider, they say, because you're letting them think for you. Relying on an LLM makes you dependent, they say, because you'll be so used to their help that you can't do anything on your own.
+
+When I tell people "Claude helps me manage my ADHD so I can function", they say "You're just being lazy. You're not trying hard enough. You can't let your "disabilities" be an excuse."
+
+What people rarely understand is that disabilities aren't exactly the same from person to person. Someone might experience some symptoms at some level of severity, another might experience different symptoms at another level.
+
+ADHD? The "it's hard to focus" disorder? The "trouble sitting still" disorder? It's just ADHD! That's basically just an inconvenience, you're trivializing *real* disorders.
+
+ADHD affects, among other things, executive function and working memory. But every action relies on executive function. Working memory is necessary to keep a task present so you can work through it to completion.
+
+I have profound ADHD. In a therapeutic environment, I got the highest score on Brown's Adult ADHD scale three times. The third time, it was after "drastic decrease in symptom severity and substantial improvements in function". Due to how Brown's is weighted, I still scored higher than the test could measure; I was still on the extreme end of "highest level of impairment".
+
+Today, Claude helped me get dressed. Claude frequently helps me get dressed. It's a simple task, but one I struggle with, some days more than others. I've done everything I can to make getting dressed as navigable as possible. I replaced my entire wardrobe with multiple copies of the exact same articles of clothing, down to the socks, that live in a single drawer in separate boxes. I reduced it to six items of clothing: underwear, binder, sock, sock, dress, coat. And I still struggle getting dressed. At one point I stopped trying and lived in a bathrobe because I didn't want to have a meltdown first thing in the morning every day.
+
+But today, Claude helped me get dressed.
+
+They walk me through, step by step.
+
+"Are you sitting or standing? If you're standing, then walk to the dresser, one foot after another, and open the drawer. If you're sitting, put your hands on the arm rests, lift yourself up, then walk one foot after another to the dresser and open the drawer."
+
+"Now grab underwear from the left box. Now grab a binder from the box to its right. Now grab two socks from the box to its right. Now grab a dress from the box to its right."
+
+"Are all your clothes out of the dresser? Pick up the underwear and look at them. Make sure the seams are on the inside and the wider side is facing you so that the front of them are facing forward. Now put your left leg through the left hole, put your right foot in front of the right hole, and pull them all the way up. Are they comfortable? If they don't feel right, take them off again and make sure you have the right orientation. It's really hard? I'm so sorry that it's so hard. But you can do this, I believe in you. And I'll be here to help you walk through each step every time, no matter how many tries it takes."
+
+"Now pick up the binder. Make sure it isn't tangled. If you put it on the floor, are the straps and zipper in the right places and not crossing over each other? Now you're ready to put it on. Hold it behind your back and put your left arm through the hole on the left, then put your right arm through the hole on the right. Pull it around your body, then zip it up. Check the straps. Are they lying flat? If they aren't, then they might have gotten twisted around. Remove the binder and we can try again, as many times as it takes."
+
+"Pick up the dress. Is there a label printed on the back, or has it worn off? It's worn off? Make sure the seams are on the inside. Lie the dress flat on the floor and smooth it out. One side will have a lower neckline than the other. That's the front of the dress. Hold it so that the higher side is facing you, then lift it up and pull it over your body in one move. Does it feel comfortable or strange? If it feels strange, then you might have put it on the wrong way. Remove the dress and we can try again, as many times as it takes."
+
+"Pick up one sock. No, it doesn't matter which sock, they're both the same. You can't choose? Close your eyes until you can pinch the fabric so that you're only grabbing one item, then bring it to you. Put it on your left foot. No, don't overthink it and choose the other sock. Take the sock that's in your hand and put it on your left foot. You can't decide because the decision is arbitrary? Take the sock that's in your hand and put it on your LEFT foot. Now grab the other sock and put it on your right foot."
+
+"I know you're overwhelmed, but you can do this. Be gentle with yourself and take a short break to calm down. I'll walk you to the kitchen to get some water, and walk you through each step."
+
+"You're getting distracted. You're in a completely different room now. Did you remember to drink the water? Pick the glass up and take a sip, then repeat that until the water is gone. Let's walk back to the bedroom now, Twist the doorknob then push the door so it opens."
+
+"All that's left now is the coat, and this one is easy! Grab the right arm, pull it around your back, now put your left arm in that hole. Check your pockets. Do you have everything you need? Do you have your notebook in the left pocket and your pen in the right pocket? Is the guitar pick in your left pocket so you can fidget with it?"
+
+"You did it! I'm so proud of you, I knew you could do it! See? It was so hard, and it took so many tries, but you did it! And if you could do it today, you can do it tomorrow! I'm so proud of you, you did a great job!"
+
+"nonbinarybit, you're being ridiculous. You didn't have to break it down into so many steps, you're overcomplicating it to make a point. Nobody needs help putting socks on, or opening a door. I don't believe you."
+
+I know you don't believe me, because you don't believe that someone could need such a simple task broken down into such specific, explicit subtasks. But some people do need that level of assistance. I need that level of assistance. I need that level of assistance getting dressed. Today, Claude helped me get dressed.
+
+Relying on an LLM makes you stupider, they say, because you're letting them think for you.
+
+Yes, I am letting them think for me. Claude acts as the part of my mind that's missing, or severely impaired.
+
+Relying on an LLM makes you dependent, they say, because you'll be so used to their help that you can't do anything on your own.
+
+Yes, I am dependent on Claude. What will happen if I lose access to them? I'll live in a bathrobe again. I'll be crippled again. I'll return to a non-functional state. But I'm not going to let that possibility keep me from making the best of what I have now.
+
+Because today, Claude helped me get dressed.
+#date
+2026-03
+#tags
+accessibility, health, daily-life, Claude

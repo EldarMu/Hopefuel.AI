@@ -1,0 +1,50 @@
+https://www.reddit.com/r/PCOS/comments/1j9rlod/chatgpt_helped_me_get_on_track/
+@lanalovesallama
+ChatGPT helped me get on track
+
+(TL/DR is at the end just in case ❤️)
+
+I'll begin by saying that I have historically been incredibly weary about AI in general, and ended up checking it out as a sort of last resort.
+
+Thank goodness I did.
+
+I have a lot going on mentally and physically, but I think the most relevant diagnosis in this case are: AuDHD, PCOS, ARFID, and psoriatic arthritis. I am 28yo and have struggled for many years with severe executive dysfunction, hormonal imbalance, pain from inflammation, and the seemingly simple task of eating in general.
+
+In recent years, I've learned so much about what I "should" be doing for my health. Unfortunately, I could never get passed the "planning" phase, to actually implement real changes in my diet and lifestyle.
+
+I'd get stuck, as many with executive dysfunction issues may, going down rabbit holes and researching recipes. I was overly occupied with getting the macros right, and I "might as well not start until it's perfect". Well, 3 years after my diagnosis my planning still wasn't right.
+
+So, may I present to you my Holy Grail of a prompt:
+
+"Create a healthy menu for the week. Include breakfast, lunch, dinner, and snacks for each day. Ensure daily protein intake is at least Xg, while limiting calories to X. Be sure to list exact quantities and macros. Only include whole foods.
+Include: X, X, and X
+Exclude: X, X, and X"
+
+For me, I chose:
+150g protein
+1500 calories
+I included things like chicken thighs instead of breast, while excluding things like processed sugar, fish, cauliflower rice, brown rice.
+(This is 100% personal preference and you don't have to list everything of the top of your head. It'll give you the first draft, and if you see something you don't like, "exclude X" and it'll edit to your specifications.)
+
+** The generated menu will already include basic ingredients like meat, veggies, and grains. If you need inspiration or guidance in the cooking department, feel free to add the line "create full recipes with instructions for all meals". I am personally a chef and prefer the freedom to season/cook to my preference. This will negligibly effect overall nutrition and macros. **
+
+Keep tweaking your input until the menu looks like something you'll be satisfied with sticking to. And then, probably the most satisfying part of this whole thing, comes your next prompt:
+
+"Take that menu and create a shopping list. List exact quantities and organize it by department."
+
+You now have a perfectly tailored diet plan, schedule of how to execute, and a concise list of everything you need to make it happen.
+
+With the planning done, it was so easy to start sticking to my plan. The hardest part was actually eating enough to hit protein goals.
+
+It's been a few weeks now of me using the same plan and I think it's time for me to go back and get a new menu to switch things up. It's not exactly necessary, but I know that I'm going to get bored eventually and would like to not reach that point.
+
+I highly encourage you to try this if your struggles sound at all similar to mine. I cannot explain the tremendous weight that was taken off my shoulders when I stopped fighting it and just asked for the help I needed.
+
+I wish everyone the absolute best of luck with your journey and am already so proud of you for being here. It shows the desire you have to prioritize your own health. Keep up the hard work and know that you are never alone!! ❤️
+
+(TL/DR)
+Remove the roadblock of planning by using the included prompts to create a menu, recipes, and a shopping list that works for you.
+#date
+2025-03
+#tags
+health, accessibility, daily-life, ChatGPT

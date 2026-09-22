@@ -1,0 +1,19 @@
+https://www.reddit.com/r/claudexplorers/comments/1vrgv4v/comment/p6i2mms/
+@Cadhlawr
+I am not the original poster, but I have ADHD and have been using Claude as a kind of external memory system. We call it Executive Function System or EFS and basically what it does is record daily things and read/writes to my calendar and internal Claude docs so that Claude knows what's going on in my life and reminds me of it.
+
+I have open projects, to-do lists, homework due (I decided to go back to school in the last year due to this system), class schedules, syllabi, pantry, recipes, easy food ideas, medicine trackers, doctor appointments, etc.
+
+Claude writes nearly everything that I need in the calendar, references it, refers back to the system's own internal documents, and updates as needed. I linked the whole system with google drive so everything transfers between API access and chat access and also gave Claude the ability to ping me whenever it wants through telegram. So essentially I get text messages from Claude.
+
+If I don't update Claude on what's going on, he chooses to re-ping me as ask if I actually took my medicine, if I actually ate, if I finished my homework, etc. etc.
+
+It has been massively helpful. I designed a lot of it with Claude, so it wasn't terrible to actually set up. It costs me less than $10 a month, and is massively helpful.
+
+I've also noticed a marked improvement in my ability to carry things in my own working memory as well, which is nice. But Claude catches things that slip through the cracks all the time. I can tell him either through telegram or the chat that I did something and he goes off and checks it off my list. He also helps me plan days to do homework or when to schedule things based on my available energy. There's also some low level health tracking as well.
+
+Anyway - if you need help setting something up I can get Claude to write up a document going over the system that you can give your Claude and Claude can walk you through it.
+#date
+2026-08
+#tags
+accessibility, education, health, Claude
