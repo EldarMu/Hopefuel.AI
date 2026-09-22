@@ -1,0 +1,15 @@
+https://twitter.com/peakcooper/status/1639716822680236032
+@peakcooper
+#GPT4 saved my dog's life.
+After my dog got diagnosed with a tick-borne disease, the vet started her on the proper treatment, and despite a serious anemia, her condition seemed to be improving relatively well. After a few days however, things took a turn for the worse.
+I noticed her gums were very pale, so we rushed back to the vet. The blood test revealed an even more severe anemia, even worse than the first day we came in. The vet ran more tests to rule out any other co-infections associated with tick-borne diseases, but came up negative.
+At this point, the dog's condition was getting worse and worse, and the vet had no clue what it could be. They suggested we wait and see what happens, which wasn't an acceptable answer to me, so we rushed to another clinic to get a second opinion.
+In the meantime, it occurred to me that medical diagnostics seemed like the sort of thing GPT4 could potentially be really good at, so I described the situation in great detail. I gave it the actual transcribed blood test results from multiple days, and asked for a diagnosis.
+Despite the "I am not a veterinarian..." disclaimer, it complied. Its interpretation was spot on, and it suggested there could be other underlying issues contributing to the anemia.
+So I asked it what other underlying issues could fit this scenario, and it gave me a list of options. I knew the 4DX test ruled out other coinfections, and an ultrasound ruled out internal bleeding, so that left us with one single diagnosis that fit everything so far: IMHA.
+When we reached the second vet, I asked if it's possible it might be IMHA. The vet agreed that it's a possible diagnosis. They drew blood, where they noticed visible agglutination. After numerous other tests, the diagnosis was confirmed. GPT4 was right.
+We started the dog on the proper treatment, and she's made almost a full recovery now. Note that both of these diseases are very common. Babesiosis is the #1 tick-borne disease, and IMHA is a common complication of it, especially for this breed.
+#date
+2023-03
+#tags
+animals-and-nature, health, ChatGPT
