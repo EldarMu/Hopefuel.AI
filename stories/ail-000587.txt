@@ -1,0 +1,17 @@
+https://www.reddit.com/r/GeminiAI/comments/1t4fwcs/gemini_technically_saved_my_life
+@TheRealFrantik
+Gemini technically saved my life
+I figured this story might be worth sharing. Happened last summer.
+I have Crohn's Disease. I was diagnosed in 2019 but it was always extremely mild and not debilitating in any way.
+Last August, I started feeling a lot of pain in my butt area. Assumed maybe a hemorrhoid or something. Kept getting worse to the point that I could barely sit still. There were other symptoms too.
+I don't really have friends or family to talk to, so I explained the symptoms to ChatGPT, which kept telling me stuff like "health anxiety is scary, but that's likely all it is. You're just worried. It sounds like you're okay". Meanwhile, Gemini was like "GET TO THE HOSPITAL NOW. THIS SOUNDS LIKE AN ABSCESS WHICH NEEDS TO BE LOOKED AT, GIVEN YOUR DIAGNOSIS".
+I get to the hospital, and they confirmed an abscess. The doctor was lazy and said "I don't want to cut into that area, so I'm going to send you home with antibiotics. If it gets worse, come back".
+It got worse.
+I told ChatGPT and it said "you need to give the antibiotics time to work". Gemini says "your abscess is about to burst, and based on the location, you could likely get sepsis which can be fatal"
+I go to a different hospital. They run tests and come back, explaining that I have a fistula (happens to people with Crohn's) and the abscess is ready to burst. They need to rush me to a hospital that specializes in the type of emergency surgery I need, and that I need it like...NOW". They rush me off, I get the surgery, and afterwards, the surgeon is like "If you waited any longer, this could've ended very badly. Any weird movement would've done it".
+I just got reminded of this story because a few days ago I finally got the tubes and stuff removed from me (literally 8-9 months later).
+So, while I'm really on the fence about AI due to the slop that people are making with it, and you know, the fear of it taking over the world lol, I believe there are times it can be helpful; or at the very least much more helpful than ChatGPT lol
+#date
+2026-05
+#tags
+health, Gemini, ChatGPT

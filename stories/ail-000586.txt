@@ -1,0 +1,17 @@
+https://www.reddit.com/r/ChatGPT/comments/1sc6zf0/chatgpt_confirmed_an_error_in_my_cats_blood_panel
+@Rynide
+Chatgpt confirmed an error in my Cat's blood panel by an incompetent vet hospital and quite literally saved her life
+TL;DR: Vet reported a 2.8% RBC count and pushed for immediate euthanasia. I spent days grieving and stopped her meds. ChatGPT told me those numbers were impossible for a cat that was still jumping and eating. Re-test confirmed her level was actually 22.8%. She’s alive, and I’m never blindly trusting a vet or doctor again.
+A few months ago now, my cat (who has chronic kidney disease) had bloodwork done. The vet did her blood panel and apparently her Red Blood Cell (RBC) level was at 2.8%. They told me this was "incompatible with life" and that she was essentially a "walking ghost" only staying upright because her medication was masking the pain. They heavily pressured me to euthanize her as soon as possible.
+I am not a doctor. I didn't know what a 2.8% RBC meant, I just trusted the vet. I spent the next three days in a living hell. I took multiple days off work, unable to function. I stopped her subcu fluids and other medications at home because I wanted her to enjoy her last few moments and it was always hard and traumatizing for her. My family came over for emotional support, and to say goodbye to her.
+Even with the diagnosis my cat was acting normal. She was jumping on the couch, meowing for treats, and grooming herself. I called the vet at least 3 times explaining her activity, and they still insisted on euthanasia. They told us that she could suffer a catastrophic organ failure at any second.
+We actually scheduled euthanasia twice. We ran late because we were so distraught, and they closed before we got there. We then scheduled an at home euthanasia but then they actually cancelled on us because they read the 2.8% report and said she was "too fragile" to do at home and insisted on a hospital euthanasia.
+With her acting so normal, I started feeding her lab values into ChatGPT. I asked, "What would a cat with 2.8% RBC look like?" It told me that at 2.8%, a cat would be comatose, gasping for air, and unable to lift its head. It told me that if my cat was jumping on the couch, the 2.8% was likely a lab error. I thought that maybe I was just coping and in denial, but I had to double check.
+I went back to the vet and insisted on a retest (mind you these are not cheap, approx $300 USD). I told them I was ready to euthanize afterward if the numbers were real, but I needed to know.
+Turns out her RBC wasn't 2.8%. It’s 22.8%. The first report was a catastrophic error. Because of that mistake, I stopped her fluids for three days, which caused her kidney creatinine to spike from a 4 to an 8. I almost killed her by following the vet's advice to stop treatment.
+I am traumatized. My cat thankfully has recovered from the spike we caused all the way back down to a 4. If I hadn't used chatgpt to explain her condition compared with her actions, I would have just taken their word at face value and euthanized her. 3 years ago I believe the outcome would have been very different.
+I don't trust doctors or vets anymore. Going forward I'm going to plug every dire condition and diagnosis into chatgpt to fully understand it for myself. There are so many resources out there that chatgpt or other LLMs can access that I wouldn't be able to find on my own. It truly is a life changing treasure trove of information that can prevent situations like this.
+#date
+2026-04
+#tags
+animals-and-nature, ChatGPT

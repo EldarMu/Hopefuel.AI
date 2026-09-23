@@ -1,0 +1,7 @@
+https://www.reddit.com/r/SingleDads/comments/1i6m4f4/comment/m8elozz
+@grandall
+I’ve set up a Custom GPT with my uploaded divorce decree, so that it has all the context. Then cut&paste her messages from OFW. Sometimes I ask to summarize if I’m not in the mood to read her insults. Then I ask it what the divorce decree says about this situation. Then maybe I ask for some legal advice/strategy. Finally I prompt it to write a ‘gray rock’ response that says ‘no’. :)
+#date
+2025-01
+#tags
+family-and-relationships, ChatGPT

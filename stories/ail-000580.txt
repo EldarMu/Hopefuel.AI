@@ -1,0 +1,11 @@
+https://www.reddit.com/r/ChatGPT/comments/1kaw3cv/chatgpt_diagnosed_my_uncommon_neurologic
+@Hyrule-onicAcid
+ChatGPT diagnosed my uncommon neurologic condition in seconds after 2 ER visits and 3 Neurologists failed to. I just had neurosurgery 3 weeks ago.
+Adding to the similar stories I've been seeing in the news.
+Out of nowhere, I became seriously ill one day in December '24. I was misdiagnosed over a period of 2 months. I knew something was more seriously wrong than what the ER doctors/specialists were telling me. I was repetitively told I had viral meningitis, but never had a fever and the timeframe of symptoms was way beyond what's seen in viral meningitis. Also, I could list off about 15+ neurologic symptoms, some very scary, that were wrong with me, after being 100% fit and healthy prior. I eventually became bedbound for ~22 hours/day and disabled. I knew receiving another "migraine" medicine wasn't the answer.
+After 2 months of suffering, I used ChatGPT to input my symptoms as I figured the odd worsening of all my symptoms after being in an upright position had to be a specific sign for something. The first output was 'Spontaneous Intracranial Hypotension' (SIH) from a spinal cerebrospinal fluid leak. I begged a neurologist to order spinal and brain MRIs which were unequivocally positive for extradural CSF collections, proving the diagnosis of SIH and spinal CSF leak.
+I just had neurosurgery to fix the issue 3 weeks ago.
+#date
+2025-04
+#tags
+health, ChatGPT

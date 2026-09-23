@@ -1,0 +1,14 @@
+https://www.reddit.com/r/ClaudeAI/comments/1teuviu/using_claude_to_manage_thousands_of_iep_pages_for
+@Kiss_my_grits_kohai
+Using Claude to manage thousands of IEP pages for 1 student
+Hey
+If you have a special needs child you already know about the challenges of getting IEPs and other documentation from the school in their final version in a continuous form over a decade or more.
+I use Claude to cross reference these 1000s of pages and to get organized for meetings.
+Please share any skills you have created to better manage this workflow. I am just getting started with skills.
+I already have a huge error correcting instruction addendum for data integrity protocols maybe those are ultimately skills?
+They are things like cross checking claims against documents.
+I clicked flair but I am totally self-taught on Claude I didn’t really understand the flairs so I hope I picked the right one…
+#date
+2026-05
+#tags
+education, accessibility, Claude
