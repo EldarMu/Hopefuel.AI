@@ -1,0 +1,29 @@
+https://www.reddit.com/r/ClaudeAI/comments/1vdknii/claude_helped_me_fix_my_university_server
+@Bright-Leg8276
+Claude helped me fix my university server !!
+
+Quick context.
+
+Got shortlisted for the final round of a hackathon. One of the problem statements matched a project I'd already been building for a year, so obviously I picked that one.
+
+Now the task is to train an AI model that nowcasts and forecasts solar flares. Problem is, at 18k parameters, training takes 7+ hours on Kaggle. At 1.8M parameters, closer to 12. So I asked my college for access to their server, two NVIDIA A30s in a cluster.
+
+That's where it got messy. Server hadn't been touched in over a year. Nobody remembered the root password. It was never properly set up to begin with.
+
+So I decided to fix it myself, since I needed it and wasn't about to let it go. Reset the root password first, easy enough since it's Ubuntu and I know my way around Linux.
+
+Then the real problem started: primary-secondary setup. Primary had no GPUs. Secondary did. But no sudo on primary meant zero access to the actual GPU machine. It was also supposed to have a container system in place. It didn't. Just half-baked.
+
+And this is where Claude helped!!
+
+Got remote access, let Claude take over. It set up the entire server, properly configured the whole architecture. Had IT check it after, they were surprised at how clean the setup was (running on Opus 4.8). Ran security diagnostics, confirmed it was solid.
+
+Then, after reboot, Claude flagged a crypto miner on the system. Been frying the GPUs for over a year. I pulled timestamps just to make sure it wasn't a false flag, it wasn't, the thing was already there.
+
+Claude ran a deep scan, cleared the malware, reset the firewall, fixed everything else. College's own cybersecurity team couldn't handle it themselves, lmao.
+
+Now the server's mine to actually use, and yeah, I have the root password so I'm basically the owner now. Genuinely been a huge help. Love Claude for this.
+#date
+2026-08
+#tags
+technology, education, Claude

@@ -1,0 +1,17 @@
+https://www.reddit.com/r/GoogleGeminiAI/comments/1pgl9n9/comment/nss4i9v
+@cabbagesweetner
+Consumer rights advocate. Honestly, it's been a game changer for me when dealing with dodgy companies and their questionable terms. I've used it to confirm my consumer rights and draft emails whilst continuing to advise me of next steps at each stage.
+
+One company tried changing terms which meant the accrual of credits I had accumulated were no longer valid unless I paid an ongoing subscription. I had it research their own terms, found there was never any legal precedence for the change and it was in fact an unfair contract term. It then drafted me an email that made them swiftly back-track on their newly imposed terms, re-establish my credits
+
+I've had products replaced outside of the company's warranty period, quoting consumer protections that trumped their terms
+
+I've also managed to get out of contracts early with companies providing substandard service.
+
+It has given me the confidence to challenge companies, where I would normally have folded at first pushback.
+
+A word of caution: Gemini *really" wants to fight your corner and will go full nuclear almost immediately, if you let it. I often have to get it to tone down the emails at initial stages. Otherwise it will go for the jugular before they've had the chance to resolve.
+#date
+2025-12
+#tags
+law-and-bureaucracy, money-and-consumer, Gemini

@@ -1,0 +1,14 @@
+https://www.reddit.com/r/GoogleGeminiAI/comments/1pgl9n9/comment/nssesf0
+@SophonParticle
+I have a heat pump system installed in my house. It can be powered by electricity or gas. You set the outside temp at which the system switches from electric power to gas and vice versa. 
+
+I gave Gemini the model and also my gas and electric bill details. 
+
+It calculated the exact temp that I should set the cutover point to save the most money. 
+Electricity is cheaper but less efficient at certain temps. 
+
+This simple Gemini answer saved me a couple hundred bucks a year.
+#date
+2025-12
+#tags
+daily-life, money-and-consumer, technology, Gemini

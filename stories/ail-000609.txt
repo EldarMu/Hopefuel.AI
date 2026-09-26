@@ -1,0 +1,17 @@
+https://www.reddit.com/r/GoogleGeminiAI/comments/1pgl9n9/comment/nsxdj9b
+@SAmeowRI
+Just went on a last minute overseas trip, that included 3 hotels, 8 flights (5 of which were long haul), five countries, 4 languages.
+
+I got Gemini to:
+
+1) grab all the bookings from my Gmail and create a gem, so I could ask it anything about my trip - and shared it with my nosy family so they could ask "where is he now?" "What time is it there?" "What flight is he catching next?".
+
+2) told it what I was doing at each country, and it built a list of key words to learn. Then plugged that list into a new chat, with instructions to be a language tutor, and it taught me the words and correct pronunciation, following up with simple pretend conversations. 
+
+3) went to a couple of museums, so I got it to do deep research on the facts that tour guides don't mention, and create a walking itinerary for me. When I was there, using headphones and live mode, I walked around the whole place while it acted as a much more detailed tour guide, answering all my questions and directing me on where to go next, to avoid wasting time with things that weren't important to me. 
+
+4) as this trip circled the planet, I got Gemini to create an extremely detailed plan to avoid jet lag. It had all my flight info, plus connections etc. from Gmail. It told me what meals to order (when to have carbs or protein), when to drink tea, energy drinks, melatonin, wear sunglasses, turn lights on / off, when to work, when to watch movies, when to listen to different types of music, what meals to skip, what time to wake up / go to bed for a couple of days before and after each flight (looking at my Google calendar to work around other meetings) etc. Jet lag always sucks - but it was so much more relevant than a paid app I used to use, and dramatically improved my speed of recovery.
+#date
+2025-12
+#tags
+education, health, daily-life, Gemini
