@@ -1,0 +1,11 @@
+https://www.reddit.com/r/ClaudeAI/comments/1s6r359/comment/od4wm8f
+@Mescallan
+I ported loggr.info (offline smart journal) to swift and replaced the LLM inference with traditional NLP techniques. I've been building the app for about 2 years now, in December I was messing around with pre-filter techniques to reduce tokens sent to the LLM, which was around 8 minutes of inference per journal entry. After testing a few techniques I realized I didn't actually need to send anything to the LLM and could get the same structured data using an ensemble of different methods.
+
+Once I realized that I spent a week spec-ing and prepping for a swift port, then two months basically re building the whole project from scratch to take advantage of Apples neural engine. Inference went from ~8 minutes with a 4b local LLM to ~180ms/sentence (avg journal entry is around 5-6 seconds). That allowed me to completely redesign the user experience so they can make corrections (which the system learns from) as they type instead of correct an entry after all processing is complete.
+
+I've been working on it since before coding LLMs were really a thing, but Claude really unlocked the upper ceiling of the project in a way that would have easily taken me a few more years of work to learn how to do.
+#date
+2026-03
+#tags
+creative-work, technology, daily-life, Claude

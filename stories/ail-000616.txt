@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ClaudeAI/comments/1s6r359/comment/od688qz
+@DenziiX
+Very niche imo but:
+
+I am doing a Reverse Engineering Project for a GameCube game and built scripts that orchestrate the AI in the Assembly and Assembly matching, it is connected to the Ghidra CLI so it has access to that too.
+
+It’s impressive how good Opus is at that. If I have a empty .c file and the .o file of the original file, it decompiles the file to a very big percentage, based on size of the file.
+
+But decompilation is a long and very iterative process. It consumes tokens like a vacuum BUT since Copilot is based on Request rather than usage, I built scripts that will make the AI iterate over and over until it hits 100% Assembly matching. I once had over 30 Million Tokens consumed but it still costs me 3 premium requests, that’s a equivalent to one Opus Prompt. I don’t know if that will get „patched“ but decompilation hit a revolutionary level or efficiency
+#date
+2026-03
+#tags
+creative-work, technology, Claude, Copilot

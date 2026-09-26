@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ClaudeAI/comments/1s6r359/comment/od661yi
+@fishomajig
+I built Survivor-Reference, a statistical reference website for the reality TV show Survivor. It was my first big project with AI; I'd never worked with Claude. I shipped it about 4 weeks after the idea first entered my brain.
+
+The concept: let's bring pro sports statistical rigor — and the user experience of sites like Baseball-Reference — to Survivor.
+
+It launched the morning of the latest episode. Within 36 hours: 25K pageviews, around 4K users in 47 countries!
+
+Im super proud of it. And glad I could make something useful for the Survivor community. Check it out! https://survivor-reference.com
+#date
+2026-03
+#tags
+community, creative-work, technology, Claude

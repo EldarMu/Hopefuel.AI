@@ -1,0 +1,29 @@
+https://www.reddit.com/r/ClaudeAI/comments/1s6r359/comment/od6fmit
+@AlanMyThoughts
+I built a real-time public transit tracker/middleware that covers 11 cities across Malaysia.
+
+The middleware aggregates official government GTFS data into a single API with real-time bus/train positions, route planning, fare calculator, departure schedules, and an AI chatbot that queries live transit data using function calling (13 internal tools, up to 10 chained tool rounds per question).
+
+Some specifics:
+
+∙ It currently covers 11 Malaysian cities, with multi-provider support.
+
+∙ Shape-based arrival predictions that are 40-60% more accurate than straight-line distance calculations.
+
+∙ Fare calculator across multiple providers with different pricing models depending on the area (distance-based, staged, zone-based).
+
+∙ Inter-area journey planner with multimodal hub transfers (bus → train → ferry).
+
+∙ Full PWA. Installable, offline shell, cached map tiles.
+
+∙ Developer portal with Stripe subscriptions for API access.
+
+∙ The whole thing runs on a €12.60/month VPS.
+
+The part in the app I like the most is the live map view. You open the app, pick a city, and see every bus and train moving in real-time on the map. Tap on a vehicle and it shows you the route, the stops, and the departure schedules of that route. It’s the thing that makes people go “wait, you built this?” (no joke, someone did literally ask me this) because it looks and feels like something a transit agency would ship, not a solo builder on a cheap VPS.
+
+All built with Claude Code (Opus 4.6) as the main orchestrator and builder, and Codex (GPT 5.4) as the reviewer. Yes, not Claude alone. The two-agent pattern is what kept a project this size from falling apart. And gotta admit, this project was quite a hugeeee undertaking.
+#date
+2026-03
+#tags
+community, daily-life, technology, Claude Code, Codex

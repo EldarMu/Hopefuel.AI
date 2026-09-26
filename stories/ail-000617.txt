@@ -1,0 +1,15 @@
+https://www.reddit.com/r/ClaudeAI/comments/1s6r359/comment/od4z5qv
+@satyricom
+I work in a vocational program and have an ever growing list of data points I assess students on for progress reports. Filling out these reports took me many many hours per class to fill out. Most of that was just copying and pasting assessment data points into a Google doc for, along with names, Homeroom, marking period, etc.
+
+I realized each field was just separate data, and there was a frustrating amount of redundancy, and scrolling through a document for the data, copy and paste that line into a form template for each student.
+
+I used ChatGPT initially to build a new system, I am refining it with Claude. I basically learned how to make all these different databases and use scripts within Google Sheets to create an app to fill in all the fields more efficiently.
+
+I went from around 3 hours a class to make these progress reports to completing in about 1/2 hour.
+
+Ironically, it took me a whole weekend to initially implement this, which I probably could’ve finished my reports with, but I now save time for more important things in my day.
+#date
+2026-03
+#tags
+education, work, technology, ChatGPT, Claude

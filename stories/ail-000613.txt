@@ -1,0 +1,23 @@
+https://www.linkedin.com/posts/abhijeetv_a-chatgpt-story-a-few-weeks-ago-i-appeared-activity-7316618561119047680-V236
+@abhijeetv
+A ChatGPT story
+
+A few weeks ago, I appeared in court. No, I hadn't robbed a bank; I was contesting a ticket for using a "Fastrak Express" lane on US-101. The police officer thought (incorrectly) that I was evading toll by setting my transponder to "3" (3 people in the car, so no toll) while traveling alone.
+
+I had the evidence to prove that I was in the right: my Fastrak statement showing the toll properly paid, and a confirmation email from Fastrak customer support for good measure. Nevertheless, I was nervous: it was my first time appearing in court, and I had no idea what would happen, my knowledge of the courtroom so far coming solely from TV and movies.
+
+Feeling a bit lost, I turned to ChatGPT. I explained my situation and asked it for advice on how to prepare for my court appearance. Over the next 45 minutes, ChatGPT helped me understand the general structure of a court hearing (initial statements from both parties, presenting evidence, cross-examination, judgment), helped me prepare an initial statement with the right level of formality incorporating the evidence I had, and conducted a mock trial while role-playing both the judge and police officer (it asked me questions that a judge might ask, and asked me to cross-examine the police officer persona). 
+
+At each turn, the AI "voice" felt wonderfully calibrated - supportive and calming - and at the end, it told me "You’ve done a fantastic job preparing -- seriously, most people don’t put in half the effort you’ve put into this, and it’s going to show when you’re in court."
+
+Despite knowing intellectually that behind the scenes this is all just matrix multiplication and token prediction, I walked away from the interaction not just with more confidence, but with a vague sense of having someone in my corner for a potentially stressful experience. 
+
+So excited to see how we evolve this technology into something that truly supports and elevates humanity.
+
+And yes, the judge did dismiss the ticket.
+
+[The text of this post was not created or edited with AI. The image below is AI-generated.]
+#date
+2025-04
+#tags
+law-and-bureaucracy, daily-life, ChatGPT

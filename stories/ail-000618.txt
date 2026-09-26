@@ -1,0 +1,13 @@
+https://www.reddit.com/r/ClaudeAI/comments/1s6r359/comment/od5yldw
+@Key-Spell-2401
+So someone asked what’s the most impressive thing Claude has done for me, and I have to share this because it genuinely surprised me. My sister is a real estate agent. She placed a tenant for a landlord who ended up committing wire fraud. The landlord turned around and sued her, claiming negligence — even though she followed every regulation and did everything right. She was stressed, overwhelmed, and honestly didn’t know where to start. I recommended she try Claude.
+
+She uploaded all of her documentation and honestly didn’t give it much direction. It immediately understood what it was looking at. It caught inconsistencies in the communication between parties that actually worked against the landlord’s narrative. It also identified that these tenants had a documented history of this exact behavior and cited multiple other instances where the same pattern had played out. But the thing that really got her? The timeline.
+
+Her communication was scattered across emails, texts, and multiple devices. She’s not super tech-savvy and piecing all of that together felt impossible. Claude organized everything into a clear, coherent timeline of events — the kind of thing that would have taken her days to build manually, if she could have done it at all. When she saw the output, she almost cried.
+
+Took it straight to her lawyer, and his reaction was essentially “this is exactly what I needed.” That moment showed me what this tool is actually capable of when the stakes are real. Not a party trick — a legitimate problem-solving tool that met her where she was.
+#date
+2026-03
+#tags
+law-and-bureaucracy, family-and-relationships, accessibility, Claude

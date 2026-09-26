@@ -1,0 +1,9 @@
+https://www.reddit.com/r/ClaudeAI/comments/1s6r359/comment/od4y1bo
+@trentonite
+Just got into 3d printing. Claude took an image input as reference and output python code that I used to generate the model. It wasn't perfect but it was a 90% match. Very cool.
+
+That was the unique one. It also helped me find a memory leak in an app I've been chasing down for some time now. Thx Jean Claude.
+#date
+2026-03
+#tags
+creative-work, technology, daily-life, Claude
