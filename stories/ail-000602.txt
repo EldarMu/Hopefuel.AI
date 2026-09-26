@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=48419330
+@syx
+I couldn’t make a Rockbox (the alternative iPod OS) simulator run on my MacBook M2 no matter how many guides I followed, then I fired up Claude code and by modifying the original source code it made the simulator run and I was able to start developing custom plugins for my iPod. It honestly felt great since I only have basic C knowledge.
+#date
+2026-06
+#tags
+technology, creative-work, education, Claude Code

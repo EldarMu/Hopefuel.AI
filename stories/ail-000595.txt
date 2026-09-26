@@ -1,0 +1,13 @@
+https://news.ycombinator.com/item?id=48419523
+@AussieWog93
+Literally just last night I have Claude Code the following prompt, verbatim:
+
+"Whenever I launch Kodi on my Chromecast 4k, it crashes.  I think this is related to a plugin or skin.  It goes away for a bit if I clear cache but will eventually come back.  Can you connect to the device via adb (I've run adb connect already), and debug exactly where it's crashing? Once you've done that, propose a solution.  If this requires downloading, fixing, rebuilding and then uploading the broken extension via adb, don't be shy.  I should have Android dev tools (Gradle etc.) on this Mac."
+
+Lo and behold, without human intervention, it pinpointed the crash, downloaded the Kodi source, patched out a bug that had existed since 2016, recompiled it, signed it, then pushed it to my Chromecast all while carefully making sure to keep all my settings intact.
+
+Got it to make a PR too (which is as of this moment unpublished; going to test more over the coming weeks).
+#date
+2026-06
+#tags
+technology, daily-life, Claude Code

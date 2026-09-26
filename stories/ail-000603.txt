@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=48424083
+@ianberdin
+When playing busy Dota 2 (realtime game), it was crashing sometimes. I asked Claude Code any advice (without any hope) and it debugged somehow that I have unstable IP address and a rented VPS server will improve my connection. I could not believe, it worked…
+#date
+2026-06
+#tags
+technology, daily-life, Claude Code

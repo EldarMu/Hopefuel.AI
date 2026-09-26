@@ -1,0 +1,21 @@
+https://news.ycombinator.com/item?id=48425989
+@dddw
+This week.
+
+Have been playing and testing with openrouter, claude gemini for years.
+
+Small program here, bash script there, ansible playbook.
+
+Fine, nothing I cant do, but saves some time boilerplating. It needs quite some steering.
+
+This week i took my mediawiki from 2005 (actually submitted as my artschool thesis). Which was of totally outdated.
+
+In 20 years time i always said to myself, i should restore it, and do all the upgrade steps. Tedious work, and very fault prone.
+
+In 1 hour chern with 1 plan, in 8 steps i had a running and up to dat version.
+
+I'm still not convinced AI is intelligent, but it's definitely not stupid, that's for sure.
+#date
+2026-06
+#tags
+creative-work, technology, Claude, Gemini, OpenRouter

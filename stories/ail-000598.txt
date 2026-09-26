@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=48426496
+@adamkf
+I'll give you two:
+
+The first was when I first realized that I could tell codex to use gdb to debug a core dump. This was about a year ago, so it made a bunch of incorrect theories, but it enabled me to go much further than I would have been able to go by myself. I eventually solved the problem.
+
+The second was when I decided to ask it about my Linux Wi-Fi issue that I had been having for several years. The computer would infrequently have multi second pings and dropped packets, then go back to normal. I thought it was due to the weak signal, but after describing the problem to codex, it immediately disabled power management on the Wi-Fi interface (this is a desktop computer, so I don't care much for that anyway) and the problem has never come back. I had been dealing with this for years, and I had tried searching for a solution before, but codex just solved it directly.
+#date
+2026-06
+#tags
+technology, daily-life, Codex

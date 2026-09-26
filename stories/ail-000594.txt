@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=48419364
+@takee
+I was working on a science experiment (electromagnetics) with my 10-year-old kid that was going to be demonstrated at a science fair in his school. We ran into a hiccup with the experiment that we couldn't debug ourselves. I turned on Gemini live video call to help us root cause the problem. It was able to clearly articulate all the possible issues and eventually was successful in making our apparatus work as expected. Turned out the wire that I was wrapping around the screw had some insulation that was not scraped off well on the side it was connecting to the battery. Gemini was able to capture this detail even though my bare eyes could not. My kid and 2 of his friends were impressed not just by the experiment, but because the live audio/video back and forth we had with the AI was almost magical!
+#date
+2026-06
+#tags
+family-and-relationships, education, technology, Gemini

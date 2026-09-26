@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=48418483
+@jasondigitized
+First time using Claude Code I was rather impressed by how quickly I was able to build out a website with Vue and Supabase.  Cool.  So.......I always wanted to create a iOS app but knew nothing about Objective C or Swift or XCode.  "I wonder if Claude Code can build a iOS app for me?".
+
+I went from 0-to-1 and shipped a podcast player into the AppStore in 2 weeks.  Not a simulated app on XCode.....literally a fully approved app on the AppStore.  Claude Code walked me through installing XCode all the way through to running a final audit on the app so I wouldn't get flagged during review.  Mind blown.
+#date
+2026-06
+#tags
+creative-work, education, technology, Claude Code

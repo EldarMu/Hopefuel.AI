@@ -1,0 +1,7 @@
+https://news.ycombinator.com/item?id=48509471
+@itstriz
+Another home improvement example for me: my washing machine stopped spinning. I looked online for the machine manual but couldn't find it with basic search. I had ChatGPT Pro search for the repair manual (for service technicians) and help me troubleshoot my problem. It found a PDF of the manual somewhere and pointed me in the right direction to start diagnosing. Between reading the manual and prompting for extra help, I was able to pinpoint the area of the issue, and found that a belt had come off from a wobbly pulley wheel. Tightened up the wheel, put the belt back on and fixed it (at least for now).
+#date
+2026-06
+#tags
+daily-life, technology, ChatGPT

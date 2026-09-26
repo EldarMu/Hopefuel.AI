@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=48421806
+@notthetup
+Had some unique concert audio recordings which had gotten corrupted when I moved the files during a backup. I had tried looking at the files and trying to recover them. It felt like they had the data but no software could play them.
+
+Sat on them for 5 yrs. Finally decided to try if AI tools could help. Tool Copilot 20mins and a lot of mucking around with hex dumps. First couple of times it got a semi working solution (only first few seconds of a file were playable). Finally managed to recover all the files.
+#date
+2026-06
+#tags
+creative-work, technology, daily-life, Copilot

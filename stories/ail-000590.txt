@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=48423257
+@autonomousErwin
+I had 2 MacBook Pros. One 2024 and one 2019. The 2024 one would connect fine to the internet, the 2019 one would not.
+
+After pasting in the airportd logs of both (into ChatGPT and Gemini) it found it was down to band switching (2.4GHz and 5GHz) through some really old error code.
+
+This fixed a problem that had plagued me for >12 months. Really magical feeling it got in on first try.
+#date
+2026-06
+#tags
+technology, daily-life, ChatGPT, Gemini

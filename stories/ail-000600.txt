@@ -1,0 +1,9 @@
+https://news.ycombinator.com/item?id=48433163
+@ivanvanderbyl
+I bought a FujiFilm X-E5 recently, which is an amazing camera for size and money, but I shocked at how miserable their iOS app is. It takes several minutes per photo to transfer. The camera and phone run out of battery before a small memory card is transferred.
+
+So I got Claude to help me reverse engineer their protocol using a mixture of BT and Wifi capture tools, then built a native app in Swift that works on Mac and iOS and by disabling a bunch of on camera processing I got it to transfer a photo in about 3 seconds over wifi bridge. I’ve been able to multithread this to 3 concurrent downloads without crashing the camera.
+#date
+2026-06
+#tags
+technology, creative-work, daily-life, Claude
